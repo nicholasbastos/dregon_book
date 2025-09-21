@@ -1,0 +1,1340 @@
+%%
+%% Capítulo : Habilidades
+%%
+
+\chapter{Habilidades e Conhecimentos}
+\label{Cap:Habilidades}
+
+\section{Tipos de Habilidades}
+
+Existem 2 tipos de habilidades no sistema dragon. As habilidades de classe e as habilidades gerais. As habilidades de classe, como o nome diz, são aquelas habilidades relacionadas a alguma classe. Um personagem pode comprar uma habilidade de classe pelo custo normal se a classe do personagem e da habilidade forem as mesmas. Caso a classe do personagem seja desfavorecida em relação a classe da habilidade, ele deve pagar o dobro do custo normal para aprender tal habilidade. Finalmente, se a classe do personagem for diferente da classe da habilidade, mas não desfavorecida, então ele pode aprender aquela habilidade com um custo extra de 50\% do custo normal. Outra característica das habilidades de classe é que em sua maioria elas têm apenas um nível, concedendo um efeito fixo ou variante a certo atributo do personagem. Existem algumas habilidades de classe que podem ser compradas várias vezes, aumentando assim o bônus base concedido pela habilidade em questão.
+
+O segundo tipo de habilidade são as habilidades gerais. Essas habilidades se diferenciam pelo fato de serem compartilhadas por todas as classes, ou seja, o custo em xp para aprende-las é o mesmo independente da classe. Elas são indicadas em sua maioria por um bônus. Esse bônus é somado sempre que o personagem for realizar um teste relacionado aquela habilidade. Por exemplo, se um personagem tem a habilidade geral furtividade (+5), sempre que ele realizar um teste de furtividade ela irá jogar agilidade + o bônus da habilidade geral, no caso +5.
+
+Existem 2 jeitos de se comprar uma habilidade geral. Uma é gastando 8 de experiência (seja física, mental, ou física e mental onde ambos totalizam 8, de acordo com a habilidade), dessa forma o bônus inicial da habilidade é +3. Outra forma é gastando 4 de experiência porém o bônus inicial é de +1. A quantidade de experiência física ou mental nescessária para comprar uma habilidade varia de acordo com a habilidade e o julgamento do mestre obedecendo essas regras. Por exemplo, para comprar a habilidade geral herbalismo o personagem deve gastar 8 de xp mental. Porém a habilidade forjar exige 4 de xp mental e 4 de xp físico, ou 2 de ambos para que o personagem tenha ela com o bônus inicial igual a +1. O tempo de aprendizado é determinado pelo mestre de acordo com atributo geral acuidade. O jogador pode aumentar o bônus de uma habilidade com experiência (explicado posteriormente). 
+
+
+Existem algumas habilidades gerais sem bônus. Essas habilidades concedem ao personagem a oportunidade de realizar um teste quando normalmente não poderiam (falha automática) caso não tivessem a habilidade. Em alguns casos habilidades gerais sem bônus concedem sucesso automático ao personagem em determinadas situações. Por exemplo, um personagem com a habilidade geral sobrevivência em floresta não irá precisar realizar nenhum teste (sucesso automático) para se alimentar e achar abrigo em uma floresta. Porém o mestre pode exigir testes em determinadas situações (procurar comida e abrigo para um grupo por exemplo).
+
+Apesar das habilidades gerais não terem uma classe a elas associada, durante a criação de personagem sempre que uma classe conceder uma habilidade de classe extra para o jogador escolher, o mesmo deve escolher dentre as habilidades gerais listadas na descrição das habilidades de classe.
+
+Algumas poucas habilidades gerais são especiais, como metamorfose, armas extras, etc. Algumas habilidades especiais serão explicadas no final do capítulo.
+
+
+\section{Aumentando Habilidades Gerais}
+
+Como dito anteriormente, uma habilidade geral começa com bônus de +3 ao custo de 8 xp ou +1 ao custo de 4 de xp. Para aumentar o bônus concedido em 1 ponto o personagem deve gastar 3 pontos de xp, sendo essa experiência dividida entre xpf (xp física) e xpm (xp mental) de acordo com julgamento do mestre. Para valores acima de 10 esse valor aumenta para 6 pontos de experiência (xpf ou xpm).
+
+O limite aconselhado de bônus para uma habilidade geral é 20.
+
+\subsection{Habilidade Relacionada a Classe / Raça}
+ 
+Durante a criação de personagem, muitas raças e classes permitem ao jogador a escolha de uma habilidade relacionada a classe ou raça. Uma habilidade relacionada a classe pode ser qualquer habilidade que esteja dentro da lista das habilidades daquela classe, sendo ela geral ou não. Em outras palavras, se a classe ladrão concede ao usuário 1 habilidade de classe, então ele pode escolher comprar agilidade da fuga ou furtividade (+3) por exemplo.
+
+Uma habilidade relacionada a raça é definida de modo mais amplo de acordo com a interpretação do mestre. Na descrição da raça geralmente está escrito algumas habilidades relacionadas a mesma, porém o mestre pode dizer que uma habilidade relacionada a raça também é uma habilidade relacionada a classe naquele caso especifico. Por exemplo, o mestre pode determinar que uma habilidade de raça sedida ao jogador pode ser trocada por uma habilidade da classe guerreiro.
+
+\section{Usando e ativando habilidades}
+
+O sistema dragon permite que várias habilidades sejam usadas ao mesmo tempo sem penalidade alguma, desde que as mesmas habilidades sejam reflexivas ou instantâneas. Uma habilidade é considerada instantânea quando você não precisa usar turnos para concentra-la, perdendo apenas o seu ataque no turno de ataque. Existem habilidades instantâneas ofensivas (usadas para atacar um alvo ou causar-lhe penalidades) e defensivas(usadas para darem bônus ao usuário). Uma habilidade instantânea ofensiva não pode ser usada em conjunto com uma habilidade defensiva, e vice versa. O mestre também pode limitar a quantidade de habilidades instantâneas que podem ser usadas durante o turno de ataque para o bônus de concentração do personagem. Uma habilidade é dita reflexiva quando ela não necessita de turnos para ser usada, ou seja, ela pode ser usada em conjunto com o seu ataque ou sua defesa. 
+
+Sempre que um personagem usar uma habilidade que dure x turnos, a contagem de turnos so irá ter inicio no seu próximo turno de ataque, porém você já pode usurfruir dela imediatamente após ativa-la, ou seja, no seu turno de esquiva sequinte. Por exemplo, no inicio do seu turno de ataque você ativa uma habilidade que lhe concede bônus durante 3 turnos. No seu proximo turno de esquiva, ainda no mesmo momento de ação, a habilidade já vai te conceder o bônus, porém apenas no seu próximo turno de ataque tem inicio a contagem de turnos da mesma. 
+
+Habilidades de regeneração podem curar pontos do personagem imediatamente após sua ativação, porém sempre que uma habilidade de regenração cura pontos do personagem, o mesmo deve reduzir 1 turno da duração dessa habilidade.
+
+Algumas habilidades podem ser usadas uma ou várias vezes durante o dia. Nesses casos, o personagem pode usar a habilidade novamente quanto tiver uma noite de descanço prolongado. Isso é um atributo usado para que o mestre possa ter mais liberdade para descrever o tempo que se passa durante uma exploração por exemplo.
+
+Para ativar algumas habilidades é necessário turnos concentrar uma certa quantidade de turnos. Por exemplo, se uma habilidade precisa de 1 turno concentrando para ser executada, o personagem vai perder 2 turnos de ataque para que seu efeito tenha inicio, ou seja ele vai perder um turno de ataque concentrando e outro turno de ataque ativando-a como se a habilidade fosse uma habilidade instantânea. Veja detalhes maiores sobre turnos extras concentrando no tópico seguinte sobre tempo de concentração.
+
+Para usar várias habilidades que não são reflexivas, o personagem pode fazê-lo gastando mais PF-PM que o normal. O consumo varia de acordo com o número de habilidades usadas no mesmo turno. Esse consumo extra é de 2pm ou 1 pf para cada habilidade extra. Além disso o mestre pode (e deve) exigir um teste maior de concentração caso o personagem seja atacado. Além disso existem algumas habilidades instantâneas que dizem na sua descrição que elas não podem ser usadas em conjunto com outras habilidades.
+
+Note que mesmo podendo ativar várias habilidades instantâneas no mesmo turno, essas habilidades devem ser diferentes. Uma mesma habilidade só pode ser usada várias vezes no mesmo turno caso ela seja reflexiva ou esteja especificado na descrição da habilidade.
+
+Vale observar que as regras acima citadas para usar várias habilidades no mesmo turno não sao válidas para magias.
+
+\section{Tempo de Concentração TC}
+
+Como dito anteriormente, algumas habilidades necessitam serem concentradas durante uma certa quantia de turnos extras para que ela possa ser usada instantâneamente, gastando-se um turno de ataque no processo. Esse tempo extra de concentração é usado principalmente em magias. Apesar da explicação das magias ser no próximo capítulo, vamos falar sobre o termo Tempo de Concentração a seguir, pois algumas habilidades usam esse termo.
+
+O tempo de concentração (chamado de agora em diante por TC) diz o número de turnos nescessários para o uso da magia/habilidade. Para saber quantos turnos você deve concentrar antes de usar a magia/habilidade faça o seguinte cálculo: 
+
+Se a concentração do usuário for menor do que o TC requerido, o usuário deve concentrar uma quantidade de turnos igual ao TC dividido por 10. Em outras palavras, para uma magia/habilidade de TC 10, todo personagem com concentração menor do que 10 deve concentrar 1 turno extra para poder usar a habilidade, ou seja, gastar 1 turno concentrando e perder 1 turno de ataque para o uso efetivo da magia/habilidade. Sempre que a concentração do usuário for maior que uma dezena fechada (10,20,30 etc) reduza em 1 o tempo total de concentração da magia/habilidade. Pondo de uma forma mais simples, cada 10 pontos de concentração cede ao personagem 1 turno extra de concentração. Ou seja, para uma magia de TC20, um usuário com concentração 15 deve concentrar apenas 1 turno para pode usa-la normalmente no seu próximo turno de ataque. Um personagem com concentração 7 teria que ficar 2 turnos extras concentrando. Essa regra implica que um personagem com concentração 20, ganhe 2 turnos de concentração extra. Isso quer dizer que ele pode usar até 2 vezes magias da mesma natureza cujo TC é 10 em um único instante.
+
+A seguir algumas observações sobre concentrando magia/habilidade que usem TC:
+\begin{enumerate}
+	\item Um personagem só pode usar mais de uma magia/habilidade que use o TC, se a soma dos TCs das duas magia/habilidade sejam menores ou iguais a concentração do usuário. 
+
+	\item Um personagem só pode concentrar uma magia/habilidade que use TC ou habilidade instantânea se ele não estiver concentrando/usando uma magia/habilidade.
+
+	\item Para personagens com concentração próximo ao TC alvo, o mestre pode exigir um teste de concentração para fazer com que o personagem não gaste turno extra concentrando. Por exemplo, o personagem pode exigir um teste de concentração com Dificuldade 17 para valores de concentração entre 7 e 9.
+	
+	\item Sempre que um personagem gastar 1 turno de ataque concentrando, no próximo turno de esquiva ele recebe o bônus do atributo usado na esquiva. Esse bônus so é valido caso sua concentração seja maior que 4. O mestre pode pedir um teste de concentração caso a manobra aparar seja usada nessa ocasião para que o personagem não perca a concentração da magia.
+
+	\item Se um personagem for atacado concentrando, o mestre pode exigir um teste de concentração para que a concentração não seja quebrada. Esse teste é definido pelo mestre de acordo com a dificuldade de esquivar do golpe, quantidade de dano (se sofrido) entre outros.
+
+	\item Após concentrar os turnos extras necessários para usar uma magia/habilidade que use TC, o próximo turno de ataque deve ser gasto totalmente para usar essa magia/habilidade. Ou seja, nenhuma outra habilidade instantânea de ataque pode ser usada, apenas habilidades instantâneas de defesa ou habilidades reflexivas.
+
+\end{enumerate}
+
+
+\section{Acumulo de Bônus e Penalidades}
+Existem muitas magias, habilidades mágicas e não mágicas que concedem bônus ou penalidades aos alvos ou usuários durante um certa periodo. O mestre pode definir qual é o valor máximo permitido para um atributo ser melhorado temporariamente. O aconselhado é que o bônus e penalidade recebido por um atributo não pode passar de 20. Ou seja, um personagem com força 5 pode ter sua força aumentada até o máximo de 25 por poderes que concedam bônus temporários. Dizemos temporários por que existem habilidades reflexivias que concedem bônus só por 1 instante. Mesmo que esse limite seja definido pelo mestre, o valor mínimo de um atributo que um personagem pode ter é 1. Ou seja, se um personagem é alvo de um poder que retire 15 de força durante 5 turnos, e esse mesmo personagem tem 5 de força, sua força vai ficar 1 e não -10.
+
+Porém o mesmo poder (habilidade ou magia) não pode acumular bônus ou penalidades em um único alvo, mesmo se ela for usada por diferentes usuários. Por exemplo, peguemos o exemplo de habilidade canção da glória. Ela faz com que os aliados recebam um bônus de + 2 em destreza e espírito durante um certo número de turnos de acordo com o status do usuário. Se o usuário usar essa habilidade novamente, os aliados não ficam com bônus de + 4 em destreza e espírito, e sim com o bônus de + 2 normal da habilidade, sem acumular. Esse bônus iria aumentar somente se OUTRA habilidade DIFERENTE fosse usada para conceder bônus semelhantes.
+
+Ao sobrepor bônus e penalidades de um mesmo poder, no lugar deles se acumularem, a contagem de turnos para o termino da duração do poder volta para zero. Então voltando ao exemplo anterior, se 1 turno antes do poder da habilidade acabar o usuário usar novamente, os bônus concedidos no inicio não irão acumular, porém a contagem vai resetar para o primeiro turno. Lembre que o mesmo vale para habilidades que concedam penalidades.
+
+
+\section{Conhecimentos}
+
+Um conhecimento no sistema pode ser explicado como a capacidade de você reunir informações a respeito de algo para que aquilo lhe seja útil para a compreensão do mesmo. Falando de uma forma mais simples, um conhecimento sobre algo reflete se você conhece aquilo ou não. A intensidade da compreensão de tal assunto é dito pela sua inteligência. Para demonstrar a diferença entre conhecimento e habilidade iremos usar um exemplo simples, o da habilidade herbalismo e do conhecimento de ervas. Com a habilidade, você sabe como amassar as ervas, perceber o ponto certo de aquecimento, entre outros detalhes que exigam capacidade sua em relação a preparar as ervas. Quanto maior for sua pontuação nessa habilidade, maior sera sua capacidade de fazer essas misturas. Em relação ao conhecimento de ervas, quanto maior for sua inteligência, mais você sabe que uma determinada erva pode ser usada para criar um veneno, outra para criar uma poção, e que existe uma erva pode ser consumida como fonte de vitaminas. Você tem o conhecimento, mas não a habilidade para tratar a erva.
+
+Outro fator importante a respeito do conhecimento no sistema é que você só compra um conhecimento usando experiencia mental, ou caso o mestre deseje, o personagem pode ganhar conhecimentos gratuitamente de acordo com o andamento da campanha. 
+
+Durante a criação de personagem cada 5 pontos em consciência concede ao personagem 1 conhecimento extra.
+
+
+\subsection{Acumulando Habilidades Durante a CdP}
+
+É comun receber durante a criação de personagem, no lugar de pontos de bônus para distribuir, uma certa quantidade de habilidades/conhecimentos relacionadas a uma classe ou raça. Alguns personagem decidem concentrar seu aprendizado em apenas uma habilidade/conhecimento. Sempre que um personagem gastar 1 habilidade/conhecimento extra em uma habilidade/conhecimento que ele já possua, o bônus (quando aplicável) cedido por essa habilidade aumenta em +3. Por exemplo, um personagem tem 3 habilidades extras para escolher. Primeiramente ele escolhe a habilidade investigação, recebendo o bônus inicial de +3. Ele ainda não está satisfeito com essa pontuação, então "gasta" outra habilidade extra em investigação, para que seu bônus aumenta de +3 para +6. Com a habilidade extra restante ele pode comprar outra habilidade de classe ou habilidade geral que deseje. 
+
+Vale lembrar que o mesmo não pode ser feito para péricias, ou seja, um personagem não pode trocar péricias bélicas extras por especializações em uma única péricia bélica. 
+
+
+\section{Habilidades Desfavorecidas}
+
+Para uma classe comprar habilidades de outras classes, existe um custo extra. Esse custo é de 50\% a mais do custo normal da habilidade. Mas existem classes que são desfavorecidas em relação a outras classes, assim o custo extra é maior. Para uma classe comprar uma habilidade de uma classe desfavorecida, ele deve pagar o dobro e não somente 50\% a mais da habilidade. Por exemplo, qualquer classe de mago é classe desfavorecida para a classe guerreiro. Ou seja, se um guerreiro quer comprar uma habilidade de mago, deve pagar o dobro do custo normal da habilidade. A baixo segue uma tabela mostrando a lista das classes desfavorecidas.
+
+\begin{itemize}
+	\item Assassino/Ninja desfavorecido com : Magos (exceto mago vermelho) e Druidas.
+
+	\item Druida desfavorecido com : Soldado, Mago Vermelho, Necromante, Ladrão.
+
+	\item Eremita/Oráculo desfavorecido com : Magos, Ladrão, Soldado.
+
+	\item Guerreiro desfavorecido com : Magos, Druida.
+
+	\item Guerreiro Mago desfavorecido com : Eremita, 1 tipo de mago, Monge, Assassino, Mago Azul.
+
+	\item Ladrão desfavorecido com : Druida, Monges, Samurai, Eremita, Mago Azul.
+
+	\item Mago azul desfavorecido com : Eremita, Monge e Ninja.
+
+	\item Mago Branco desfavorecido com : Guerreiro, Ranger, Mago Negro, Necromante, Oraculo, Samurai, Monge, Assassino.
+	
+	\item Mago Negro desfavorecido com : Guerreiro, Ranger, Mago Branco, Mago Vermelho, Oraculo, Samurai, Monge, Assassino.
+	
+	\item Mago Vermelho desfavorecido com : Guerreiro, Ranger, Mago Negro, Oraculo, Samurai, Monge, Assassino.
+	
+	\item Metamago desfavorecido com : Guerreiro, Ranger, Druida, Oraculo, Samurai, Monge, Assassino.
+	
+	\item Monge desfavorecido com : Magos, Ladrão, Soldado.
+
+	\item Necromante desfavorecido com : Guerreiro, Ranger, Mago Branco, Druida, Oraculo, Samurai, Monge, Assassino.
+
+	\item Ranger desfavorecido com : Magos, exceto mago azul.
+
+	\item Samurai desfavorecido com : Ladrão, Magos (exceto mago azul).
+	
+	\item Soldier desfavorecido com : Druida, Necromante.
+	
+\end{itemize}
+
+Vale notificar que de acordo com a campanha e treinamento do personagem, o mestre pode fazer com que uma habilidade fora de sua classe possa ser comprada com o custo normal ou com o custo extra reduzido. Ou seja, de acordo com certas situações o mestre pode manipular a vontade o custo extra para se comprar habilidades fora de sua classe.
+
+Da mesma forma o mestre deve decidir se aquele personagem pode aprender aquela habilidade ou não. Por exemplo, o mestre pode liberar algumas habilidades de ladrão para um personagem guerreiro que tenha um ladrão no seu grupo, uma vez que este guerreiro está constantemente vendo habilidades de ladrão. O que o mestre não pode permitir é um personagem aprender uma habilidade de outra classe ou uma magia do "nada". Deve existir uma explicação dentro do jogo.
+
+\section{Habilidades Gerais}
+
+Como dito anteriormente, as habilidades gerais podem ser compradas pelo mesmo custo de experiência independente de classe. A seguir segue o exemplo das habilidades gerais mais usadas, e alguns detalhes sobre elas. 
+
+
+\begin{itemize}
+	\item Adestrar Animais: Com essa habilidade você pode gastar xpm para que seus familiares possam evoluir rapidamente. Mais detalhes na parte habilidades gerais especiais para uma maior descrição sobre a habilidade geral familiar. Além disso, você também pode receber bônus em certas situações quando falar com animais ou usar alguma habilidade para acalma-los. Veja essa habilidade como uma lábia que pode ser usada em animais.
+	
+	\item Avaliar equipamento: Com essa habilidade o personagem pode verificar se um determinado equipamento é falso ou não. Ele também pode dizer a quantidade certa de PR, além de poder realizar testes de inteligênca mais seu bônus em avaliar equipamentos para descrever o que um determinado equipamento desconhecido pode fazer. Mesmo em combate ele pode usar essa habilidade.
+	
+	\item Artesanato: Com essa habilidade o personagem pode construir objetos a partir de outros ou até mesmo moldar certos objetos com o auxilio de ferramentas. Essa habilidade é usada para qualquer trabalho manual simples como por exemplo marcenaria, corte e costura, cerâmica etc.
+	
+	\item Armadilhas: O personagem que tenha essa habilidade pode construir ou desfazer/detectar armadilhas. O nível da armadilha é proporcional ao nível do bônus na habilidade armadilhas. Sempre que um personagem for criar uma armadilha, o mestre deve decidir se ele irá usar sua consciência ou acuidade para testes futuros. Por exemplo, se alguem tenta identificar uma armadilha, ele deve jogar percepção contra a acuidado/consciencia mais o bônus em armadilhas do criador da mesma. O mestre também pode atribuir certos bônus quando se cria uma armadilha (ou para identificar uma). Vale lembrar que essa habilidade não concede bônus para a criação dos bens materiais necessários para se construir uma armadilha.  
+	
+	\item Alquimia: A alquimia diz sua habilidade em misturar componentes quimicos na medida correta para criar poções que não são usadas para a cura de pontos. Geralmente as poções alquimicas são usadas ofensivamente, porém existem aquelas que podem ceder bônus de atributo temporário. Para se criar uma poção o mestre deve definir uma dificuldade que deve ser alcançada em um teste de inteligência mais o bônus da habilidade. Geralmente a dificuldade de se fazer uma poção ofensiva é igual ao dano que ela causa, ou seja, para se fazer uma bomba alquimica de cause 15 de dano, o usuário deve passar em um teste de alquimia (inteligência mais bônus da habilidade) com dificuldade igual a 15. O mestre pode incluir penalidades ou bônus de acordo com as condições de criação, falta de materiais ou com o dano causado. Apenas usuários dessa habilidade podem tentar fazer poções.  
+	
+	\item Cavalgar: O personagem pode usar essa habilidade para montar em animais, sejam aquáticos, maritímos ou terrestres. Ele também pode usa-la para compensar o consumo de PF em grandes distâncias percorridas. O bônus dessa habilidade geralmente é usado para perseguições e testes similares.
+	
+	\item Computação: O personagem que tenha essa habilidade tem domínio sobre computadores, tanto na parte de hardware e software, assim como a capacidade de operar e reparar até certo grau máquinas que são controladas eletronicamente.  
+	
+	\item Correr: Essa habilidade pode ser usada em combate para fuga ou se aproximar do oponente de forma mais eficiente.
+	
+	\item Disfarce: Essa habilidade permite que o usuário falsifique objetos e altere a aparência de qualquer coisa que ele possa tocar. Essa habilidade não é magica, fazendo com que o usuário se limite com o tempo e materiais necessários para realizar o disfarce.
+	
+	\item Escalar: Usada para escalar superfícies inclinadas ou verticais. Essa habilidade não é mãgica, ou seja, mesmo com um nível absurdo nessa habilidade, um personagem não consegue escalar uma superfície totalmente lisa e inclinada sem o auxilio de equipamentos ou armas extras.
+	
+	\item Empatia: Empatia é a habilidade de intepretar os verdadeiros sentimentos de alguém. Pode ser usado para perceber se o alvo está mentindo ou não. Geralmente é usada para combater a habilidade lábia, mas pode sre usada também para motivar outras pessoas.
+	
+	\item Forjar: Usado para melhorar/recuperar os PR ou atributos de armas brancas ou armaduras. Ver mais detalhes no capítulo sobre equipamentos.
+	
+	\item Furtividade: Habilidade usada para esconder sua presença ou seus rastros.
+		
+	\item Guerra: Com essa habilidade o personagem tem a capacidade de analisar o comportamento de várias pessoas como uma ou várias unidades de combate. Pode ser usada em batalha para aumentar a penalidade cedida pela manobra ataque cordenado ou até mesmo reduzir (e até mesmo cancelar) essa penalidade. Fora de combate pode ser usada para rastrear grandes grupos ou montar estrátegias.
+
+	\item Gunsmith:	Usado para melhorar/recuperar os PR ou atributos de armas de fogo ou balas. Use as mesmas regras de criação de equipamento usadas na habilidade forjar. Ver mais detalhes no capítulo sobre equipamentos.
+	
+	\item Herbalismo: O herbalismo diz sua habilidade em misturar componentes quimicos na medida correta para criar poções que são usadas para a cura de PV, PF ou PM. Geralmente as poções herbalisticas são usadas para cura, porém existem aquelas que podem ceder bônus de atributo temporário. Para se criar uma poção o mestre deve definir uma dificuldade que deve ser alcançada em um teste de inteligência mais o bônus da habilidade. Geralmente a dificuldade de se fazer uma poção de cura é igual a quantidade de Pv que ela cura ou o dobro da quantidade de PF ou PM que ela recupera, ou seja, para se fazer um potion que cura 15 PV, o usuário deve passar em um teste de herbalismo (inteligência mais bônus da habilidade) com dificuldade igual a 15. Seguindo a explicação, para se fazer um ether que cure 10 PM, o usuário deve passar num teste de herbalismo com dificuldade 20. O mestre pode incluir penalidades ou bônus de acordo com as condições de criação, falta de materiais ou com o dano curado. Apenas usuários dessa habilidade podem tentar fazer poções.  		
+
+	\item Intimidação: Habilidade usada para manipular pessoas a partir do medo causado pelos usuários dessa habilidade.	
+	
+	\item Investigação: Essa habilidade diz o seu nível de verificação de um fato por meio de informes obtidos em diversas fontes.	
+	
+	\item Lábia: Habilidade de convencer os outros usando as palavras de forma não agressiva. Usando para negociações, mentiras etc.  
+	
+	\item Mecânica: Mede sua habilidade em operar, avaliar e reparar maquinas movidas a energia de natureza mecânica ou combustiva.
+	
+	\item Medicina: Mede sua habilidade em analisar gravidade de ferimentos, diagnóstico de doenças, condições negativas assim como tratamento de enfermidades a longo ou curto prazo (primeiro socorros). Essa habilidade é usada para recuperar os PR de uma arma extra natural.
+	
+	\item Nadar: Usada como bônus para determinar sua velocidade de locomoção em meio áquatico. Não extende o tempo que o seu personagem pode ficar submerso.
+	
+	\item Navegar: O detendor dessa habilidade pode operar veiculos de locomoção áquaticos usados para longas distâncias, como navios, abrcos e submarinos. Ele também pode se orientar facilmente com o vento ou as estrelas.
+	
+	\item Punga: Ao contrário do que a palavra sugere, o usuário de punga é o punguista, ou seja, aquele que furta objetos pequenos com destreza e habilidade sem a vítima perceber. Geralmente o usuário dessa habilidade joga destreza mais inteligência mais o bônus da habilidade contra percepção do usuário. Se passar com sucesso no teste, consegue furtar o objeto. Quando usado em batalha, o usuário deve usar agilidade e não destreza mais inteligência para somar com o bônus da habilidade.  
+	
+	\item Rastrear: Essa habilidade diz sua capacidade de perseguir um alvo que você não está vendo a partir das alterações que esse alvo fez durante seu deslocamento passado.
+	
+	\item Saltar: Diz sua capacidade de saltar. Esse bônus não pode ultrapassar força + destreza. Em batalha pode ser usado para receber certos bônus no acerto ou se aproximar mais eficientemente de inimigos.
+	
+	\item Sobrevivência: Essa habilidade concede ao usuário a habilidade de encontrar alimento, abrigo e evitar perda de PF ou outras injúrias causadas pelo ambiente. Essa habilidade pode ser usada em qualquer ambiente, onde o mestre deve decidir a dificuldade. o bônus de sobrevivência pode ser jogado com inteligência, concentração ou sabedoria. O usuário pode abdicar de uma certa quantia de seu bônus para conceder a mesma quantia a outros personagens. Por exemplo, um personagem com um bônus de +5 em sobreviência pode auxiliar outra pessoa sem habilidade a sobreviver 1 noite em uma montanha isolada de civilização. Então nessa situação ele pode realizar o teste com +3 e o outro personagem realizar o mesmo teste com +2. Existe outro tipo específico de sobrevivência, que é a sobrevivência a um local espécifico, como por exemplo sobrevivência em floresta. Essa habilidade difere da habilidade geral sobrevivência no fato de que ela não tem bônus, onde o mesmo é determinado pelo maior atributo do usuário entre sabedoria e inteligência.
+	
+	\item Tortura: Habilidade usada para causar dor retirando o mínimo de PV e PF do alvo. O usuário dessa habilidade deve jogar o bônus + destreza ou inteligência. O alvo deve jogar resistência para suportar a dor.
+
+
+\end{itemize}
+
+
+\section{Habilidades de Classe}
+
+A baixo segue a lista das habilidades de cada classe. A maioria pode ser comprada como habilidade de classe no inicio da criação do personagem. Apenas aquelas que exigem pré-requisitos não podem ser compradas, a não ser que o esse requisito seja uma habilidade que o personagem já possua. Se a habilidade tiver um custo muito grande, o mestre pode vetar a compra dessa habilidade na criação do personagem, ou permitir o complemento do custo com ponto de bônus.
+
+As habilidades gerais mostradas aqui são aquelas que a classe pode comprar como habilidade de classe durante a criação de personagem.
+
+\subsection{Guerreiro}
+
+\begin{enumerate}
+	\item Espada de Duas Mãos (8xpf): O usuário ao usar com as duas mãos, recebe um bônus de força. Consome mais PF que o normal quando usada em uma arma de porte grande ou pesado. O mestre deve decidir como será essa perda de Pf extra. O normal é que o personagem perca 1 PF a cada 2 usos dessa habilidade, ou 1 Pf para cada uso dela no caso do bônus de força ser igual ou maior do que 4. 
+
+	\item Focus em Arma (6xpf): Por 2 PF o usuário tem um bônus de /2 no dano e 2 no acerto para 1 ataque. Habilidade reflexiva.
+
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Pré-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Grito do Guerreiro (8xpf): Por concentração turnos e ao custo de 2 PF o usuário recebe um bônus de 4 na força. Habilidade instantânea. 
+	
+	\item Urro do Guerreiro (6xpf): A habilidade grito do guerreito agora concede também um bônus de 4 na defesa. Pré-requisito: Grito do Guerreiro. Requer nível físico 3 ou mais para aprender essa habilidade.
+		
+	\item Vigor(6xpf): O alvo recebe um bônus de +2 em todos os testes de resistência e seus PF e PV são aumentados em 1. Pode ser comprado até 5 vezes. Habilidade permanente.
+
+	\item Explosão da Coragem (10xpf): Por 4 PF o usuário realiza um ataque em area de raio igual a sua coragem em metros. A manobra aparar só pode ser usada para defender esse ataque quando usada com a perícia bélica escudo. Habilidade instantânea. Requer nível físico 4 ou mais para aprender essa habilidade.
+
+	\item Armadura da Vontade (10xpf): Durante 2x turnos o usuário defende com defesa total ao custo de x PF. Habilidade instantânea. 
+
+	\item Armadura da Estiga (6xpf): O custo da habilidade Armadura da Vontade é dividido pela metade. Pré-requisito: Armadura da Vontade.
+
+	\item Armadura do Herói (10xpf): Durante concentração turnos o usuário defende usando o dobro de sua defesa ao custo de 5 PF. O bônus máximo dessa habilidade é 15. Habilidade instantânea. Pré-requisito: Armadura da Vontade. O personagem deve ter no minimo nível 4 físico para aprender esta habilidade.
+
+	\item Determinação do Guerreiro(8xpf): O usuário gasta 1 PV para ativar essa habilidade durante 1 batalha. Enquanto ativa, o usuário pode aumentar o consumo dos seus PF até uma quantidade negativa igual ao bônus de sua resistência. Ou seja, um personagem com resistência 13 pode usar até o limite de -6 PF e não até 0 como o normal. Ao fim da luta o personagem desmaia por uma quantidade de horas igual ao número de PF negativos usados. Outro detalhe é que uma vez com PF negativos, ele não pode usar nenhum meio para recuperar seus PFs. Habilidade instantânea.
+
+	\item Quebra de Equipamento (10xpf): O usuário inflige dano a um equipamento do oponente ao custo de 2 PF, mas caso erre o golpe consome apenas 1 PF. Cada ponto em força causa 3 PR de dano ao equipamento do alvo. No caso do equipamento ser uma arma, o usuário realiza um ataque contra o oponente (este podendo esquivar com esquiva ou destreza) porém sem lhe causar dano. No caso do equipamento ser uma armadura, o usuario defende com a defesa máxima. O usuário deve declarar em que equipamento ele pretende usar a habilidade.  A arma do usuário também pode perder metade dos PR infligidos de acordo com a natureza da mesma (armas de corte perdem PR quando usadas por essa habilidade por exemplo). Requer nível físico 4 ou mais para aprender essa habilidade. Habilidade instantânea.
+
+	\item Defesa com a Arma (6xpf): O usuário por 1 PF, ganha um bônus de +3 para defender com a arma/escudo durante todo o turno. O bônus recebido pode ser usado em qualquer teste relativo a manobra aparar. Habilidade reflexiva.
+	
+	\item Defesa com a Arma Aprimorado (8xpf): O usuário por 2 PF, ganha um bônus de +6 para defender com a arma/escudo durante todo o turno. O bônus recebido pode ser usado em qualquer teste relativo a manobra aparar. Habilidade reflexiva. Pré-requisito: Defesa com a Arma.
+	
+	\item Grito do Demônio (8xpf,8xpm): Por x PF o usuário, com um grito, paraliza os alvos ao redor se estes não forem bem sucedidos em um teste de coragem  contra status + x do usuário. Os  alvos ficam paralizados durante 1 + falhas turnos sem poder atacar o usuário da técnica. O personagem deve ter no minimo nivel 3 físico para aprender esta habilidade. Habilidade instantânea.
+
+	\item Braver (16xpf): O usuário por 6 PF, ataca com o dobro da força (atual e não permanente) e com um bônus de +4 no acerto. Não pode ser usado em conjunto com a manobra ataques múltiplos ou contra ataque. O personagem deve ter no minimo nível 4 fisico para aprender esta habilidade. O bônus máximo concedido pela habilidade na força é de 15, ou seja, um personagem com força 20 usando essa habilidade ataca como se tivesse força 35 e não 40. Habilidade instantânea.
+
+	\item Super Braver (10xpf): O usuário por 8 PF ataca com o dobro da força (atual e não permanente) e com um bônus de +6 no acerto. O personagem deve ter no mínimo nivel 10 físico para aprender esta habilidade. Pré-requisito: Braver. Habilidade instantânea.
+
+	\item Sinergia do Héroi (6xpf): Sempre que o usuário usar uma habilidade de ataque instantânea ou reflexiva de ataque corpo a corpo e errar o golpe, o usuário perde somente metade dos PF que normalmente perderia caso acertasse o golpe. Por exemplo, caso um usuário de braver erre o golpe, ele irá perde apenas 3 PF pelo uso da habilidade. Pré-requisito: Vigor e nível físico 4 ou mais.
+
+	\item Determinação Lendária (10xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PF igual a sua coragem. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 4 ou mais para aprender essa habilidade. 
+
+		\item Ataques Múltiplos (10pxf): O usuário recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada até 4 vezes. 	
+
+	\item Flecha de Minamoto (8xpf): Por 2 PF dobre o dano causado por 1 projétil pequeno (flechas, dardos, etc). Só pode ser usado em um projétil que use a força do usuário como meio de propulsão. Habilidade reflexiva.
+	
+  	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+	
+	\item Convicção Sagrada(8xpm): bônus de +4 para testes contra habilidades de medo. Pode ser comprado até 3 vezes.
+	
+	\item Habilidade Gerais: Forjar, Cavalgar, Guerra.
+\end{enumerate}
+
+\subsection{Ladrão / Pistoleiro / Pirata}
+
+\begin{enumerate}
+
+	\item Focus em Arma (6xpf): Por 2 PF o usuário tem um bônus de 4 na destreza em 1 ataque. Habilidade reflexiva.
+
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Além disso o ataque recebe um bônus no dano de +2. Pré-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Agilidade da Fuga (8xpf): Por 2x turnos e ao custo de x PF o usuário recebe um bônus de 4 na esquiva. Habilidade instantânea.
+
+	\item Iniciativa Aprimorada (8xpf): O usuário recebe um bônus de +4 em todos os testes de iniciativa que forem realizados.
+
+	\item Iniciativa Super Aprimorada (4xpf): O bônus concedido pela habilidade Iniciativa Aprimorada aumenta em 2 pontos. Pode ser comprada até 3 vezes.
+
+	\item Reflexos do Gatuno (6xpf,6xpm): O usuário recebe um bônus de +4 em todos os testes de percepção.
+
+	\item Ataques Múltiplos (10pxf): O usuário recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada até 4 vezes. 
+
+	\item Dança da Batalha (8xpf): Por 1 PF o usuário pode reflexivamente cancelar penalidades oferecidas devido ao uso da manobra ataques múltiplos.
+	
+	\item Esquivas Múltiplas(8xpf): O usuário pode usar o bônus de esquiva para reduzir penalidades decorrente da manobra esquivas múltiplas. Requer nível físico 3 ou maior para aprender essa habilidade.	
+
+	\item Esquivas Múltiplas Melhorada(6xp): O bônus concedido pela habilidade esquivas múltiplas aumenta em +2. O bônus total não pode exceder a esquiva do usuário.
+	
+	\item Esquiva Aprimorada (8xpf): Por 1 PF o usuário recebe um bônus na esquiva de +4 para todo um turno de esquiva. Habilidade reflexiva.
+		
+	\item Ataque Concentrado(6xpf,6xpm): O usuário recebe um bônus de +2 em destreza para cada turno de ataque gasto analisando o oponente. Pode receber um bônus de no máximo o valor de sua concentração. O bônus recebido tem duração igual a inteligência do usuário. A contagem só tem inicio quando o usuário interrompe a análise sobre oponente.
+
+	\item Astúcia da Batalha(2xpf,8xpm): O usuário pode cancelar o bônus cedido pela habilidade ataque concentrado (ou similares como observar em combate) ao oponente. Deve-se fazer um teste combatido entre a percepção do usuário contra a acuidade do oponente. Para cada oponente extra, atribua uma penalidade cumulativa de -2 nesse teste. Habilidade permanente.
+	
+	\item Ataque Certeiro (8xpf): O bônus automático de uma arma branca é aumentado em +2 durante 1 hora. Custa 1 PF para ativar. Habilidade reflexiva.
+	
+	\item Super Ataque Certeiro (6xpf): O bônus cedido pela habilidade Ataque certeiro aumenta em +2. Pode ser comprado até 2 vezes.
+	
+	\item Pulo do Gato (12xpf): O usuário realiza um ataque que só pode ser desviado com a esquiva, ou seja, o oponente não pode usar a manobra aparar. Custa 2 PF por uso e só pode ser utilizada usando armas pequenas ou leves. Habilidade reflexiva.
+		
+	\item Manha da Batalha (8xpm): O usuário dessa habilidade pode fazer com que os inimigos concentrem ou desviem sua atenção para um alvo. De acordo com a situação o mestre pode exigir um teste combatido entre a manipulação do usuário e a consciência dos oponentes.
+
+	\item Esperteza(4xpm): O usuário pode usar a habilidade geral lábia para combater a habilidade geral guerra com o objetivo de anular a penalidade atribuita pela manobra ataque cordenado. Da mesma forma ele pode usar a habilidade geral lábia em prol da manobra ataque cordenado. Pré-requisito: Astúcia da Batalha e manha da batalha.
+	
+	\item Embromation (6xpf,10xpm): O usuário realiza um teste de inteligência ou sabedoria contra inteligência ou sabedoria do alvo. Caso tenha sucesso, o alvo fica confuso com as palavras do usuário e tem uma penalidade igual a inteligência do mesmo em sua jogada de esquiva. Consome 1 PF e não pode ser usada em conjunto com ataques múltiplos. Se usada recorrentemente no mesmo alvo, esse vai ganhando um bônus cumulativo de 3 no teste de inteligência/sabedoria. Habilidades instântanea.
+
+  \item Auridade (10xpm,8xpf): Gastando 1 PF reflexivamente o usuário pode se esquivar de magias usando seu atributo esquiva. O adversário deve usar destreza ou inteligência para acertar. Habilidade reflexiva.   
+
+  \item Ponto Fraco (8xpm): Antes de realizar a jogada de ataque o usuário deve declarar que está usando a habilidade ponto fraco, gastando 1 PF reflexivamente para cada golpe realizado. Se bem sucessido em seu ataque, dobre o valor usado para conceder bônus no dano por sucessos extras, assim como o limite desse dano.
+
+	\item Anti-Cobertura (8xpf,8xpm): Se bem sucedido em teste de concentração com dificuldade 14, o usuário recebe um bônus de 3 na redução obtida por penalidade no ataque usando a manobra atando em alvos específicos. Ou seja, um ataque realizado com -2 de acerto retira 5 pontos da armadura do alvo. Consome 1 PF. Habilidade reflexiva. 	
+
+	\item Flecha de Minamoto (8xpf): Por 2 PF dobre o dano causado por 1 projétil pequeno (flechas, dardos, etc). Só pode ser usado em um projétil que use a força do usuário como meio de propulsão. Habilidade reflexiva.
+
+ 	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes. 	
+
+ \item Habilidade Gerais: Furtividade, Escalar, Punga, Lábia, Navegar, Saltar, Correr, Armadilhas, Conhecimento do Submundo, Disfarce, Artesanato, Gunsmith, Investigação.
+ 
+\end{enumerate}
+ 
+ \subsection{Mago Branco}
+ 
+\begin{enumerate}
+	\item Beleza Da Cura (8xpm,10ps): O usuário recebe um bônus em magias de cura igual ao bônus de carisma. Habilidade permanente.
+ 
+	\item Auridade (10xpm,20ps): Gastando 1 PF reflexivamente o usuário pode se esquivar de magias usando seu atributo esquiva. O adversário deve usar destreza ou inteligência para acertar. Habilidade reflexiva. 
+	 
+%	\item Esquiva Aprimorada (4xpf,6xpm): por 2 PM o usuário recebe um bônus na esquiva igual ao bônus de concentração para todo um turno de esquiva. Habilidade reflexiva. Pré-requisito: Auridade.		
+		 
+	\item Mana Sagrado (10xpm,10ps): Dependendo do ambiente o usuário recupera PM 50\% mais rápido que o normal quando descansando. Ele também pode "trocar" PF por PM com algum tempo de concentração.
+ 
+	\item Transferir (8xpm): O Mago pode transferir a vontade seu PM para outra pessoa. Habilidade instantânea. Ele pode transferir uma quantidade máxima de PM igual ao seu focus. 
+ 
+	\item Sacrificio do Héroi (8xpm): O mago pode transferir a vontade seu PV para outra pessoa. Pré-requisito: Magia Héris. Habilidade instantânea.
+ 	
+	\item Converter barreira (20ps,8xpm): Com um toque, o usuário transforma uma barreira mágica em barreira física e vice-versa por 2 pm. Habilidade reflexiva.
+		
+	\item Dom da Guarda (8xpm): Sempre que o usuário criar uma barreira de proteção, seja física ou magica, a barreira recebe um bônus de +4. Pode ser comprada até 3 vezes. Habilidade permanente.
+	
+		\item Shell(20PS,8xpm): 4 PM. TC10.\newline %Amagza
+O alvo da magia recebe um bônus de + 8 em espírito. O bônus tem duração em turnos igual a concentração do usuário.
+	
+	\item Toque do Anjo (10xpm): Multiplique por 2 o tempo para calcular o quanto antigo pode ser um dano para ele poder ser curado usado magia. Por exemplo, um personagem com sabedoria 4 pode curar danos infligidos até os últimos 40 minutos. Com essa habilidade esse intervalo aumenta para 80 minutos. Pré-requisito: Héris.
+	
+	\item Abraço do Anjo (6xpm): Aumente em 1 o multiplicador da habilidade Toque do Anjo. Pré-requisito: Toque do anjo. Habilidade permanente.
+	
+	\item Convicção Sagrada(8xpm): bônus de +4 para testes contra habilidades de medo. Pode ser comprado até 3 vezes.
+
+	\item Canto da Bondade (10ps,10xpm): Por 2 PM o usuário ativa o canto da bondade reflexivamente. Durante 1 turno de esquiva sempre que um oponente atacar o usuário, ambos fazem um teste combatido de força de vontade. Caso o oponente perca no teste, ele não consegue atacar o usuário do canto da bondade nesse turno. A habilidade tem efeito antes do atacante usar qualquer habilidade de ataque. Pré-requisito: Héris.
+
+ 		\item Aura Divina(10ps,10xpm): O usuário criar um círculo magico em volta dele que tem duração igual a sua concentração em turnos. Qualquer morto vivo, criatura das trevas ou espirito atormentado que deseje ultrapassar este círculo deve passar num teste de coragem com DF 18. O usuário pode gastar 2 pm extras para aumentar essa dificuldade em 1 ponto até o máximo de sua carisma. Custa 8 pm. Habilidade instantânea. Pré-requisito: Héris.
+
+\item Benção(10xpm): Uma vez por dia o usuário pode curar uma quantidade de PM igual ao seu valor de carisma. É necessário 1 turno concentrando-se unicamente nessa habilidade. Requer nível mental mínimo de 4.	
+
+\item Amigo Espiritual(10xpm): Apos realizar uma prece com duração média de 5 minutos, o usuário da habilidade benção pode usa-la uma quantidade extras de vezes igual ao número de vezes que ele comprou a habilidade amigo espiritual. 
+
+\item Refletir (30ps,12xpm): Qualquer magia que cause dano (físico ou mágico) igual ou menor que o focus (máximo de 30) do usuário é refletida de volta para o oponente. Custa 8 PM para se levantar o espelho que dura 4 + PMs extras turnos. TC 10. O usuário deve tera magia héris e no mínimo nível mental 5 ou mais para aprender essa magia. 
+
+	\item Espelho Sagrado (10xpm): O dano e o dano limite que a magia Refletir pode suportar aumenta para em 5 pontos. Pré-requisito: Refletir.	
+	
+	\item Espelho de Tarmilla (4xpm): Para cada compra dessa habilidade o usuário pode usar a magia encorajar da luz em um alvo extra.	
+	
+	\item Voz Espiritual(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso no teste realizado contra a magia mute. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+
+ \item Esunaga (4xmp): Para cada compra da habilidade esunaga, a habilidade esuna pode cancelar 1 efeito extra.
+
+	\item Habilidades Gerais: Medicina, Rituais, Empatia, Conhecimento (Demônios, Magias, Invocações, Espíritos, Mortos-vivos), Herbalismo, Lábia.
+	
+\end{enumerate}
+
+ \subsection{Mago Negro}
+ 
+ 
+\begin{enumerate}
+
+	\item Focus Mágico(10ps,4xpm): O Usuário ganha +2 no dano quando usa uma magia de ataque. Pode ser comprada até 3 vezes. Habilidade permanente.
+ 
+ 	\item Mão Espiritual(10ps,10xpm): O usuário ataca unicamente com sua força mágica causando sab(max 15) de dano físico. Esse dano ignora armadura. Custa 2 PM. Habilidade instantânea. Essa força mágica tem alcançane igual a inteligência metros e pode realizar feitos físicos, como levantar objetos ou atacar pessoas como se tivesse uma força igual a sabedoria do usuário durante concentração turnos. Dependendo da situação o mestre pode exigir um teste de percepção para que o alvo perceba essa força invisivel o atacando, e poder se esquivar normalmente a partir de então. O usuário joga sua concentração no teste de acerto.
+ 	
+ 	\item Força Espiritual(8xpm): O usuário pode melhorar o dano causado por força espiritual na ordem de 1 PM gasto para 1 de dano melhorado. O dano extra não pode ultrapassar a sabedoria do usuário.
+ 
+ 	\item Amplificar Magia(10xpm): O usuário ganha um bônus de sabedoria no dano mágico. Habilidade reflexiva de custo 1 PM para cada 3 pontos de bônus concedido.
+ 	
+ 	\item Concentração Mágica(8xpm): O bônus ao concentrar uma magia por turnos extras aumenta em 2.
+ 	
+ 	\item Focus Elemental(10xpm): Quando o usuário ativa essa abilidade ele recebe um bônus de +2 no dano e na defesa mágica para determinado elemento durante 1 hora. Custa 4 PM para ativar. Habilidade instantânea. O usuário só pode escolher um elemento que ele tenha a habilidade mágica controle elemental.
+ 	
+ 	\item Focus Elemental Aprimorado (4xpm): O bônus concedido pela habilidade Focus Elemental aumenta em 2.
+ 	
+ 	\item Double cast(14xmp): O usuário pode soltar 2 magias de naturezas diferentes usando o maior TC das duas. O alvo defende as duas separadamente. Requer concentração 10 e nível mental mínimo 4.
+ 	
+ 	\item Triple cast(14xmp): O usuário pode soltar 3 magias de naturezas diferentes usando o maior TC das três. Requer concentração 12 e nível mental mínimo 8. Pré-requisito: Double Cast.
+
+	\item	Explosão Mágica(10 PS, 10 xpm): Sempre que o usuário realizar uma magia de ataque, ele pode gastar 4 PM extras reflexivamente para que aquela magia atinja até 3 alvos em uma área com raio igual a sabedoria em metros.
+
+	\item Sangue nos Olhos(10ps,10xpm): 2 PM. Magia instantânea.\newline
+Sempre que for atacado, o usuário dessa habilidade pode gastar 2 PM reflexivamente para impor medo no alvo fazendo assim que o mesmo não realize o ataque. Para obter sucesso o usuário deve passar em um teste de status ou sabedoria contra coragem ou espirito do alvo. O usuário pode gastar PM extras para ajudar no teste, na ordem de 1 para 1 até o valor de seu status.
+
+	\item Benção de Ramizul (14xpm): Para cada PM extra gasto ao concentrar uma magia de ataque direto, a mesma recebe +2 de bônus no dano mágico ou físico(quando aplicável). O bônus recebido não pode ultrapassar o valor de sabedoria do usuário. Dobre o custo dessa habilidade quando usado em magias de área.
+  	
+ 	\item Transmutação Mágica(12xpm): O usuario gasta 2 PM reflexivamente no momento que concentra uma magia para que ela seja considerada magia de toque. O usuário deve acertar seu oponente jogando destreza ou inteligência contra esquiva do alvo. Considere esse ataque como um projétil pequeno para fins da manobra aparar.
+  	
+ 	\item Habilidades Gerais: Guerra, Rituais, Intimidação, Conhecimento (Demônios, Magias, Invocações).
+ 
+\end{enumerate}
+ 
+ 
+  \subsection{Guerreiro Negro}
+  
+  
+\begin{enumerate}
+
+	\item Focus em Arma (6xpf): Por 2 PF o usuário tem um bônus de 4 na destreza em 1 ataque. Habilidade reflexiva.
+
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Além disso o ataque recebe um bônus no dano de +2. Pré-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Focus Mágico(8xpm): O Usuário ganha +2 no dano quando usa uma magia de ataque. Pode ser comprada até 3 vezes. Habilidade permanente.	
+ 	
+ 	\item Mão Espiritual(10ps,10xpm): O usuário ataca unicamente com sua força mágica causando sab(max 15) de dano físico. Esse dano ignora armadura. Custa 2 PM. Habilidade instantânea. Essa força mágica tem alcançane igual a inteligência metros e pode realizar feitos físicos, como levantar objetos ou atacar pessoas como se tivesse uma força igual a sabedoria do usuário durante concentração turnos. Dependendo da situação o mestre pode exigir um teste de percepção para que o alvo perceba essa força invisivel o atacando, e poder se esquivar normalmente a partir de então. O usuário joga sua concentração no teste de acerto.
+ 	
+	\item Arma Mágica(14ps,10xpf): O usuário pode conectar uma magia à sua arma corpo a corpo. Durante concentração turnos, a sua arma ganha um bônus automático igual ao bônus de dano da magia. O consumo de PM é igual ao gasto normal da magia mais 4. O dano causado é físico e recebe a propiedade elemental igual ao elemental da magia utilizada. Pode ser usada em um projétíl. Cada PM extra gasto reflexivamente concede inserir o bônus em 1 projétil a mais, até o máximo de concentração do usuário. A arma perde uma quantidade de PR igual ao bônus concedido, no caso de projéteis ele é destruido logo após seu uso. Se for usadas em seus corpo para fins da manobra lutar desarmado, o usuário pode resistir ao dano com seu espírito. Habilidade instantânea.
+
+  \item Focus em Arma Mágica(10xpm): O usuário pode aumentar o bônus concedido pela habilidade Arma Mágica gastando PM extras. Cada 2 PM gastos aumentam o bônus em 1 até o limite da sabedoria do usuário. 
+  
+  %		sugestoes de habilidades para guerreiro arcano.
+  %uma habilidade que a pessoa podesse criar balas.
+  %uma habilidade que a pessoa podesse desviar de balas usando destreza ao gasto de pm
+  %uma habilidade tipo arma magica, mas que bombe a arma no lugar do projetil.
+  %do jeito que ta a pessoa pode fazer um pistoleiro arcano, mas, tem q fazer a build de pistoleiro arcano, que nada mais eh q um guerreiro mago com especializacao em arma de longo alcance. entao um guerreiro arcano seria um guerreiro mago voltado mais pra magia e com pericia.habilidade de atacar a dist.
+    
+  \item Arma Arcana(20ps,6xpf,10xpm): O usuário encobre uma arma corpo a corpo com o poder de uma magia de ataque. Durante uma quantidade de turnos igual ao bônus de focus e gastando o custo normal da magia +2 PM e 2 PF, a arma fica envolta por uma energia mágica fazendo com que a arma cause dano elemental igual ao elemento da magia escolhida. O dano da arma é substituido pelo dano da magia normal (sabedoria + bônus da magia + bônus extras) este se tornando mágico. Pode ser usada em um projétil. Cada 2 PM extras gastos reflexivamente concede inserir a habilidade em 1 projétil a mais, até o máximo de concentração do usuário.  Apesar da arma causar dano mágico, o oponente ainda pode usar a manobra aparar. O dano é descarregado em forma de impulso quando a arma atinge o corpo do alvo. Observe que qualquer bônus de dano da arma é substituido, inclusive os de habilidades como arma mágica. Outros bônus (acerto, aparar, etc) continuam os mesmos. Nessa situação, sucessos extras na jogada de ataque não aumentam o dano final, este que é igual ao dano da magia normal, sem contar a força do alvo ou outros bônus, como especialização ou habilidades. Habilidade instantânea.
+  
+  \item Sinérgia Arcana(8xpm): Por 1 PF ou 2 PM gastos reflexivamente por ataque realizado por uma arma com os efeitos de arma arcana ou arma espiritual, o usuário pode usar o bônus de sua força para aumentar o dano final causado. Esse consumo é válido para usuários de força igual ou menor a 10. Para valores até 20, dobre o custo dessa habilidade. Habilidade Reflexiva. Pré-requisito: Arma Arcana ou Arma Espiritual. 
+    	
+  	\item Arma Espiritual(6xpf,10xpm): O usuário gasta 3 PM e 1 PF concentrando energia em uma arma, sem poder carregar qualquer outra habilidade/magia nesse momento. Durante concentração turnos o dano dessa arma se torna mágico. Qualquer ataque realizado por essa arma não pode ser aparado ou impedido por qualquer meio físico. O dano final não tem influência da força do usuário ou outros bônus, como especialização ou habilidades. Essa habilidade causa sérios danos a arma, pois o processo de desmaterialização da materia é perigoso. A arma perde uma quantidade de PR igual ao dano da arma + 5. Habilidade instantânea.
+  
+  	\item Arma Faminta(30ps,6xpf,6xpm): O usuário cobre uma arma com energia mágica. Durante 3 turnos e ao custo de 5 PM, sempre que o usuário causar dano ele recupera uma quantidade de PV iguais ao dano causado. O usuário pode aumentar o tempo de duração da Arma Faminta gastando PM extras, onde cada PM extra gasto aumenta a duração em 1 turno. A duração máxima dessa habilidade é igual a concentração do usuário. Habilidade instantânea.
+  	
+  	\item Arma do Medo(20ps,10xpm): Por 3 PM o usuário realiza um ataque mágico para infligir medo em um oponente. O usuário realiza um teste combatido de 4 + sabedoria + status contra a força de vontade do alvo. Se o oponente falhar no teste, fica em pânico (o alvo não consegue atacar) por 2 + x turnos. O valor x é o número de falhas obtidos no teste. Habilidade instantânea.
+  	
+  	\item Gritos das Sombras(10xmp): O efeito da habilidade Arma do Medo agora é valido em uma área em torno do alvo cujo raio em metros é igual a concentração do usuário. Pré-requisito: Arma do Medo.
+  
+  	\item Maldição da Lâmina Podre(10ps,8pxf,10xpm): O usuário necessita tirar pelo menos 1 ponto de dano do alvo durante 1 ataque corpo a corpo para poder usar esta habilidade reflexiva (ou seja, a habilidade é ativada somente quando o dano ocorre e não no momento do ataque). Por 6 pm o alvo fica na condição negativa veneno vital 4 (ele perde 4 PV por turno) durante uma quantidade de turnos igual a diferença entre o status do usuário e carisma do oponente (mínimo 3). Caso o alvo atinja uma quantidade negativa de PV ele deve fazer um teste de resistência com dificuldade igual ao focus do usuário. Caso passe ele desmaia com a quantidade de PV negativa no momento que ele passou no teste, ou seja, antes do veneno tirar dano. Se ele não passar perde 4 PV nesse turno. Isso se repete até o alvo passar no teste ou morrer. O personagem necessita nível 3 mental e físico para poder aprender essa habilidade.
+    
+  	\item Espada da Chama Negra(10ps,10xpf,10xpm): O usuário recebe um bônus de dano automático igual a sabedoria (máximo de 12) por ataque ao custo de 4 pm. È necessário nível 3 mental e físico para poder aprender essa habilidade. Habilidade reflexiva. Pré-requisito: Arma Mágica.
+  
+  	\item Tiro Mágico(10xpf,6xpm): O usuário pode atacar a distância pelo gasto de 2 pm e 1 pf. A distância é igual ao dobro da acuidade em metros. Considere esse ataque como um projétil pequeno para fins da manobra aparar. Habilidade reflexiva.
+    
+  	\item Maldição da Lâmina das Trevas(10ps,14xpm): O usuário profere uma maldição contra um alvo, gastando 6 PM e 2 PF no processo. Ele não pode realizar mais nenhuma ação enquanto profere a maldição. Ao final do turno de ataque do usuário, o oponente recebe um dano igual ao status do usuário. Esse dano é direto na quantidade de PV, não podendo ser absorvido. O personagem necessita nível 4 mental para poder aprender essa habilidade.
+
+  \item Sussuro do Demônio(14xpm): O dano da habilidade Maldição da Lâmina das Trevas recebe um bônus de 4.
+
+\item Convicção Sagrada(8xpm): bônus de +4 para testes contra habilidades de medo. Pode ser comprado até 3 vezes.
+
+\item Determinação Lendária (10xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PF igual a sua coragem. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 5 ou mais para aprender essa habilidade. 
+
+ 	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+
+	\item Habilidade Gerais: Forjar, Guerra, Rituais, Intimidação, Conhecimento Magia.
+  
+\end{enumerate}
+
+ \subsection{Guerreiro Branco}
+  
+ 
+\begin{enumerate}
+
+	\item Focus em Arma (6xpf): Por 2 PF o usuário tem um bônus de 4 na destreza em 1 ataque. Habilidade reflexiva.
+
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Além disso o ataque recebe um bônus no dano de +2. Pré-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Focus Mágico(8xpm): O Usuário ganha +2 no dano quando usa uma magia de ataque. Pode ser comprada até 3 vezes. Habilidade permanente.
+     
+	\item Arma Arcana(20ps,6xpf,10xpm): O usuário encobre uma arma corpo a corpo com o poder de uma magia de ataque. Durante uma quantidade de turnos igual ao bônus de focus e gastando o custo normal da magia +2 PM e 2 PF, a arma fica envolta por uma energia mágica fazendo com que a arma cause dano elemental igual ao elemento da magia escolhida. O dano da arma é substituido pelo dano da magia normal (sabedoria + bônus da magia + bônus extras) este se tornando mágico. Pode ser usada em um projétil. Cada 2 PM extras gastos reflexivamente concede inserir a habilidade em 1 projétil a mais, até o máximo de concentração do usuário.  Apesar da arma causar dano mágico, o oponente ainda pode usar a manobra aparar. O dano é descarregado em forma de impulso quando a arma atinge o corpo do alvo. Observe que qualquer bônus de dano da arma é substituido, inclusive os de habilidades como arma mágica. Outros bônus (acerto, aparar, etc) continuam os mesmos. Nessa situação, sucessos extras na jogada de ataque não aumentam o dano final, este que é igual ao dano da magia normal, sem contar a força do alvo ou outros bônus, como especialização ou habilidades. Habilidade instantânea.
+	 
+  \item Sinérgia Arcana(8xpm): Por 1 PF ou 2 PM gastos reflexivamente por ataque realizado por uma arma com os efeitos de arma arcana ou arma espiritual, o usuário pode usar o bônus de sua força para aumentar o dano final causado. Esse consumo é válido para usuários de força igual ou menor a 10. Para valores até 20, dobre o custo dessa habilidade. Habilidade Reflexiva. Pré-requisito: Arma Arcana ou Arma Espiritual. 
+    	
+  	\item Arma Espiritual(6xpf,10xpm): O usuário gasta 3 PM e 1 PF concentrando energia em uma arma, sem poder carregar qualquer outra habilidade/magia nesse momento. Durante concentração turnos o dano dessa arma se torna mágico. Qualquer ataque realizado por essa arma não pode ser aparado ou impedido por qualquer meio físico. O dano final não tem influência da força do usuário ou outros bônus, como especialização ou habilidades. Essa habilidade causa sérios danos a arma, pois o processo de desmaterialização da materia é perigoso. A arma perde uma quantidade de PR igual ao dano da arma + 5. Habilidade instantânea.
+
+  	\item Arma Sagrada(6xpm,6xpf): O usuario ganha +4 de dano contra mortos vivos, criaturas das trevas e espíritos artomentados. Pode ser comprada até 3 vezes.
+ 
+ 		\item Defesa da Lâmina Divina(10ps,12xpm): O usuario criar um círculo magico em volta dele com a sua espada que tem duração igual a sua concentração em turnos. Qualquer morto vivo, criatura das trevas ou espirito atormentado que deseje ultrapassar este círculo deve passar num teste de coragem com DF 18. O usuário pode gastar 1 pm extras para aumentar essa DF em 1 ponto até o máximo de sua carisma. Custa 8 pm e 2 pf para usar. Habilidade instantânea.
+ 
+ 	\item Defesa do Corpo Abençoado(20ps,8xpf,8xpm): Por 6 pm o usuário é protegido por concentração turnos por uma barreira de bônus +4 (físico e mágico). Habilidade instantânea.
+
+	\item Proteção dos Anjos(10ps,6xpf,6xpm): O bônus da habilidade Defesa Do Corpo Abençoado aumenta em 2. Pode ser comprada até 2 vezes. Habilidade Permanente.
+  	
+ 	\item Luz Cegante(10xpm): O usuário emite uma luz ofuscante que cega qualquer oponente que tentar o atingir com ataques físicos. Todo ataque tem seu teste reduzido em 4 sucessos. Custa 4 PM e 1 PF e tem duração igual a carisma do usuário. Habilidade instantânea.
+ 
+ 	\item Chama da Coragem(8xpm): O usuário pode gastar PM extras para aumentar o poder da habilidade Luz cegante. Cada PM extra gasto aumenta o redutor imposto aos oponentes em 1 sucesso até o máximo da carisma do usuário.
+ 
+ 	\item Pilar de Luz(20ps,6xpf,12xpm): Por 8 pm, o usuário cria um pilar de luz que causa focus(até o máximo de 30) + 4 + pm extras gastos(até o máximo do carisma do usuário) de dano mágico do elemental luz. Essa habilidade é considerada uma magia com TC 10. O usuário deve ter nível físico e mental 5 ou mais para comprar essa habilidade.
+ 	 	
+ 	\item Pilar da Luz Sagrada(8xpf,8xpm): O ataque causado pela habilidade pilar de Luz pega em todos dentro de uma reta, com tamanho em metros igual ao dobro da concentração do usuário.
+ 
+ 	\item Mãos Benevolentes(12ps,8xpm): O usuário pode curar ferimentos com o toque de suas mãos. Ele cura seu valor de carisma. Custa 1 PM e 1 PF. Demora de 3-5 minutos para ser usado. 
+ 	
+ 	\item Vingança do Anjo Caído(10xpm,12xpf): O usuário tem um bônus de força em 1 ataque igual ao dano de um ataque recebido nas últimas 24 horas. Custa 2 PM e 2 PF para ser usada. Se esse ataque causar dano ao alvo, o dano anterior escolhido não pode ser mais usado para esta habilidade. Habilidade reflexiva. 
+ 	
+% 	\item Justiça do Anjo(8xpm,8xpf): Não somente um dano anterior, mas os dois últimos danos anteriores podem ser acumulados para o calcular o bônus recebido pela habilidade Vingança do anjo caido. Se comprada novamente até os 3 danos anteriores podem ser usados.
+ 
+ \item Justiça do Anjo(6xpm,6xpf): O dano de um ataque anterior pode ser escolhido uma quantidade extra de vezes igual a quantidade de vezes que o usuário comprou a habilidade justiça do anjo. Essa habilidade pode ser comprada até 3 vezes.
+ 	 	
+ 	\item Convicção Sagrada(8xpm): Bônus de +4 para testes contra habilidades de medo. Pode ser comprado até 3 vezes.
+
+\item Determinação Lendária (10xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PF igual a sua coragem. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 5 ou mais para aprender essa habilidade. 
+
+ 	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+  
+	\item Habilidade Gerais: Forjar, Guerra, Empatia, Conhecimento Magia ou Rituais.
+ 
+
+\end{enumerate}
+ 
+ 
+  \subsection{Druida}  
+  
+\begin{enumerate}
+
+  	\item Conversar com Animais(8xpm): O druida seleciona um tipo de animal para conversar normalmente. 
+  	
+  	\item Acalmar Animais(10xpm): O usuário pode realizar um teste de sabedoria mais carisma para tentar acalmar algum animal violento. O mestre deve dizer a dificuldade e o efeito pode variar desde a fuga do animal ou o animal não atacar o druida em batalha. A habilidade Conversar com Animais concede um bônus igual ao carisma do druida.
+  
+  	\item Invocar Elemental da Natureza(10PS,16xpm): O usuário gasta 1 turno para invocar um elemental e consome 12 PM e 6 PF. Por concentração turnos o elemental concede um bônus físico em força e defesa de 5. Além disso ele tem 10 pontos extras para distribuir em qualquer atributo físico da forma como bem desejar. Requer Nivel mental 3.
+  	
+  	\item Pele de Madeira(6xpf,6xpm): Por concentração turnos o usuário não precisa jogar defesa, absorvendo com sua defesa total. Custa 4 PM e 2 PF. Habilidade instantânea.
+  
+	\item Corrida Felina (4xpf,8xpm): Por x turnos e ao custo de x PM o usuário recebe um bônus de 4 na esquiva. Habilidade instantânea.
+
+		\item Uivo do Leão (8xpf,8xpm): Por 2x PM o usuário, com um grito, paraliza os alvos ao redor se estes não forem bem sucedidos em um teste de coragem contra status + x do usuário. Ou seja, 2 PM concedem 1 de bônus no teste. Os alvos ficam paralizados durante 1 + falhas turnos sem poder atacar o usuário da técnica. O personagem deve ter no minimo nivel 3 físico para aprender esta habilidade. Habilidade instantânea.
+  
+  	\item Lembraça dos Jardins Sagrados(12xpm): Uma vez por dia, o druida pode eliminar qualquer efeito negativo que está sobre ele, seja de medo, veneno, ou maldições. 
+  
+  	\item Uivo da Mãe Natureza(20ps,16xpm,6xpf): O usuário uiva em direção aos ceus. Todos os adversários pertos têm um redutor igual a 4 para todos os atributos físicos (exceto defesa) e mentais (exceto espírito) durante o bônus de sabedoria do usuário + 2. Consome 10pm e 5pf. Quando o druida usa essa habilidade em areas urbanas o efeito é reduzido e em alguns casos até cancelado. Requer nível mental 4 e físico 2. Um usuário dessa habilidade pode gastar metade do custo normal dela para cancelar as penalidades quando essa habilidades for usada contra ele. Habilidade instantânea. 
+  
+    \item Sussurro de Gaia(12xpm): A penalidade atributa pela habilidade Uivo da Mãe Natureza aumenta em 2 pontos. Essa habilidade pode ser comprada até 2 vezes. Pré-requisito: Uivo da Mãe Natureza.
+  
+  	\item Portal da Umbra(20ps,8xpf,12xpm): Quando em areas rurais o usuário pode se teleportar a vontade até concentração kilometros. Quanto maior a distância maior o consumo de PM e PF. Para cada kilometro teleportado o custo é de 2PF e 8PM. Ele gasta 1 turno concentrando para se teleportar. Para cada 6 pontos totalizando PM e/ou PF, ele pode levar 1 pessoa junto.  Nível mental e fisico mínimo necessário  igual a 4.
+  
+  	\item Visão da Matilha(12xpm): Por 8 PM e 4 PF o usuário pode incorporar um animal, compartilhando suas emoções e sentidos durante uma quantidade de horas igual ao seu espírito. Apesar de não controlar o animal, o usuário pode sugerir certas ações, essas sendo executadas de acordo com os atributos do animal incorporado. Com o gasto de 2 PM e PF extras o usuário pode falar atravéz do animal. Enquanto o personagem controla o animal, ele fica em transe não podendo realizar qualquer outra ação.
+  
+    \item Regeneração(20ps,4xpm,12xpf): Durante concentração turnos e por 4 PM e PF, o usuário fica com a condição positiva regeneração 5 (recupera 5 PV por turno). Habilidade instantânea.
+
+		\item Comunhão com a Natureza(10PS,10xpf,10xpm): Quando o druida estiver em seu habitat de afinidade natural recupera o dobro de pv, pm e pf.  
+
+		\item Sentido Espiritual(10xpm): 1 PM. Habilidade reflexiva.\newline
+Durante 1 hora o alvo pode ver e conversar com espiritos normalmente dentro de um ambiente que ele tenha algum tipo de sobrevivência. Ele também pode ver nuances do mundo espíritual além de concentrações de mana (energia mágica). 
+
+			\item Fruta do Paraíso(10xpm): Por 4 PM extras o PV inicial do casco criado pela habilidade Casco da Nogueira Sagrada recebe um aumento igual ao focus do usuário.
+
+		\item Metamorfose (20PS,12xpm,12xpf): O usuário pode usar a habilidade metamorfose. O mestre deve restringir esse aprendizado para situações MUITO especificas dentro de jogo.
+
+%		\item Hipermetamorfose (10xpf,6xpm): Um personagem usuário de metamorfose pode, por um custo extra de Pm's, intensificar uma metamorfose, tornando-a mais poderosa. Para cada pm extras gasto com a metamorfose o bônus total aumenta em +1, limitado pela sabedoria do usuário. Ele não pode usar a metamorfose reflexivamente quando usando esse artificio.
+  
+  	\item Habilidade Gerais: Herbalismo, Armadilhas, Armas Extras, Metamorfose 1, Escalar, Correr, Saltar, Nadar, Cavalgar, Mediunidade, Escalar, Conhecimento (Animais, Ervas, Geografia), Adestrar Animais. 
+\end{enumerate}
+
+  
+  
+  \subsection{Necromante}
+  
+  
+\begin{enumerate}
+
+ 	\item Focus Guerreiro(8xpm): O usuário ganha +2 em coragem. Pode ser comprado até 5 vezes.
+
+	\item Canto do Terror (10ps,10xpm): Por 2 PM o usuário ativa o canto do terror. Durante 1 turno de esquiva sempre que um oponente atacar o usuário, ambos fazem um teste combatido de força de vontade. Caso o oponente perca no teste, ele não consegue atacar o usuário do canto do terror nesse turno devido ao efeito de medo da habilidade. A habilidade tem efeito antes do atacante usar qualquer habilidade de ataque. Habilidade reflexiva.
+	    
+  \item Toque da morte(10xpm): Os zumbis criados pelo necromante ganham um bônus em defesa, força e PV igual ao bônus de inteligência do usuário. 
+
+	\item Convicção Nefasta(10xpm): bônus de +4 para testes contra habilidades de medo. Pode ser comprado até 3 vezes.
+  
+  \item Sussuros Malignos(10ps,20xpm): Custo de 14 PM. TC20.\newline 
+  O necromante invoca espíritos artomentados. As pessoas que o necromante desejar tem uma perda de -4 em destreza e esquiva e -8 nos atributos mentais(exceto espírito). O mestre pode determinar a redução ou aumento nesse bônus e o número de pessoas afetadas de acordo com o local. Da mesma forma o mestre deve determinar a duração do efeito. De acordo com o ambiente o efeito pode durar horas, ou o mestre pode exigir um gasto de PM extras para turnos extras de duração. Requer nível mental mínimo de 5 para aprender essa habilidade.  Pré-requisito: Veru. Requer nível mental mínimo de 4 para aprender essa habilidade.
+
+	\item Olho do Beholder(6xpm): Gastando 2 PM extras por alvo extra ao concentrar a magia Olhar da Morte, a mesma pode ser usada em mais um alvo simultaneamente. O número máximo de alvos extras é igual ao valor de concentração do usuário da magia. Pré-requisito: Olhar da Morte.
+
+	\item Afeto das Tumbas(10PS,12xpm): A duração da magia chamando das tumbas é aumentada para acuidade em dias. Pré-requisito: Chamado das Tumbas. 
+	
+	\item Fortalecimento da Tumba(10PS,8xpm): O usuário pode fortalecer os mortos vivos criados. Com 1 PM ele pode aumentar 2 pontos em 1 caracteristica física ou 6 PV do morto vivo. Esse bônus pode ser aumentado até o dobro do valor original do zumbi. Essa habilidade é reflexiva usada no momento da invocação dos mortos vivos pela magia verú.
+	
+	\item Mão das Sombras(10PS,8xpm): O custo para invocar 1 morto vivo usando a magia verú é reduzido em 1 PM.
+  
+  	\item Area da Morte(40PS,14xpm): TC20.\newline
+O usuário cria uma área circular com raio em metros igual a seu focus com duração em turnos igual a sua concentração. Dentro da área da magia qualquer habilidade, item ou magia de cura não tem efeito, ou tem efeito reduzido. Por 10 PM qualquer cura tem seu efeito reduzido pela metade. Por 20 PM os efeitos de cura são anulados. Requer a magia veru além de nível mental mínimo de 5 para aprender essa habilidade.  
+
+  	\item Baforada do Molboro(10xpm): O usuário pode usar inúmeras magias de veneno (vital, viral ou mágico) simultâneamente gastando apenas 1 PM por magia extra(fora o custo de cada magia), contando apenas como 1 uso de magia por vez. O usuário não pode usar a mesma magia dessa várias vezes dessa forma. Por exemplo, com apenas 1 uso de veneno vital, o usário pode usar simultâneamente a magia veneno viral por um custo extra de 1PM mais o custo normal da magia.
+
+		\item Usurpador(10xpm): O usuário pode usar inúmeras magias de dreno (drenar PV,PM e PF) simultâneamente gastando apenas 1 PM por magia extra(fora o custo de cada magia), contando apenas como 1 uso de magia por vez. O usuário não pode usar a mesma magia dessa várias vezes dessa forma. Por exemplo, com apenas 1 uso de Drenar PV, o usário pode usar simultâneamente a magia Drenar PM por um custo extra de 1PM mais o custo normal da magia.
+
+  
+  \item Habilidades Gerais: Mediunidade, Intimidação, Alquimia, Medicina, Furtividade, Tortura, Conhecimentos (Rituais, Demônios, Espíritos, Mortos Vivos).
+\end{enumerate}
+  
+  \subsection{Mago Vermelho}    
+  	
+\begin{enumerate}
+  	\item Focus Moral(8xpm): O usuário ganha +2 em status. Pode ser comprado até 5 vezes.
+  
+  	\item Focus Amigo(8xpm): O usuário ganha +2 em carisma. Pode ser comprado até 5 vezes.
+  
+  	\item Focus Guerreiro(8xpm): O usuário ganha +2 em coragem. Pode ser comprado até 5 vezes.
+  
+		\item Manha da Batalha (8xpm):  O usuário dessa habilidade pode fazer com que os inimigos concentrem ou desviem sua atenção para um alvo. De acordo com a situação o mestre pode exigir um teste combatido entre a manipulação do usuário e a consciência dos oponentes.
+
+		\item Canção do Feiticeiro(10xpm): Durante status turnos os aliados ficam com +2 em sabedoria e +2 em espírito. consome 2 PM e 1 pf. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez. Pode ser Comprado até 3 vezes, mas assim como o bônus, o custo de ativação também acumula.	
+	
+		\item Canção da Glória(10xpm): Durante status turnos os aliados ficam com +2 em destreza e +2 em concentração. consome 2 PM e 1 pf. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez. Pode ser Comprado até 3 vezes, mas assim como o bônus, o custo de ativação também acumula.		
+		
+		\item Canção da Motivação(10xpm): Durante status turnos os aliados ficam com +2 em concentração e +2 em inteligência. Consome 2 PM e 1 pf. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez.	Pode ser Comprado até 3 vezes, mas assim como o bônus, o custo de ativação também acumula.	
+		
+		\item Canção da Coragem(6xpm): Durante status turnos todos os aliados ganham um bônus de coragem igual ao bônus de status do usuário. Consome 2 PM e 1 pf. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez.
+	
+		\item Canção da Intriga(10xpm): Durante status turnos os oponentes ficam com -2 em destreza e -2 em 1 atributo mental (exceto espírito). Consome 3 PM e 1 pf. Para resistir a esse efeito os alvos devem passar em um teste de coragem/sabedoria/inteligência contra status/carisma/inteligência do usuário da canção mais 1. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez. Pode ser Comprado até 3 vezes, mas assim como a penalidade, o custo de ativação também acumula.
+
+		\item Melodia da Determinação(12xpm): Todos os aliados dentro do campo de visão do usuário da melodia da determinação recuperam uma quantidade de PF igual ao bônus de coragem do usuário + 1. Consome 4 PM e 2 pf. Habilidade instatnânea. Somente uma habilidade musical pode ser usada por vez.
+		
+		\item Sinfônia da Noite(12xpm): Todos os aliados dentro do campo de visão do usuário da sinfonia da noite recuperam uma quantidade de PM igual ao carisma do usuário. consome 2 PM e 2 pf. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez.
+		
+		\item Canção do Bardo(12xpm): Todos os aliados dentro do campo de visão do usário da canção do bardo são curados das seguintes condições negativas: Medo, Sleep e Berserk. Consome 6 PM e 1 pf. Habilidade instantânea. Somente uma habilidade musical pode ser usada por vez.
+		
+		\item Andante(12xpm): Para cada 2pm ou 1 pf extra gasto ao usar uma canção, o bônus/penalidade é aumentando em +1. O usuário pode aumentar em até +4 esse bônus. Requer nível mental mínimo de 3 para aprender essa habilidade.
+				
+		\item Maestro(12xpm): O usuário pode usar várias habilidades musicais ao mesmo tempo contanto que o efeito das canções seja de natureza semelhante. O custo extra de habilidade usadas simultâneamente é aplicado nessa situação.		 
+		 
+		\item Voz Infinita(6xpm): O alvo pode incluir um número de pessoas extras em sua telepatia igual a sua intelîgência. Pode ser comprada várias vezes.
+		
+		\item União de Mentes(10xpm): O usuário consome 1 turno de ataque para auxiliar um aliado. Ele não pode mais usar nenhuma outra habilidade nesse turno. Para este turno, este aliado recebe um bônus em destreza e esquiva igual ao bônus de inteligência do usuário +1. Consome 1 PF e 1 PM por turno. Pré-requisito: Telepatia.
+	
+		\item Névoa da Sereia (10PS,12xpm): Quando usando a magia ilusão, o usuário pode gastar 2 PM extras para criar 1 ilusão extra. Ele pode criar um valor de ilusões extras igual a sua sabedoria. A complexidade de cada ilusão deve ser definida por um teste individual de inteligência.	
+		
+	\item Insônia induzida(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia sleep. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+	
+	\item Chama Pacífica(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia berserk. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+		
+	\item Voz Espiritual(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia mute. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+	
+	\item Espelho Sagrado (10xpm): O dano e o dano limite que a magia Refletir pode suportar aumenta para em 5 pontos. Pré-requisito: Refletir.
+	
+	\item Mente Escarlate(14xpm): O usuário dessa habilidade pode gastar 1 PM para ganhar 1 sucesso extra em qualquer teste realizado usando qualquer magia vermelha. Ele pode ganha um bônus máximo igual ao seu valor de inteligência usando essa habilidade. Requer nível mínimo 5 para aprender essa habilidade reflexiva.
+
+	\item Amigo Espiritual(10xpm): Apos realizar uma prece com duração média de 5 minutos, o usuário da habilidade benção pode usa-la uma quantidade extras de vezes igual ao número de vezes que ele comprou a habilidade amigo espiritual. 
+
+	\item Memória eidética(10xpm): O personagem tem a capacidade de se lembrar de coisas ouvidas e vistas, com um nível de detalhe quase perfeito. O mestre pode atribuir bônus em certas situações, alem de reduzir o tempo de treino para alguns conhecimentos. O personagem deve ter acuidade igual ou maior a 15 para aprender essa habilidade.
+
+		\item Auridade (10xpm,8xpf): Gastando 1 PF reflexivamente o usuário pode se esquivar de magias usando seu atributo esquiva. O adversário deve usar destreza ou inteligência para acertar. Habilidade reflexiva. 
+
+		\item Metamorfose (20PS,12xpm,12xpf): O usuário pode usar a habilidade metamorfose. O mestre deve restringir esse aprendizado para situações MUITO especificas dentro de jogo.
+
+%	\item Hipermetamorfose (10xpf,6xpm): Um personagem usuário de metamorfose pode, por um custo extra de Pm's, intensificar uma metamorfose, tornando-a mais poderosa. Para cada pm extras gasto com a metamorfose o bônus total aumenta em +1, limitado pela sabedoria do usuário. Ele não pode usar a metamorfose reflexivamente quando usando esse artificio.
+	
+	\item Habilidades Gerais: Mediunidade, Alquimia, Lábia, Herbalismo, Medicina, Guerra, Artesanato, Mecânica, Armadilhas, Intimidação, Empatia, Conhecimentos (Rituais, Espíritos, Política, Idiomas, Animais), Gunsmith, Investigação.
+\end{enumerate}
+
+
+\subsection{Metamago}
+  
+  
+\begin{enumerate}
+
+		\item  Aether(30PS): As magias elementais usam os elementos da natureza para se manifestarem. Quando a energia mágica é manifestada diretamente, sem interferências de forças elementais, ela se manifesta como anti-máteria. Para termos de sistema a magia Aether funciona semelhate a maioria das magias elementais puras, ou seja o custo inicial dela é de 6 PM, o bônus incial de seu dano é +6, seu TC é 10 e o usuário da magia pode gastar 10 PS para diminuir o custo até o mínimo de 3 PM ou aumenta o bônus de dano em +10 até o valor máximo de +10. A diferença da magia Aether para as outras é que ela não tem um elemental associado, ou seja, seu dano é considerado não elemental.   
+
+ 	\item Expanção do Fóton (8xpm): O máximo do bônus da magia pura aether aumenta para +15.
+
+	%\item Manipulação Atômica(10xpm): Para cada PM extra gasto ao concentrar a magia pura Aether, a mesma recebe +1 de bônus no dano mágico ou físico(quando aplicável). O bônus recebido não pode ultrapassar o valor de sabedoria do usuário. Pré-requisito: Aether. O usuário dessa habilidade pode comprar a habilidade Benção de Ramizul por 10xpm.    	
+   	
+	 	\item Vortex(10PS,14xpm): Custo normal de Aether + 4 pm. TC 20.\newline
+O usuário cria um vortex próximo ao seu corpo. Todos os projéteis físicos que forém atirados em direção ao usuário sao sugados automáticamente para dentro do vortex. A magia fica ativa durante metade da concentração em turnos. O vortex é fixo, e não acompanha o usuário caso ele se locomova. Qualquer usuário da magia pura Aether pode comprar essa habilidade sem custo adicional.
+
+  	\item  Meteoro de Antí-Materia(50PS): Custo de 12 PM. TC30. \newline
+Todos os alvos em uma área de raio igual a concentração metros recebem dano físico e mágico igual ao focus do usuário. O usuário pode gastar 2 PM extras para livrar 1 aliado dentro da área da magia. O número máximo de aliados livrados dessa forma não pode ultrapassar a concentração do usuário. Pré-requisito: Aether. Qualquer usuário da magia pura Aether pode comprar essa habilidade sem custo adicional. 
+
+	 	\item Controle da Antí-Materia(12xpm): O usuário pode gastar 1 PM extra para aumentar o dano físico e mágico causado pela magia meteoro de antí-materia em 1. O usuário pode aumentar o dano até o seu valor de concentração. Além disso, o custo para livrar 1 aliado dentro da área da magia reduz para 1 PM. Qualquer usuário da magia pura Aether pode comprar essa habilidade sem custo adicional.
+	
+	 	\item Mísseis Mágicos(10ps,10xpm): Ao custo de 2 PM o usuário atira projéteis de energia que causam dano mágico de toque igual a sabedoria (até o máximo de 20). Apesar de ser um dano mágico, o usuário deve acertar o oponente jogando um teste de destreza contra a esquiva do alvo (ou contra destreza caso o usuário use um escudo). Habilidade instantânea.
+
+ 	\item Raio Mágico(20ps,10xpm): Custo de 8 PM. TC10.\newline
+O usuário realiza um ataque magico a distância que causa dano físico (do tipo automático) e mágico de no oponente. O dano causado é igual a sabedoria do usuário. Ambas as defesas devem ser defendidas separadamente. Apesar de ser um dano mágico, o usuário deve acertar o oponente jogando um teste de destreza ou inteligência contra esquiva do alvo (ou contra destreza caso o usuário use um escudo). 
+
+ 	\item Trovão Mágico(10xpm): O usuário pode aumentar com PM o dano causado pela magia raio mágico na ordem de 1 para 1 até o valor da sabedoria do usuário.  
+  
+  	 	\item Agilidade Mágica(20ps,10xpm): Concede ao alvo bônus de 6 em agilidade(destreza ou esquiva) durante concentração turnos ao custo de 6 PM. Pode-se aumentar o bônus em até +4, ao custo de 1 PM por ponto extra. Essa habilidade é considerada uma magia de TC10.  	
+  	  
+  	 	\item Escudo Mágico(20ps,12xpm,6xpf): Quando um mago recebe um ataque físico, ele pode substituir sua defesa por um escudo de defesa automática igual a sua sabedoria. Custa 2 PM para cada defesa. Magia reflexiva.
+
+  	 	\item Armadura Mágica(8ps,10xpm): Sempre que usar a habilidade escudo mágico, o usuário pode gastar 1 PM para receber 1 de defesa automática extra em seu escudo. O bônus não pode ultrapassar o valor de espírito do usuário.
+  
+  	% Shell(20PS,8xpm): 5 PM. Magia de TC10. %Amagza
+%O alvo da magia recebe um bônus de + 6 em espírito. O bônus tem duração em turnos igual a concentração do usuário. Pré-requisito: Escudo Mágico.
+  
+		 	\item Benção Mágica(10xpm): Uma vez por dia o usuário pode curar uma quantidade de PM igual ao seu valor de concentração. É necessário 1 turno concentrando-se unicamente nessa habilidade. Requer nível mental mínimo de 4.
+
+ 	\item Cura Mágica(30ps,8xpm): Custo de 6 PM. TC10.\newline
+Por 6 PM o mago regenera 12 PV do alvo. Além disso ele pode gastar 1 PM extra para aumentar 1 PV curado, até o máximo de seu carisma.
+		
+		 	\item Dispel (40ps,4xpm): Custo de 6 PM, TC10.\newline
+O usuário tem o poder de anular uma magia que conceda bônus temporários ou uma barreira mágica. Ele deve testar sua sabedoria contra o espírito do beneficiario da magia. Além disso o usuário pode gastar 1 PM extra para ganhar +2 nesse teste, até o limite de sua concentração ganha em bônus dessa forma. O teste não é necessário caso a magia seja considerada de toque. Vale observar que se o alvo está sob efeito de várias magias que concedam bônus, o usuário deve escolher somente um dos efeitos para cancelar. O custo dessa magia pode ser reduzido em 1 PM para cada 10Ps gastos até o custo minimo de 4 PM. O usuário pode fazer um teste reflexivo de inteligência para perceber se um alvo está sendo beneficiado por uma magia ou não. Requer nível mental maior que 4 para aprender essa magia.
+
+		 	\item Equalizar (6xmp): Para cada compra da habilidade equalizar, a magia dispel pode cancelar 1 efeito extra e o usuário recebe +1 no teste para realizar a magia.
+
+ 	\item Palavra do Poder Mágico (10PS,12xpm): Por 2 PM o usuário recita um mantra mágico em direção a um alvo, realizando um teste de inteligência ou sabedoria no processo. O álvo deve fazer um teste de sabedoria ou inteligência para combater a palavra do poder mágico. Se o usuário tiver sucesso no teste, o alvo perde uma quantidade de PM igual ao dobro do sucesso obtido pelo usuário da magia. Enquanto usa a palavra do poder mágico o usuário não pode usar nenhuma outra habilidade, apenas concentrar magias com um teste de concentração determinado pelo mestre. Requer nível mental maior que 4 para aprender essa magia.
+
+  	 	\item Dardos Místicos(30ps,8xpm): Por 4 PM o usuário lança um dardo mágico(destreza ou inteligência) causando sabedoria + 2 de dano. Se o ataque causar pelo menos 1 pv no alvo, para cada 1 de PM gasto pelo usuário o alvo tem uma penalidade de 1 na força ou defesa durante 4 turnos. A quantidade de PM extras gastos para retirar força ou defesa do alvo não pode ultrapassar o valor de sabedoria do usuário.
+  
+  
+  		 	\item Sentidos Aguçados(10PS,8xpm): Para cada 4 PM gastos reflexivamente o usuário pode ativar uma das seguintes habilidades: Visão noturna, Visão extendida, Tato supersensível (com um teste de inteligência pode identificar substâncias em alimentos e liquidos por exemplo), Olfato preciso ou Audição profunda.
+
+
+ 	 	\item Mão Espiritual(10ps,10xpm): O usuário ataca unicamente com sua força mágica causando sab(max 15) de dano físico. Esse dano ignora armadura. Custa 2 PM. Habilidade instantânea. Essa força mágica tem alcançane igual a inteligência metros e pode realizar feitos físicos, como levantar objetos ou atacar pessoas como se tivesse uma força igual a sabedoria do usuário durante concentração turnos. Dependendo da situação o mestre pode exigir um teste de percepção para que o alvo perceba essa força invisivel o atacando, e poder se esquivar normalmente a partir de então. O usuário joga sua concentração no teste de acerto.
+  	
+	 	\item Confusão(20ps,10xpm): TC 0 para 3 PMs gastos. TC10 para 6 PMs gastos. 
+O usuário gasta 3 PM para abaixar 5 pontos em uma característica mental (exceto espírito). Ele também pode gastar 6 PM para abaixar 5 pontos em duas características mentais ou 10 em uma até o mínimo de 1. A redução dura concentração turnos. Se o alvo não estiver sendo tocado, ele só recebe a penalidade imposta pela magia caso perca em um teste de espírito contra sabedoria do usuário da magia. Se for tocado a redução é automatica. O personagem necessita saber pelo menos 1 magia ou habilidade de metamago para poder aprender essa poder.    
+  
+	 	\item Teleporte(30ps,10xpm): O usuário pode se teleportar a vontade até concentração kilometros. Quanto maior a distância maior o consumo de PM. Para cada kilometro teleportado o custo é de 8PM. Ele gasta 1 turno concentrando para se teleportar. Para cada 6 PM gastos, ele pode levar 1 pessoa junto no teleporte.  Nível mental e fisico mínimo necessário igual a 4.io igual a 4.
+  
+	 	\item Respirar no vácuo (10ps,6xpm): Gastando-se 6 pm por hora o mago pode respirar usando seu poder mágico. 
+
+ 	\item Levitar(20ps,8xpm): Dentro de um globo de raio igual a duas vezes sua sabedoria em metros ele pode voar a vontade. A velocidade de voo é igual a sua velocidade de corrida. Com essa magia ativada ele sempre ganha seu bônus de esquiva. Pode-se gastar pms extras para aumentar o potencial da habilidade, na ordem de 1 PM pra 3 metros aumentados até o maximo de focus metros aumentados dessa forma. Custa 5 PM para criar o globo. Tc 10.
+  
+ 	 	\item Conversar com Animais(10xpm): O usuário seleciona um tipo de animal para conversar normalmente. 
+  
+ %Refletir (40ps,12xpm): Qualquer magia que cause dano (físico ou mágico) igual ou menor que o focus (máximo de 30) do usuário é refletida de volta para o oponente. Custa 8 PM para se levantar o espelho que dura 4 + PMs extras turnos. TC 10. O usuário deve ter no mínimo nível mental 5 ou mais para aprender essa magia. O personagem necessita saber pelo menos 1 magia ou habilidade de metamago para poder aprender essa poder.  
+  	  
+	 	\item Mana Sagrado (10xpm,10ps): Dependendo do ambiente o usuário recupera PM 50\% mais rápido que o normal quando descansando. Ele também pode "trocar" PF por PM com algum tempo de concentração. Habilidade permanente.  
+  	
+	 	\item Sentido Espiritual(10xpm): 1 PM. Magia reflexiva.\newline
+Durante 1 hora o alvo pode ver e conversar com espiritos normalmente. Ele também pode ver nuances do mundo espíritual além de concentrações de mana (energia mágica). 
+  
+	 	\item Auridade (10xpm,8xpf): Gastando 1 PF reflexivamente o usuário pode se esquivar de magias usando seu atributo esquiva. O adversário deve usar destreza ou inteligência para acertar. Habilidade reflexiva. O personagem necessita saber pelo menos 1 magia ou habilidade de metamago para poder aprender essa poder.
+		
+	\item  Voz Espiritual(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia mute. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+
+  \item Habilidades Gerais: Conhecimento (Magia, Invocações, Rituais, Linguas), Artesanato, Empatia, Alquimia.
+  	
+
+  	
+\end{enumerate}
+
+
+ \subsection{Mago Azul} 
+ 
+ 		
+\begin{enumerate}
+
+	\item Gnosis(30PS,10xpm): Essa habilidade é considerada uma magia azul, que concede o poder mágico da sinergia cósmica. Essa magia faz com que o usuário possa compreender um peculiar tipo de emanação energética, tornando seu processo de aprendizado e percepção acima dos normais. De forma mais simples essa magia permite ao usuário aprender por um curto periodo de tempo certos poderes. O usuário gasta 1 turno sem poder usar qualquer outra magia ou habilidade para ativa-la em combate, gastando 6 PM no processo. Sempre que qualquer alvo (seja oponente ou aliado) usar alguma técnica o usuário pode fazer um teste de concentração para poder usar a mesma técnica durante o mesmo combate. Apenas técnicas simples estão incluidas, como péricias ou habilidades que tenham um custo igual ou menor a 12 pontos de experiência. A dificuldade do teste pode variar de média ou dificil de acordo com o critério do mestre levando em consideração o poder da técnica, o número de vezez que tal poder foi visto, etc. Outra variação dessa magia funciona da seguinte forma: O usuário gasta 1 turno sem poder usar qualquer outra magia ou habilidade, observando atentamente 1 único alvo, gastando 4 PM no processo. Automaticamente, o usuário pode aprender uma técnica do alvo (dentro das restrições ditas anteriormente), sem a necessidade de ver a técnica para tal (necessitando apenas fazer o teste de concentração). Além disso o usuário pode ativar ambas as formas de gnosis em apenas 1 turno, gastando 1 PM extra caso passe em um teste de concentração (dificuldade 19). Para ambas as formas de usar essa magia, a duração da magia é igual a acuidade em minutos. O alvo também tem um certo limite de quantos poderes pode assimilar, valor esse igual ao bônus de acuidade do usuário. O mestre também pode diminuir o custo em xp de certas habilidades para o usuário da magia azul de acordo com o número de vezes que ele copiou tal habilidade com a magia gnosis. Com 10 PS o usuário pode baixar o custo da magia em 1 PM. Ele pode fazer isso até que o custo fique igual a metade do custo original, ou seja, mesmo que ele gaste 30 PS para diminuir um dos custos para 3 PM, o custo do outro uso de Gnosis estanca em 2 PM.
+	
+	\item Observar(8xpm ou 4 xpm):	Observar é uma habilidade geral acessível para os usuários da magia gnosis. Gastando 2 PM o usuário recebe o bônus de observar em concentração. Gastando 4 PM esse bônus também pode ser usado para aumentar a inteligência. O bônus é reflexivo, ou seja, dura 1 turno de ataque ou esquiva. O usuário dessa habilidade não pode receber um bônus maior que o atributo original. Habilidade reflexiva.	
+ 
+	\item Força do Urso(10ps,10pxf): Durante concentração turnos o usuário transforma sua força em 12 ou recebe um bônus de 5. Custa 6 PM. Habilidade instantânea.
+
+	\item Defesa da Montanha(10ps,10pxf): Durante concentração turnos o usuário transforma sua defesa em 12 ou recebe um bônus de 5. Custa 6 PM. Habilidade reflexiva.
+
+	\item Destreza da Cobra(10ps,10pxf): Durante concentração turnos o usuário transforma sua destreza em 12 ou recebe um bônus de 5. Custa 6 PM. Habilidade reflexiva.
+
+	\item Agilidade do Gato(10ps,10pxf): Durante concentração turnos o usuário transforma sua esquiva em 12 ou recebe um bônus de 5. Custa 6 PM. Habilidade reflexiva.
+
+	\item Sabedoria da Coruja(10ps,10xpm): Durante concentração turnos o usuário transforma seu sabedoria em 12 ou recebe um bônus de 5. Custa 5 PM. Habilidade reflexiva.
+
+	\item Espírito do Cavalo(10ps,10xpm): Durante concentração turnos o usuário transforma seu espirito em 12 ou recebe um bônus de 5. Custa 5 PM. Habilidade reflexiva.
+
+	\item Inteligência do Macaco(10ps,10xpm): Durante concentração turnos o usuário transforma sua inteligência em 12 ou recebe um bônus de 5. Custa 4 PM. Habilidade reflexiva.
+
+	\item Concentração do Tigre(10ps,10xpm): Durante concentração turnos o usuário transforma sua concentração em 12 ou recebe um bônus de 5. Custa 4 PM. Habilidade reflexiva.
+
+	\item Uivo do Leão (8xpf,8xpm): Por x PM o usuário, com um grito, paraliza os alvos ao redor se estes não forem bem sucedidos em um teste de coragem  com dificuldade igual à status + x. Os  alvos ficam paralizados durante 1 + falhas turnos sem poder atacar o usuário da técnica. O personagem deve ter no minimo nivel 3 físico para aprender esta habilidade. Habilidade instantânea.
+
+	\item Baforada do Dragão(20ps,8xpf,14xpm): Magia Azul de TC10. Custo de 12 PM.\newline
+	Ao comprar essa habilidade, o usuário deve escolher um elemental. Ele pode soltar uma baforada cujo elemento é igual aquele escolhido no momento da compra. O dano da baforada (da natureza física) é igual força (do tipo normal) + focus (do tipo automático) + 4. A área de alcançe da baforada cobre um cone com ângulo interno igual a 45 graus com profundidade em metros igual a concentração do usuário. O mestre pode conceder o teste de esquiva para alguns alvos dentro do cone de acordo com sua posição. Quanto mais próximo da borda do cone, mais chances o alvo pode ter de se esquivar. O mestre deve jogar esquiva contra concentração do usuário da baforada. O usuário deve ter nível mental mínimo de 4 e ter visto um dragão ou ter conhecimento de dragão para poder aprender essa magia. Além disso o usuário pode gastar 10PS para reduzir o custo da magia em 1 PM até o mínimo de 8 PM gastos ao usar a baforada. O usuário pode gastar 2 PM extras para livrar 1 aliado dentro da área da baforada.
+	
+	\item Baforada Elemental(6xpm): O usuário da magia baforada do dragão pode escolher mais um elemental extra para escolher na hora de soltar a magia. Somente 1 elemental pode ser solto por baforada, ou seja, mesmo podendo escolher entre soltar uma baforada de fogo ou uma de gelo, o usuário deve escolher apenas um tipo de elemental para usar na hora da baforada.
+
+	\item Sinergia Mágica(20ps,10xpm): 1 PM. TC10. \newline
+Durante concentração turnos sempre que o alvo receber dano mágico, o mesmo recupera uma quantia de PM igual a metade do dano. A quantia recuperada não pode ultrapassar o espírito do usuário.
+
+	\item Insônia induzida(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia sleep. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+	
+	\item Chama Pacífica(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia berserk. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+		
+	\item Voz Espiritual(10xpm): O usuário pode gastar 1 PM para ganhar 1 sucesso extra no teste realizado contra a magia mute. O bônus recebido dessa forma não pode ultrapassar o valor de espírito do usuário.
+
+		\item Observar em Combate(6xpf,10xpm): O usuário ativa reflexivamente observar em combate por 3 PM. Durante acuidade turnos, o usuário recebe um bônus de +2 em destreza e esquiva para cada turno de ataque gasto analisando o oponente. Ele pode receber um bônus de no máximo o valor de sua concentração. O bônus recebido tem duração igual ao bônus de inteligência do usuário.
+
+	\item Astúcia da Batalha(2xpf,8xpm): O usuário pode cancelar o bônus cedido pela habilidade ataque concentrado (ou similares como observar em combate) ao oponente. Deve-se fazer um teste combatido entre a percepção do usuário contra a acuidade do oponente. Para cada oponente extra, atribua uma penalidade cumulativa de -2 nesse teste. Habilidade permanente.
+	
+	\item Regeneração(20ps,4xpm,12xpf): Durante concentração turnos e por 4 PM e PF, o usuário fica com a condição positiva regeneração 5 (recupera 5 PV por turno). Habilidade instantânea.
+
+	\item Libra(10PS,10xpm): O usuário pode ver os atributos físicos de um alvo apenas ao olhar. Além disso, gastando 4 PM reflexivamente ele pode usar visão de raio x durante acuidade minutos.
+	
+	\item Sentidos Aguçados(10PS,8xpm): Para cada 4 PM gastos reflexivamente o usuário pode ativar uma das seguintes habilidades: Visão noturna, Visão extendida, Tato supersensível (com um teste de inteligência pode identificar substâncias em alimentos e líquidos por exemplo), Olfato preciso ou Audição profunda.
+
+%	\item Suspiro Espiritual(20ps,10xpm): Para cada 1 PF gasto ao concentrar a magia, o usuário pode curar 1 PM do alvo até o máximo do focus do beneficiário. O usuário pode gastar uma quantidade de PF igual a sua resistência. TC10.
+
+	\item Ponto Fraco (8xpm): Antes de realizar a jogada de ataque o usuário deve declarar que está usando a habilidade ponto fraco, gastando 1 PF reflexivamente para cada golpe realizado. Se bem sucessido em seu ataque, dobre o valor usado para conceder bônus no dano por sucessos extras, assim como o limite desse dano.
+	
+	\item Transferir (8xpm): O Mago pode transferir a vontade seu PM para outra pessoa. Habilidade instantânea. Ele pode transferir uma quantidade máxima de PM igual ao seu focus.
+ 
+ 	\item Conversar com Animais(10xpm): O usuário seleciona um tipo de animal para conversar normalmente. 
+
+	\item Memória eidética(10xpm): O personagem tem a capacidade de se lembrar de coisas ouvidas e vistas, com um nível de detalhe quase perfeito. O mestre pode atribuir bônus em certas situações, alem de reduzir o tempo de treino para alguns conhecimentos. O personagem deve ter acuidade igual ou maior a 15 para aprender essa habilidade.
+
+	\item Mimetismo(40ps,14xpm,14xpf): Sempre que alguem utilizar uma técnica o usuário de mimetismo pode ativa-la reflexivamente Por 12 PM e 4 PF. O usuário dessa magia faz um teste de concentração mais o bônus de observar com dificuldade váriavel (25-35). Em caso de sucesso ele pode utilizar a mesma técnica pelo resto do dia, inclusive magias. O usuário nescessita de nível mental 6 e físico 6 para aprender essa habilidade.
+	
+		\item Metamorfose (20PS,12xpm,12xpf): O usuário pode usar a habilidade metamorfose. O mestre deve restringir esse aprendizado para situações MUITO especificas dentro de jogo.
+
+%	\item Hipermetamorfose (10xpf,6xpm): Um personagem usuário de metamorfose pode, por um custo extra de Pm's, intensificar uma metamorfose, tornando-a mais poderosa. Para cada pm extras gasto com a metamorfose o bônus total aumenta em +1, limitado pela sabedoria do usuário. Ele não pode usar a metamorfose reflexivamente quando usando esse artificio.
+
+	\item Clarividência (10xpm): O usuário recebe o bônus de inteligência para os testes de esquiva. Consome 2 pf e a duração da habilidade é igual a concentração do usuário.
+	
+	\item Habilidade Gerais: Armas Extras, Conhecimento (Animais, Linguas), Artesanato, Avaliar equipamento, Sobrevivência, Empatia, Investigação. 
+	
+\end{enumerate}
+
+
+\subsection{Ranger / Batedor} 
+
+\begin{enumerate}
+
+	\item Focus em Arma (6xpf): Por 1 PF o usuário recebe um bônus de 4 em destreza para ataques a distância. Habilidade reflexiva.
+	
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Pre-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Tiro da Estiga (12xpf): Para cada PF gasto nessa técnica, o usuário recebe 2 de dano normal em um ataque a distância. O valor máximo que o usuário pode receber como bônus dessa técnica é igual a sua concentração. Habilidade instantânea.  
+
+	\item Rasante da Águia (12xpf): Por 3 PF o usuário torna todo o dano de um ataque a distância em dano automático. Não pode ser usado em conjunto com a manobra ataques multíplos. Requer nível físico mínimo 4.
+	
+	\item Olhos de Gavião(12xpm): O usuário pode ver os atributos físicos de um alvo apenas ao olhar. Além disso, gastando 2 PF reflexivamente o usuário de Olhos de Gavião recebe +6 para detectar ilusões durante concentração turnos.
+	
+	\item Passo Largo(8xpf): O usuário gasta metade dos PF normais quando caminhando grandes distâncias.
+
+	\item Corpo Saudável(14xpf): O usuario recupera o dobro dos PF normais ao repousar ou com efeitos de cura.
+	
+	\item Perseguir (10xpf): O usuário sempre recebe um bônus de +2 para ataque e dano quando um oponente estiver fugindo. Ele também recebe o mesmo bônus em esquiva e defesa caso esteja sendo perseguido. Pode ser comprado até 3 vezes.
+
+	\item Reflexos do Gatuno (6xpf,6xpm): O usuário recebe um bônus de +4 em todos os testes de percepção.
+
+ 	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+
+	\item Corpo do Bisão(10xpf): Sua quantidade de PF aumenta permanentemente 8 pontos. Requer resistência maior que 15 para ser comprada.
+
+	\item Sentidos Aguçados(6xpf,8xpm): O personagem pode comprar uma desses seguintes sentidos aguçados sempre que comprar essa habilidade permanente: Visão noturna, Visão extendida, Tato supersensível (com um teste de inteligência pode identificar substâncias em alimentos e liquidos por exemplo), Olfato preciso ou Audição profunda.
+
+	\item Sinergia do Héroi (8xpf): Sempre que o usuário usar uma habilidade de ataque instantânea ou reflexiva de ataque corpo a corpo e errar o golpe, o usuario perde somente metade dos PF que normalmente perderia caso acertasse o golpe. Por exemplo, caso um usuário de braver erre o golpe, ele irá perde apenas 3 PF pelo uso da habilidade. Pré-requisito: Vigor e nível físico 4 ou mais.
+
+	\item Sentido Espiritual(10xpm): 1 PM. Habilidade reflexiva.\newline
+Durante 1 hora o alvo pode ver e conversar com espiritos normalmente dentro de um ambiente que ele tenha algum tipo de sobrevivência. Ele também pode ver nuances do mundo espíritual além de concentrações de mana (energia mágica). 
+
+	\item Defesa com a Arma (6xpf): O usuário por 1 PF, ganha um bônus de +3 para defender com a arma/escudo durante todo o turno. O bônus recebido pode ser usado em qualquer teste relativo a manobra aparar. Habilidade reflexiva.
+	
+	\item Defesa com a Arma Aprimorado (8xpf): O usuário por 2 PF, ganha um bônus de +6 para defender com a arma/escudo durante todo o turno. O bônus recebido pode ser usado em qualquer teste relativo a manobra aparar. Habilidade reflexiva. Pré-requisito: Defesa com a Arma.
+	
+	\item Vigor(6xpf): O alvo recebe um bônus de +2 em todos os testes de resistência e seus PF e PV sao aumentados em 1. Pode ser comprado ate 3 vezes. Habilidade permanente.
+
+	\item Ataques Múltiplos (10pxf): O usuário recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada até 4 vezes.
+	
+	\item Esquivas Múltiplas (8xpf): O usuário pode usar o bônus de esquiva para reduzir penalidades decorrente da manobra esquivas multiplas. Requer nivel fisico 3 ou maior para aprender a habilidade.	
+
+	\item Esquivas Multiplas Melhorada(6xp): O bônus concedido pela habilidade esquivas multiplas aumenta em +2. O bônus total não pode exceder a esquiva do usuário.
+
+	\item Ataque Concentrado(6xpf,6xpm): O usuário recebe um bônus de +2 em destreza para cada turno de ataque gasto analisando o oponente. Pode receber um bônus de no máximo o valor de sua concentração. O bônus recebido tem duração igual a inteligência do usuário. A contagem só tem inicio quando o usuário interrompe a análise sobre oponente.
+
+	\item Astucia da Batalha(2xpf,8xpm): O usuário pode cancelar o bônus cedido pela habilidade ataque concentrado (ou similares como observar em combate) ao oponente. Deve-se fazer um teste combatido entre a percepcao do usuário (podendo atribuir o bônus de observar) contra a acuidado do oponente. Para cada oponente extra, atribua uma penalidade cumulativa de -2. Habilidade permanente.
+	
+  \item Acalmar Animais(10xpm): O usuário pode realizar um teste de inteligência mais carisma para tentar acalmar algum animal violento. O mestre deve dizer a dificuldade e o efeito pode variar desde a fuga do animal ou o animal não atacar o usuário em batalha. A habilidade Conversar com Animais concede um bônus igual ao carisma do usuário.
+
+	\item Insônia induzida(10xpm): O usuário pode gastar 1 PF para ganhar 2 sucessos no teste realizado contra a magia sleep. O bônus recebido dessa forma não pode ultrapassar o valor de concentração do usuário.
+
+  	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+
+	\item Habilidade Gerais: Furtividade, Navegar, Cavalgar, Guerra, Saltar, Correr, Armadilhas, Sobrevivência, Rastrear, Artesanato, Escalar, Adestrar Animais, Gunsmith.
+\end{enumerate}
+ 
+
+\subsection{Monges / Lutadores} 
+    
+\begin{enumerate}
+
+		\item Vigor(6xpf): O alvo recebe um bônus de +2 em todos os testes de resistência e seus PF e PV são aumentados em 1. Pode ser comprado até 5 vezes. Habilidade permanente.
+  
+  	\item Pele de Madeira(10xpf): Por 1 Pf gasto reflexivamente o usuário recebe um bônus de /2 em sua defesa, usando o valor total dela durante o resto do turno, para um limite de ataques recebidos igual a seu bônus de defesa. 
+  	
+  	\item Pele de Aço(12xpf): Por 3 PF o usuário, reflexivamente durante uma defesa, faz com que toda sua defesa seja considerada do tipo automático durante o resto do turno, para um limite de ataques recebidos igual a seu bônus de defesa. Pré-requisito: Pele de Madeira. Requer nível físico 3.
+
+  	\item Fortalecimento do Corpo(10xpm): Por 3 PF e durante concentração turnos, o usuário recebe um recebe um bônus de 6 em defesa. Pré-requisito: Vigor. Habilidade instantânea.
+  
+  	\item Punho da Estiga(8xpf): Os punhos do usuário tornam-se afiados como aço, causando +2 de dano automático. O usuário tem liberdade para manifestar o efeito da habilidade. Pode Ser comprado até 5 vezes.
+  
+  	\item Focus do Ki(8xpf): O usuário gasta 1 PF para receber um bônus em destreza igual ao bônus de concentração por ataque. Habilidade reflexiva.
+
+		\item Explosão de Ki(14xpf): O usuário pode gastar PF para aumentar atributos Fisico. Para cada 1 PF, 2 pontos físicos podem ser aumentados. O usuário não pode receber em um único atributo um bônus maior que 10. Além disso o usuário não pode usar uma quantidade de PF maior do que sua concentração. O efeito dura concentração turnos. Até o fim da habilidade, todo PF gasto fica acometido, ou seja, o usuário não pode recuperar a quantidade de PF usada para essa habilidade até o termino dela. Requer nível físico 4. Habilidade instantânea.
+
+		\item Reflexos da Cobra(10xpf): Por 1 PF o usuário pode usar a manobra aparar em um projétil. Habilidade reflexiva.
+
+  	\item Soco Barreira(6xpf): O usuário recebe +2 quando usar a manobra contra ataque contra um oponente que esteja usando a péricia bélica lutar desarmado. Pode ser comprado até 3 vezes.
+  
+  	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+  
+  	\item Agarrar(6xpf): O usuário recebe +2 para testes de agarrar. Pode ser comprado até 5 vezes.
+  
+			\item Corpo do Bisão(10xpf): Sua quantidade de PF aumenta permanentemente 8 pontos. Requer resistência maior que 15 para ser comprada.
+
+	\item Ataques Múltiplos (10pxf): O usuário recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada até 4 vezes. 
+
+	\item Esquivas Múltiplas (8xpf): O usuário pode usar o bônus de esquiva para reduzir penalidades decorrente da manobra esquivas multiplas. Requer nivel fisico 3 ou maior para aprender a habilidade.	
+
+	\item Esquivas Multiplas Melhorada(6xp): O bônus concedido pela habilidade esquivas multiplas aumenta em +2. O bônus total não pode exceder a esquiva do usuário.
+  
+  	\item Hadouken(10xpf,6xpm): O usuário pode realizar um ataque fisico a distância atirando uma bola de energia. O dano e o ataque são calculados da mesma forma se ele estivesse atacando corpo a corpo usando a péricia bélica lutar desarmado. Consome 1 PF para cada esfera de energia lançada. 
+  
+\item Hadouken de Fogo(12xpf): Por 2 PF extras, todo o dano causado pela habilidade hadouken se torna do tipo automatico. Além disso o dano causado aumenta em +2.  
+  	\item Soco de 1 polegada(16xpf): Quando atacando corpo a corpo um alvo, qualquer bônus de armadura é desconsiderado para calcular o dano. Consome 2 PF. Requer nivel fisico 5. Habilidade instantânea. Bônus de armas não podem ser includos para o calculo do dano dessa habilidade.
+  	
+  	\item Meditação(10xpf,10xpm): O usuário pode gastar PF(1) para recuperar PV(2) ao meditar. Para cada Pf gasto, 2 minutos de meditação são requeridos. 
+  
+  	\item Ataque Giratorio(8xpf): Por 3Pf, 3 Alvos ao redor podem ser atacados como se o usuário estivesse atacando um alvo normalmente. Não pode ser usada em conjunto com a manobra ataques multíplos.
+
+	\item Insônia induzida(10xpm): O usuário pode gastar 1 PF para ganhar 2 sucessos no teste realizado contra a magia sleep. O bônus recebido dessa forma não pode ultrapassar o valor de concentração do usuário.
+
+	\item Chama Pacífica(10xpm): O usuário pode gastar 1 PF para ganhar 2 sucessos no teste realizado contra a magia berserk. O bônus recebido dessa forma não pode ultrapassar o valor de concentração do usuário.  
+
+	\item Nirvana(8xpf,16xpm): Uma vez por dia e por 2 PF o usuário de nirvana pode anular qualquer efeito negativo que esteja sobre ele, seja redução de atributo ou condições negativas.
+  
+  \item Shangri-La (6xpf,8xpm): O usuário pode usar a habilidade nirvana uma quantidade extras de vezes por dia igual ao número de vezes que ele comprou a habilidade Shangri-La.
+  
+  	\item Habilidade Gerais: Saltar, Correr, Escalar, Sobrevivência.
+\end{enumerate}
+
+\subsection{Assassino / Ninja} 
+
+\begin{enumerate}
+	\item Ataques Multiplos (10pxf): O usuario recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada ate 4 vezes. 
+	
+	\item Esquivas Múltiplas (8xpf): O usuario pode usar o bônus de esquiva para reduzir penalidades decorrente da manobra esquivas multiplas. Requer nivel fisico 3 ou maior para aprender a habilidade.	
+
+	\item Esquivas Multiplas Melhorada(6xp): O bônus concedido pela habilidade esquivas multiplas aumenta em +2. O bônus total não pode exceder a esquiva do usuario.
+	
+	\item Esquiva Aprimorada (8xpf): por 2 PF o usuário recebe um bônus na esquiva de +4 para todo um turno de esquiva. Habilidade reflexiva.
+
+	\item Tiro da Estiga (12xpf): Para cada PF gasto nessa tecnica, o usuario recebe 2 de dano normal em um ataque a distancia. O valor maximo que o usuario pode receber como bônus dessa tecnica e igual a sua concentracao. Habilidade instantanea. Pre-requisito: 
+
+	\item Rasante da Águia (12xpf): Por 3 PF o usuário torna todo o dano de um ataque a distância em dano automático. Não pode ser usado em conjunto com a manobra ataques multíplos. Requer nível físico mínimo 4.
+
+	\item Iniciativa Aprimorada (8xpf): O usuario recebe um bônus de +4 em todos os testes de iniciativa que forem realizados.
+
+	\item Iniciativa Super Aprimorada (4xpf): O bônus concedido pela habilidade Iniciativa Aprimorada aumenta em 2 pontos. Pode ser comprada ate 3 vezes.
+
+	\item Reflexos do Gatuno (6xpf,6xpm): O usuario recebe um bônus de +4 em todos os testes de percepcao.
+
+	\item Ataque Certeiro (8xpf): O bônus automático de uma arma branca é aumentado em +2 durante 1 hora. Custa 1 PF para ativar. Habilidade reflexiva.
+	
+	\item Super Ataque Certeiro (8xpf): O bônus cedido pela habilidade Ataque certeiro aumenta em +2. 
+	
+	\item Pulo do Gato (12xpf): O usuário realiza um ataque que só pode ser desviado com a esquiva, ou seja, o oponente não pode usar a manobra aparar. Custa 2 PF por uso e só pode ser utilizada usando armas pequenas ou leves. Habilidade reflexiva.
+
+	%\item Fuuku no kei (12xpf): O ninja pode escolher trocar pontos de esquiva por destreza e vice versa sem gastar pf nem turnos. A troca dura enquanto ele estiver na forma. 1 turno para usar.
+
+	\item Kage Bushin no jutsu(12xpf,12xpm): O ninja pode criar um clone com tempo de vida igual a sua concentração em minutos e com atributos iguais a metade dos atributos do ninja, inclusive PF,PM e PV. O clone pode ter dois atributos mentais iguais aos do usuário. Custa 2PF por clone e para cada Pf extra gasto pode-se aumentar 3 pontos de atributo físico do clone ou 6 PV ou 2 PF ou 4 PM. O clone não pode ter um atributo maior que do que seu criador. O clone conhece todas as habilidades, péricias e especializações do usuário, mas não pode criar outro clone. Durante o turno de ataque perdido para se criar os clones, o usuário não pode realizar qualquer outra ação. O usuário pode fazer um teste de acuidade para telepaticamente comandar os clones e receber informações do que está ocorrendo. Quanto mais detalhado for o comando ou a complexidade da informação recebida, maior deve ser a dificuldade do teste. Todos os equipamentos mundanos também são clonados com metade de seus valores originais.
+	
+	\item Hoga Bushin no jutsu(6xpf,8xpm): O usuário pode gastar PF extra para deixar os equipamentos clonados com a técnica kage bushin no jutsu mais parecidos com o valor original. Para cada PF gasto o equipamento clonado recebe 2 de dano/defesa do tipo autómatica ou 4 de dano/defesa do tipo normal.	
+	
+	\item Enki Bushin(8xpf,8xpm): O tempo de vida de um clone criado pela técnica Kage Bushin no jutsu dobra. Além disso o clone criado recebe 2 PF e 6 PV de bônus, não podendo ultrapassar os PV e PF do usuário.
+	
+	\item Dai Enki (6xpf,6xpm): Os efeitos concedidos pela habilidade Enki Bushin dobram.
+	
+	\item Zoran Bushin(8xpf,8xpm): O clone, quando criado, recebe um bônus de 10 em seus atributos físicos distribuidos da forma como o usuário desejar. O valor de um atributo não pode ultrapassar o valor do criador do clone. Custa 1 PF. Habilidade reflexiva.
+	
+	\item Renshin no Jutsu(8xpf,8xpm): O usuário pode transformar seu corpo em objetos. Para tal, o usuário deve fazer um teste de concentração com dificuldade variável com a complexidade do objeto transformado. O mestre deve levar em consideração fatores como diferença entre paramêtros do corpo do usuário e do objeto a ser transformado, como tamanho, peso, formado, etc. O usuário nesse estado não pode se mover, tendo um valor de defesa do tipo automatico igual a soma de sua força e defesa. Objetos ligados ao usuário também são transformado e não influenciam no resultado da habilidade. A transformação dura concentração em minutos ou até o usuário desejar o fim da mesma. Custa 4PF. Habilidade de TC 20.
+	
+	\item Ton no jutsu(14xpf,8xpm): Ao comprar a habilidade o usuário escolhe um elemento. Ele pode soltar tiros de energia do elemento escolhido. O dano é igual ao focus do usuário. Além do dano ser elemental (igual ao elemental escolhido na hora da compra da técnica), ele é do tipo automático. O usuário pode jogar sua jogada de acerto usando tanto concentração quanto destreza. Custa 3 PF. Habilidade instantânea.
+
+	\item Surudoi Ton(6xpf,6xpm): O usuário escolhe um elemento do Ton no jutsu. O dano desse ton no jutsu recebe +2 de bônus. Pode ser comprado até 3 vezes. Essa habilidade não recebe custo extra para outras classes desde que o usuário tenha a habilidade ton no jutsu.
+
+	\item Fukkui Ki(14xpf): O usuário realiza um ataque fisico no alvo, mas sem causar dano. Se atigindo o alvo perde 10 pontos em 1 atributo físico escolhido pelo usuário (exceto defesa). Um personagem pode ter seu atributo reduzido até o valor mínimo de 1. Custa 4 PF caso acerte e 2 caso erre. A perda tem duração igual a concentração em turnos do usuário. 
+
+	\item Ponto Fraco (8xpm): Antes de realizar a jogada de ataque o usuário deve declarar que está usando a habilidade ponto fraco, gastando 1 PF reflexivamente para cada golpe realizado. Se bem sucessido em seu ataque, dobre o valor usado para conceder bônus no dano por sucessos extras, assim como o limite desse dano.	
+	
+	\item Habilidade Gerais: Furtividade, Saltar, Correr, Armadilhas, Rastrear, Escalar, Intimidação.
+	
+	
+\end{enumerate}
+
+ \subsection{Samurai} 
+ 
+\begin{enumerate}
+	\item Espada de Duas Mãos (8xpf): O usuário ao usar a arma de duas mãos, recebe um bônus de força. Consome mais PF que o normal quando usada em uma arma de porte grande ou pesado. O mestre deve decidir como será essa perda de Pf extra. O normal é que o personagem perca 1 PF a cada 2 usos dessa habilidade, ou 1 Pf para cada uso dela no caso do bônus de força ser maior do que 4.
+
+	\item Focus em Arma (6xpf): Por 2 PF o usuario tem um bônus de /2 no dano e 2 no acerto para 1 ataque. Habilidade reflexiva.
+
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Pre-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Ataques Multiplos (10pxf): O usuario recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada ate 4 vezes. 
+
+	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+
+	\item Vigor(6xpf): O alvo recebe um bônus de +2 em todos os testes de resistência e seus PF e PV são aumentados em 1. Pode ser comprado até 5 vezes. Habilidade permanente.
+
+	\item Recuperação da Gloria (10xpf): Uma vez por dia o usuário recupera status de PV. Ele pode curar dano levado nos últimos minutos, valor esse igual ao dobro da resistência do usuário. Habilidade instantânea. Requer nivel fisico 3 ou mais para aprender essa habilidade.
+
+	\item Defesa com a Arma (10xpf): O usuário por 1 PF, ganha um bônus de +3 para defender com a arma/escudo durante todo o turno. O bônus recebido pode ser usado em qualquer teste relativo a manobra aparar. Habilidade reflexiva.
+	
+	\item Defesa com a Arma Aprimorado (6xpf): O usuário por 2 PF, ganha um bônus de +5 para defender com a arma/escudo durante todo o turno. O bônus recebido pode ser usado em qualquer teste relativo a manobra aparar. Habilidade reflexiva. Pré-requisito: Defesa com a Arma.
+	
+	\item Sinergia do Herói (8xpf): Sempre que o usuario usar uma habilidade de ataque instantanea ou reflexiva de ataque corpo a corpo e errar o golpe, o usuario perde somente metade dos PF que normalmente perderia caso acertasse o golpe. Por exemplo, caso um usuario de braver erre o golpe, ele irá perde apenas 3 PF pelo uso da habilidade. Pre-requisito: Vigor e nivel fisico 4 ou mais.
+
+	\item Grito de Kiai (8xpf,8xpm): Por x PF o usuário, com um grito, paraliza os alvos ao redor se estes não forem bem sucedidos em um teste de coragem  contra status + x do usuário. Os  alvos ficam paralizados durante 1 + falhas turnos sem poder atacar o usuário da técnica. O personagem deve ter no minimo nivel 3 físico para aprender esta habilidade. Habilidade instantânea.
+
+	\item Determinação Lendária (10xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PF igual a sua coragem. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 4 ou mais para aprender essa habilidade. 
+
+	\item Convicção Sagrada(8xpm): bônus de +4 para testes contra habilidades de medo e coragem. Pode ser comprado ate 3 vezes.
+
+	\item Corte do Vento(10xpf,6xpm): O usuário pode atacar a distância realizando um corte de energia gastando 2 pf. A distância é igual ao dobro da acuidade em metros. Considere esse ataque como um projétil pequeno para fins da manobra aparar. Habilidade reflexiva.
+        
+\item Douryu no kei(10xpf): O alvo pode retirar 1 ponto de destreza para colocar como bônus de dano automatico até o valor máximo de sua força. Gasta 1 PF para ativar essa habilidade reflexiva. Não pode ser usada em conjunto com a manobra ataques multíplos.
+
+	\item Ittoryu(12xpf): Por 3 PF gastos reflexivamente o usuário pode tornar todo o seu dano do tipo automático para 1 ataque. Requer mínimo de nível físico igual a 4 para aprender essa habilidade. Não pode ser usada em conjunto com a manobra ataques multíplos. Habilidade instantânea.
+	
+	\item Nittoryu(8xpf): Por 1 Pf gasto reflexivamente, o usuário recebe +2 de acerto para 2 ataques realizados usando a manobra ataques multíplos. Ou seja, se o usuário deseja realizar 4 ataques e receber o bônus para todos eles, ele deve gastar 2 PF.
+	
+	\item Santoryu(10xpf): O usuário gasta 2 PF reflexivamente e recebe um bônus de 6 em seu acerto para 1 ataque. 
+	
+	\item Ougi(14xpf): O usuário gasta 6 PF para realizar um ataque com +4 na destreza e +10 no dano. Habilidade instantânea. Requer mínimo de nível físico igual a 3 para aprender essa habilidade.
+
+	%\item Shin Ougi(10xpf): O custo da habilidade Ougi reduz para 3 PF. Pré-requisito: Ougi
+
+	\item Quebra de Arma (10xpf): O usuário inflige dano a arma do oponente ao custo de 2 PF, mas caso erre o golpe consome apenas 1 PF. Cada ponto de dano do tipo automático causa 3 PR de dano a arma do alvo. O usuário realiza um ataque contra o oponente porém sem lhe causar dano. Requer nível físico 4 ou mais para aprender essa habilidade. Habilidade instantânea.
+
+	\item Sacrificio da Espada(12xpf): O usuário concentra sua força espiritual em sua arma. Quando desejar, para cada 10 pontos de resistência perdidos da arma, o samurai recebe um bônus de 1 em força e destreza. O usuário não pode usar qualquer outra habilidade instantânea. Ela tem custo de 3 PF ou 6 PV e tem duração igual a concentração do usuário em turnos. Habilidade instantânea. 
+	
+	\item Insônia induzida(10xpm): O usuário pode gastar 1 PF para ganhar 2 sucessos no teste realizado contra a magia sleep. O bônus recebido dessa forma não pode ultrapassar o valor de concentração do usuário.
+		
+ 	\item Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+
+	\item Flecha de Minamoto (8xpf): Por 2 PF dobre o dano causado por 1 projétil pequeno (flechas, dardos, etc). Só pode ser usado em um projétil que use a força do usuário como meio de propulsão. Habilidade reflexiva.	
+		
+	\item Habilidade Gerais: Forjar, Cavalgar, Guerra.
+	
+\end{enumerate}
+
+\subsection{Soldado} 
+
+\begin{enumerate}
+	\item Focus Mágico(10ps,4xpm): O Usuário ganha +2 no dano quando usa uma magia de ataque. Pode ser comprada até 3 vezes. Habilidade permanente.
+ 
+ 	\item Força Espiritual(12xpm): O usuário ataca unicamente com sua força mágica causando sab(max 15) + x de dano. Custa 4 pm + x, onde x não pode ultrapassar o valor de concentração do usuário. Habilidade instantânea. O efeito da magia geralmente é manifestado por uma força invisível.
+
+	\item Focus em Arma (6xpf): Por 1 PF o usuario recebe um bônus de 4 em destreza para ataques a distancia. Habilidade reflexiva.
+	
+	\item Focus em Arma Melhorado (10xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Pre-Requisito: Focus em Arma. Habilidade permanente.
+
+	\item Tiro da Estiga (12xpf): Para cada PF gasto nessa tecnica, o usuario recebe 2 de dano normal em um ataque a distancia. O valor maximo que o usuario pode receber como bônus dessa tecnica e igual a sua concentracao. Habilidade instantanea. Pre-requisito: 
+
+	\item Rasante da Águia (12xpf): Por 3 PF o usuário torna todo o dano de um ataque a distância em dano automático. Não pode ser usado em conjunto com a manobra ataques multíplos. Requer nível físico mínimo 4.
+	
+	\item Perseguir (8xpf): O usuario sempre recebe um bônus de +2 para ataque e dano quando um oponente estiver fugindo. Ele tambem recebe o mesmo bônus em esquiva e defesa caso esteja sendo perseguido. Pode ser comprado ate 3 vezes.
+
+	\item Vigor(6xpf): O alvo recebe um bônus de +2 em todos os testes de resistência e seus PF e PV são aumentados em 1. Pode ser comprado até 5 vezes. Habilidade permanente.
+
+	\item Armadura da Vontade (10xpf): Durante 2x turnos o usuário defende com defesa total ao custo de x PF. Habilidade instantânea. 
+
+	\item Armadura da Estiga (6xpf): O custo da habilidade Armadura da Vontade é dividido pela metade. Pré-requisito: Armadura da Vontade.
+
+	\item Iniciativa Aprimorada (8xpf): O usuario recebe um bônus de +4 em todos os testes de iniciativa que forem realizados.
+
+	\item Iniciativa Super Aprimorada (4xpf): O bônus concedido pela habilidade Iniciativa Aprimorada aumenta em 2 pontos. Pode ser comprada ate 3 vezes.
+
+	\item Ataques Multiplos (10pxf): O usuario recebe um bônus de +2 quando atacar usando a manobra ataques multiplos. A destreza final não pode ultrapassar a destreza do personagem. Pode ser comprada ate 4 vezes. 
+
+	\item Agilidade da Fuga (8xpf): Por 2x turnos e ao custo de x PF o usuário recebe um bônus de 4 na esquiva. Habilidade instantânea.
+	
+ 	\item Tangente Dinâmica (6xpf,8xpm): Por 1 PF o usuário ativa essa habilidade que dura 1 turno inteiro de esquiva. Para todos os ataques a distância, o usuário tem um bônus em sua esquiva igual ao seu bônus de inteligência. Requer no mínimo inteligência 7 para aprender essa habilidade.
+
+	\item Ponto Fraco (8xpm): Antes de realizar a jogada de ataque o usuário deve declarar que está usando a habilidade ponto fraco, gastando 1 PF reflexivamente para cada golpe realizado. Se bem sucessido em seu ataque, dobre o valor usado para conceder bônus no dano por sucessos extras, assim como o limite desse dano.
+ 
+	\item Metabolismo Acelerado tipo A (10xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PF igual a sua concentração. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 5 ou mais para aprender essa habilidade. Cada compra extra permite ao usuário usar uma vez extra por dia esta habilidade.
+
+	\item Metabolismo Acelerado tipo B (10xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PV igual sua concentração. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 5 ou mais para aprender essa habilidade. Cada compra extra permite ao usuário usar uma vez extra por dia esta habilidade.
+ 	 
+	\item Ataque Concentrado(6xpf,6xpm): O usuário recebe um bônus de +2 em destreza para cada turno de ataque gasto analisando o oponente. Pode receber um bônus de no máximo o valor de sua concentração. O bônus recebido tem duração igual a inteligência do usuário. A contagem só tem inicio quando o usuário interrompe a análise sobre oponente.
+ 
+ 	\item Um por todos e todos por um(8xpf,10xpm): Para cada aliado que tiver essa habilidade na batalha, o usuário recebe +3 em testes de destreza e esquiva para um mesmo oponente em comum. O usuário não pode receber um bônus maior que sua inteligência.
+ 	 
+ 	\item Habilidade Gerais: Furtividade, Navegar, Guerra, Saltar, Correr, Armadilhas, Sobrevivência, Rastrear, Escalar, Mecânica, Computação, Medicina, TechnoAlquimia, Gunsmith, Investigação.
+
+ 	
+\end{enumerate}
+ 
+ \subsection{Oraculo / Eremita} 
+ 	
+\begin{enumerate}
+
+	\item Insônia induzida(10xpm): O usuário pode gastar 1 PF para ganhar 2 sucessos no teste realizado contra a magia sleep. O bônus recebido dessa forma não pode ultrapassar o valor de concentração do usuário.
+
+	\item Chama Pacífica(10xpm): O usuário pode gastar 1 PF para ganhar 2 sucessos no teste realizado contra a magia berserk. O bônus recebido dessa forma não pode ultrapassar o valor de concentração do usuário.
+
+	\item Ton no jutsu(14xpf,8xpm): Ao comprar a habilidade o usuário escolhe um elemento. Ele pode soltar tiros de energia do elemento escolhido. O dano é igual ao focus do usuário. Além do dano ser elemental (igual ao elemental escolhido na hora da compra da técnica), ele é do tipo automático. O usuário pode jogar sua jogada de acerto usando tanto concentração quanto destreza. Custa 3 PF. Habilidade instantânea.
+
+	\item Surudoi Ton(6xpf,6xpm): O usuário escolhe um elemento do Ton no jutsu. O dano desse ton no jutsu recebe +2 de bônus. Pode ser comprado até 3 vezes. Essa habilidade não recebe custo extra para outras classes desde que o usuário tenha a habilidade ton no jutsu.
+
+ 	\item Focus Elemental(8xpm): Quando o usuário ativa essa abilidade ele recebe um bônus de +2 no dano e na defesa mágica para determinado elemento durante 1 hora. Custa 1 PF para ativar. Habilidade instantânea. O usuário só pode escolher um elemento que ele tenha escolhido como elemento da habilidade ton no justo.
+ 	
+ 	\item Focus Elemental Aprimorado (4xpm): O bônus concedido pela habilidade Focus Elemental aumenta em 2.
+		
+	\item Arma Espiritual(10xpm,10xpf): O usuário pode conectar um elemento a sua arma ou seus punhos. Ele so pode conectar um elemento que tenha dominio a partir da habilidade ton no justu. Durante concentração turnos, a sua arma ganha um bônus automático igual ao bônus de focus do usuário. O dano recebe a propiedade elemental igual ao elemental utilizado. Pode ser usada em um projétíl. Cada PF extra gasto reflexivamente concede inserir o bônus em 1 projétil a mais, até o máximo de concentração do usuário. A arma perde uma quantidade de PR igual ao bônus concedido, no caso de projéteis ele é destruido logo após seu uso. Se for usadas em seus corpo para fins da manobra lutar desarmado, o usuário pode resistir ao dano com sua defesa. Habilidade instantânea. Custa 4 PF para ativar.
+
+\item Hakken no Justo(10xpm,10xpf): Por 4 PF o usuário pode invocar uma arma usando seu ki. A arma tem 30 PR e dano normal igual a sabedoria do usuário. O usuário pode gastar 1 PF para aumentar o dano do tipo automático em 1 ou a quantidade de PR em 10. Além disso ele tambem pode gastar 2 PF para aumentar o dano do tipo normal em /3. O usuário pode gastar uma quantidade de PF igual ao seu bônus de concentração. A arma desaparece após 1 hora de sua criação. O usuário não pode realizar qualquer outra ação enquanto estiver invocando a arma. Habilidade de TC10. A arma não tem redução de atributos devido a perda de PR, apenas quando o mesmo é reduzido a zero. A arma é considerada uma arma mágica de slot nulo (pode ser usada com qualquer arma mágica) que causa dano físico. Outras pessoas com conhecimento de magia ou forjar podem perceber que a arma é magica.
+
+	\item Vigor(6xpf): O alvo recebe um bônus de +2 em todos os testes de resistência e seus PF e PV são aumentados em 1. Pode ser comprado até 5 vezes. Habilidade permanente.
+
+	\item Armadura da Vontade (10xpf): Durante 2x turnos o usuário defende com defesa total ao custo de x PF. Habilidade instantânea. 
+
+	\item Armadura da Estiga (6xpf): O custo da habilidade Armadura da Vontade é dividido pela metade. Pré-requisito: Armadura da Vontade.
+
+	\item Armadura do Herói (10xpf): Durante concentração turnos o usuário defende usando o dobro de sua defesa ao custo de 5 PF. O bônus máximo dessa habilidade é 15. Habilidade instantânea. Pré-requisito: Armadura da Vontade. O personagem deve ter no minimo nível 4 físico para aprender esta habilidade.
+
+	\item Defesa do Corpo Divino(4xpf,12xpm): O usuário criar um círculo de ki em volta dele. Qualquer morto vivo, criatura das trevas ou espirito atormentado que deseja ultrapassar este círculo deve passar num teste de coragem com DF 18. O usuário pode gastar 1 pf extra para aumentar essa DF em 2 pontos até no maximo de carisma. Custa 6pf para usar. Habilidade instantânea.
+
+\item Corpo Saudável(14xpf): O usuario recupera o dobro dos PF normais ao repousar ou com efeitos de cura.
+	
+	\item Acalmar Animais(10xpm): O usuário pode realizar um teste de inteligência mais carisma para tentar acalmar algum animal violento. O mestre deve dizer a dificuldade e o efeito pode variar desde a fuga do animal ou o animal não atacar o usuario em batalha. A habilidade Conversar com Animais concede um bônus igual ao carisma do usuario.
+
+  	\item Hadouken(10xpf,6xpm): O usuario pode realizar um ataque fisico a distancia atirando uma bola de energia. O dano e o ataque sao calculados da mesma forma se ele estivesse atacando corpo a corpo usando a pericia belica lutar desarmado. Consome 1 PF para cada esfera de energia lancada. 
+  
+\item Hadouken de Fogo(12xpf): Por 2 PF extras, todo o dano causado pela habilidade hadouken se torna do tipo automatico. Além disso o dano causado aumenta em +2. 
+
+	\item Hadouken Negro(12xpf): O usuário pode realizar um ataque físico a distância atirando uma bola de energia negra. O dano causado (do tipo automático) ignora qualquer armadura e é igual a sabedoria do usuário. Esse dano deve ser convertido como perda de PF e PM. Consome 4 PF para cada esfera de energia lancada. Pré-requisito: Hadouken. Habilidade instantânea.
+		
+	\item Satsui no Hadou(6xpf):	O dano da habilidade hadouken negro aumenta em 2 pontos.
+
+	\item Sexto Sentido (10xpm): O usuário recebe o bônus de sabedoria para os testes de esquiva. Consome 2 pf e a duração da habilidade é igual a concentração do usuário. Habilidade instantânea.
+
+%	\item Esuna (40ps,14xpm): Custo de 6 PM. TC10.\newline
+%O usuário tem o poder de anular uma magia ou habilidade que conceda penalidades temporárias ou condições negativas. Vale observar que se o alvo está sob efeito de várias magias que concedam penalidades, o usuário deve escolher somente um dos efeitos para cancelar. O custo dessa magia pode ser reduzido em 1 PM para cada 10Ps gastos até o custo minimo de 4 PM. O usuário pode fazer um teste reflexivo de inteligência para perceber se um alvo está sendo penalizado por uma magia/habilidade ou não. Requer nível mental maior que 4 para aprender essa magia.
+
+%	\item Pureza do Ki(14xpf,14xpm): Após concentrar a habilidade, o usuário pode se livrar de qualquer efeito negativo de redução de atributo. Enquanto concentra essa habilidade o usuário não pode realizar mais nenhuma outra ação no seu turno de ataque. Custa 4 PF quando usado em si próprio e o dobro quando usado nos outros.
+
+
+\item Pureza do Ki(10xpf,14xpm): O usuário tem o poder de anular uma magia ou habilidade que conceda penalidades físicas temporárias. Vale observar que se o alvo está sob efeito de várias magias que concedam penalidades, o usuário deve escolher somente um dos efeitos para cancelar. Custa 4 PF quando usando em si mesmo e dobro caso contrário. O usuário pode fazer um teste reflexivo de inteligência para perceber se um alvo está sendo penalizado por uma magia/habilidade ou não. Requer nível mental maior que 4 para aprender essa habilidade.
+
+%	\item Pureza do Ki Ampliada(10xpf,20xpm): O usuário pode usar pureza do ki em mais de 1 alvo ao mesmo tempo, porém pagando os custos separados. A área de alcance de seu poder é um circulo de raio igual a sua consciência em metros. Requer nível mental mínimo de 4 para aprender essa habilidade. Habilidade instantânea. 
+	
+\item Pureza do Ki Ampliada (4xmp): Para cada compra dessa habilidade, a habilidade pureza do ki pode cancelar 1 efeito extra.
+	
+	\item Sussuros do ki(14xpm): O eremita recita um mantra gastando todo seu turno de ataque unicamente com isso. Todos os inimigos ao redor recebem um redutor em destreza e esquiva iguais a diferenca entre sua sabedoria e a sabedoria do usuário. A área de alcance de seu poder é um circulo de raio igual ao dobro de sua consciência em metros. Custa 6 PF.
+
+	\item Mãos Divinas(8xpf,8xpm): Por 1 PF o usuário pode atacar espiritos durante 1 turno de ataque completo. Habilidade reflexiva.
+
+\item Arma Sagrada(6xpm,6xpf): O usuário ganha +4 de dano contra mortos vivos, criaturas das trevas e espiritos artomentados. Pode ser comprada ate 3 vezes.
+
+		\item Auridade (10xpm,10xpf): Gastando 1 PF reflexivamente o usuário pode se esquivar de magias usando seu atributo esquiva. O adversário deve usar destreza ou inteligência para acertar. Habilidade reflexiva.
+
+	%\item Determinacão Lendária (12xpf): Uma vez por dia o usuário pode recuperar uma quantidade de PF igual a sua concentração. O usuário não pode usar qualquer outra habilidade instantânea no mesmo turno. Requer nível físico 4 ou mais para aprender essa habilidade. 
+
+	\item Corpo do Bisão(10xpf): Sua quantidade de PF aumenta permanentemente 8 pontos. Requer resistência maior que 15 para ser comprada. 
+	
+	\item Corpo do Bisão Chefe(10xpf): A habilidade Corpo do Bisão pode ser comprada mais 2 vezes. Requer resistência maior que 18 para ser comprada.
+
+	\item Corpo do Bisão Lendário(10xpf): A habilidade Corpo do Bisão pode ser comprada mais 3 vezes. Requer resistência maior que 22 para ser comprada.
+
+  \item Ki Dispel (8xpf,14xpm): Custo de 3 PF. TC10\newline
+O usuário tem o poder de anular um poder não mágico que conceda bônus temporários. Ele deve testar sua sabedoria contra o espírito do beneficiario da habilidade. Além disso o usuário pode gastar 1 PF extra para ganhar 3 sucessos nesse teste, até o limite de sua concentração ganha em bônus dessa forma. O teste não é necessário caso o usuário acerte o oponente sem lhe causar dano (ele pode tentar um ataque no último turno de concentração da habilidade). Vale observar que se o alvo está sob efeito de várias habilidades que concedam bônus, o usuário deve escolher somente um dos efeitos para cancelar. O usuário pode fazer um teste reflexivo de inteligência para perceber se um alvo está sendo beneficiado por uma habilidade ou não. Requer nível mental maior que 4 para aprender essa habilidade.
+
+		\item Equalizar Ki (6xmp): Para cada compra da habilidade equalizar, a habilidade ki dispel pode cancelar 1 efeito extra e o usuário recebe +1 no teste para realizar a habilidade.
+
+	 	\item Força Espíritual(6xpf,12xpm): O usuário pode controlar uma espécie de tentaculo com seu poder espiritual. Essa força tem alcançane igual a inteligência metros e pode realizar feitos físicos, como levantar objetos ou atacar pessoas como se tivesse uma força igual a sabedoria do usuário durante concentração turnos. Dependendo da situação o mestre pode exigir um teste de percepção para que o alvo perceba essa força invisivel o atacando, e poder se esquivar normalmente a partir de então. Custa 2 PF por ativação. Habilidade instantânea.    
+
+\item Convicção Sagrada(8xpm): bônus de +4 para testes contra habilidades de medo. Pode ser comprado até 3 vezes.
+
+\item Sentido Espiritual(10xpm): 2 PF. Habilidade reflexiva.\newline
+Durante 30 minutos o alvo pode ver e conversar com espiritos normalmente. Ele também pode ver nuances do mundo espíritual além de concentrações de mana (energia mágica). 
+
+\item Fortalecimento do Espírito(10xpm): Por 3 PF e durante concentração turnos, o usuário recebe um recebe um bônus de 6 em espírito. Pré-requisito: Vigor. Habilidade instantânea.
+
+\item Cura Espiritual(10xpf,12xpm): Custo de 4 PF. TC10.\newline
+Por 4 PF o usuário regenera 12 PV do alvo. Além disso ele pode gastar 1 PF extra para aumentar 2 PV curados, até o máximo de seu carisma curado dessa forma.
+
+%	\item Meditação(10xpf,10xpm): O usuário pode gastar PF(1) para recuperar PV(1) ao meditar. Para cada Pf gasto, 2 minutos de meditação são requeridos. 
+
+
+\item Habilidade Gerais: Medicina, Herbalismo, Sobrevivência, Conhecimento (Rituais, Espírito).
+
+
+\end{enumerate}
+
+\section{Habilidades Gerais Especiais}
+
+Algumas habilidades gerais merecem ser uma explicação mais detalhada devido a sua natureza única. Além disso, as habilidades gerais especiais só podem ser aprendidas em situações muito específicas, e não a qualquer momento.
+
+\subsection{Afinidade Natural}
+ A habilidade geral afinidade natural faz com que um personagem se comunique e sinta as forças da natureza de um local por ele escolhido. Esse contato faz com que o personagem dificilmente se perca nesse habitat. Além disso, ele também mantem uma sincronia com os animais da região, podendo pedir socorro ou escutar pedidos de ajuda. Para aprender essa habilidade o personagem deve passar anos no ambiente e ter um envolvimento pacífico com o mesmo.
+ 
+ 
+ \subsection{Metamorfose}
+ 
+ Metamorfose é a capacidade que algumas criaturas têm de alterar sua forma física e em alguns casos até sua composição. Ao adquirir metamorfose o personagem ganha a capacidade de alterar partes do seu corpo através de sua vontade, representada pelo bônus concedido pela habilidade. A metamorfose é um poder extremamente versátil, onde cada uso diferente da habilidade tem um custo em bônus que deve ser descontada do bônus total da habilidade. Em outras palavras, um personagem com um bônus de +8 em metamorfose pode invocar 4 poderes de 2 pontos. 
+
+O bônus inicial é +3, assim como as habilidades gerais normais. Porém sua evolução é um pouco diferente. O personagem deve gastar 4 pontos de XP (mental ou física definidos no momento da compra da habilidade) e 4 PS para aumentar +1 ponto no bônus da habilidade. A partir do décimo ponto, essa habilidade recebe um redutor para aumentar seu bônus definido da mesma forma que o redutor para aumentar atributos acima de dez é definido.
+
+Para ativar a metamorphose o usuário deve gastar em PM um valor igual ao bônus utilizado. Ou seja, para ativar metamorfose +6 o usuário gasta 6 PM. Para fins de ativação a metamorphose é considerada uma habilidade instantânea. Porém o usuário pode ativa-la reflexivamente no turno de ataque gastando 2 PF extras. A metamorfose fica ativa durante concentração em minutos ou até que o poder diga o contrário. O usuário pode "renovar" a ativação da habilidade gastando reflexivamente metade do custo em PM usado para ativar a habilidade. Um usuário de metamorfose pode cancelar o poder assim que desejar.
+
+Usuários de metamorfose com concentração superior a 5, conseguem treinar e aprender gratuitamente um poder extra chamado de hiper metamorfose. Um personagem usuário de metamorfose pode, por um custo extra de Pm's, intensificar uma metamorfose, tornando-a mais poderosa. Para cada pm extras gasto com a metamorfose o bônus total aumenta em +1, limitado pela sabedoria do usuário. Ele não pode usar a metamorfose reflexivamente quando usando esse artificio.
+
+Apesar de ser uma habilidade extremamente útil ela pode ser perigosa quando usada desfreadamente. O usuário pode receber o bônus de metamorfose sem penalidades a seu corpo até o valor de seu bônus de resistência. Para qualquer valor de bônus concedido acima desse limite, para cada ponto de diferença o usuário perde esse valor distribuido entre PF e/ou PV, na ordem de 1 para 1 PF perdido e 1 para 2 PVs perdidos. Por exemplo, se um personagem tem resistência 12 (bônus de resistência igual a 5) e usar metamorfose +8 ele pode compensar essa diferença perdendo, 4 PV e 1 PF.
+	
+	
+
+Além disso, a quantida de PM usada para ativar a metamorfose é acometida, isso quer dizer que enquanto o usuário não desfizer essa habilidade, ele não pode recuperar a quantidade de PM gasta para ativa-lá. Por exemplo, um personagem que use 5 pm para ativar 5 pontos de metamorfose, não pode recuperar esses 5 PM até que a habilidade tenha termino.
+	
+	Sempre que o usuário alterar o seu corpo usando a metamorfose, toda a vestimenta e equipamento atrelados a ele continuam normais, não tendo nenhuma alteração no seu formato.
+
+	Segue algumas sugestões de poderes que podem ser usados a partir da metamorfose, assim com o quanto elas consomem do bônus da habilidade:
+
+\begin{itemize}
+	\item Aumento de atributo: Cada ponto no bônus em metamorfose concede aumentar 1 ponto de atributo. 
+
+	\item 		Armas Extras: Permite ao personagem melhorar suas armas naturais criando dentes afiados ou transformando mãos e pés em garras, ferrões, lâminas, etc. Cada  pontos do bônus concede adicionar +1 de dano automático a arma criada.
+
+		\item 	Armadura Natural: Outra utilização muito simples da metamorfose, o personagem pode transformar sua pele em couro, escamas, carapaça, etc. Cada  pontos do bônus concede adicionar +1 de dano automático a armadura criada.
+
+	\item 		Asas: O metamorfo cria asas e ganha capacidade de planar ou voar. A sua velocidade de locomoção é semelhante a usada em terra. Custa 6 pontos do bônus cedido pela metamorfose.
+	
+	\item 		Orgão de Marmore:  O usuário cancela qualquer bônus no dano proveniente do bônus de acerto. Custa 4 pontos do bônus cedido pela metamorfose.
+
+	\item 		Alcance Estendido: O metamorfo pode alterar seus membros, tornando-os extensíveis, aumentando o alcance de seus ataques físicos. Esse efeito permite ao personagem aumentar a distância de ataques corpo a corpo. Custa 4 pontos do bônus cedido pela metamorfose.
+
+	\item 		Ataque Tóxico: O metamorfo pode alterar seus fluidos corporais e torná-los tóxicos ou cáusticos. O dano causado é igual a quantidade de pontos retirados do bônus total de metamorfose + 3. O ataque pode ser realizado a distância até o valor de força metros do usuário. A jogada de acerto é feita usando-se destreza. 
+
+	\item 		Membros Extras: O metamorfo pode criar apêndices à partir de seu tórax ou coluna formando membros novos, que podem variar de simples complementos, como caudas ou antenas, até membros hábeis, como braços, pernas, etc. Uma cauda pode garantir bônus em testes específicos (saltos, equilíbrio, natação, etc.) e membros hábeis em testes de esforço prolongado (agarrar, empurrar, erguer...), facilitar o uso de armas ou ferramentas grandes, ou simplesmente usar e carregar mais coisas. O bônus recebido no membro extra é igual ao bônus retirado do bônus total da metamorfose.
+
+	\item 		Mil Faces: O metamorfo pode mudar sua aparência, recebendo o bônus da metamorfose para disfarces, podendo se passar por outra pessoa ou raça (podendo até alterar o gênero com uma habilidade alta o bastante). Quanto mais pontos do bônus total forem retirados, maior será a transformação do rosto do usuário.
+
+	\item 		Reorganizar Metabolismo: O metamorfo pode alterar a forma como seu corpo funciona tornando-o resistente à efeitos de enfraquecimento, recebendo o bônus de metamorfose em testes para resistir ou superar venenos, doenças e outras toxinas. O bônus recebido para veneno é igual ao valor retirado do bônus total da habilidade.
+
+	\item 		Respiração Anfíbia: O metamorfo pode alterar seu sistema respiratório, tornando-se capaz de respirar dentro e fora da água (ou outro ambiente semelhante). Custa 3 pontos do bônus cedido pela metamorfose.
+
+	\item 		Sentidos Aguçados: O metamorfo pode alterar suas estruturas sensoriais, aguçando seus sentidos ou desenvolvendo capacidades sensoriais completamente novas. No momento da ativação ele deve especificar qual sentido esta sendo aguçado de acordo com a habilidade sentidos aguçados. Custa 3 pontos do bônus cedido pela metamorfose.
+	
+	\item 		Forma da Besta: O usuário pode adquirir a forma de um animal que ele conheça. Apesar de seus atributos continuarem os mesmos, o mestre pode fazer algumas alterações de acordo com o tipo do animal transformado. Custa 12 pontos do bônus cedido pela metamorfose. A duração dessa habilidade é igual a concentração em horas ou até o usuário desejar.
+	
+	\item 		Forma de Névoa: Enquanto na forma de névoa o usuário não pode receber ataques físicos normais, ele so pode ser atacado ou atacar usando dano elemental, mas pode usar seus atributos normalmente para defender, atacar e se esquivar. Da mesma forma ele so pode atacar com ataques elementais. O usuário não pode falar nessa forma. Custa 14 pontos do bônus cedido pela metamorfose.
+
+\end{itemize}
+
+ 
+ \subsection{Armas Extras}
+ 
+Armas extras é a capacidade de um personagem usar partes do seu corpo como armas. Garras, presas, caldas, são apenas exemplos de armas extras. Geralmente está acessivel a determinadas raças ou classes, sendo de dificil acesso para outras. Quando usando armas extras, o personagem não necessita saber nenhuma pericia belica para usar as armas extras. Elas podem ser melhoradas com XP físico, porém elas como qualquer arma tem PR. Esses PR são recuperados de uma forma diferente das armas normais. Sempre que um personagem desgastar suas armas extras, ele so pode recuperar os PR perdidos com o uso da habilidade medicina ou com medicamentos apropriados.
+
+Todas as armas extras com formato semelhante a uma arma, são considerados como tal para fins de uso em conjunto com a pericia belica específica e para outros detalhes na batalha. Por exemplo, se uma garra se assemelha a uma espada curta, o usuário pode usar o bônus de especialização cedido pela péricia bélica espada curta mas não pode ser usada em certas ocasiões em conjunto com a manobra aparar.
+ 
+\subsection{Mediunidade}
+ 
+ A habilidade mediunidade diz o quanto você pode interagir com o mundo dos espíritos e seus habitantes. O nível dessa interação é dito pelo seu atributo espírito. Com espirito 6 você consegue ver espíritos sem nenhuma penalidade ou gasto de pontos. Com espirito 8 você pode conversar com eles normalmente. A linguagem dos espíritos é universal, ou seja, o medium e o espírito podem conversar em qualquer idioma e mesmo assim pode haver total entendimento da conversa. Com espirito 10 você pode incorporar algum espírito. Nesse caso seus atributos físicos não mudam, porém seus atributos mentais assim como suas habilidades podem receber um bônus consideravel de acordo com os atributos do espírito a ser incorporado.
+ 
+Apesar de ser uma habilidade útil em muitas situações, pode ser perigosa. Um usuário da mediunidade com espírito baixo esta sujeito a pertubações e até mesmo incorporações involuntárias.
+
+Essa habilidade está relacionada a classe ou raça, porém o mestre pode liberar sua compra de acordo com algum fator decorrente da campanha. 
+
+\subsection{Familiar}
+O familiar, ou companheiro animal, é um parceiro animal que o ajuda sempre que necessário. Apesar de não ser uma habilidade propriamente dita do personagem, em termos de sistema é tratada como tal. Para um personagem começar com um familiar ele deve ter a aprovação do mestre e sacrificar 1 conhecimento inicial. Geralmente classes como druida e ranger podem trocar 1 conhecimento por um familiar sem maiores exigências do mestre, mas de acordo com a campanha todas as classes podem ter o mesmo privilegio. Isso quem deve decidir é o mestre. Por exemplo, o mestre não deve permitir um familiar muito forte que desequilibre o grupo. Um familiar nunca é melhor do que o seu dono. Ele foi criado para complementar um dos campos de atuação que o personagem não é tão bom nele. Apesar disso, um familiar sempre é mais destacável que um animal normal de seu tipo. Por exemplo, um familiar coruja é mais rápido e inteligente que uma coruja normal.
+
+Para criar um familiar o mestre deve usar a seguinte regra, primeiramente escolhendo a classificação do familiar (Combatente ou Mistico):
+
+\begin{itemize}
+	\item Combatente: O familiar tem 22 pontos de atributo físicos e 13 de atributos mentais para distribuir. O familiar tem 10 PF e 10 PM iniciais.
+	\item Místico: O familiar tem 13 pontos de atributo físicos e 22 de atributos mentais para distribuir. O familiar tem 8 PF e 14 PM iniciais.
+	\item O familiar tem 8 pontos em atributos sociais.
+	\item O valor de um atributo não pode ser zero nem maior do que 12.
+	\item O familiar não pode ter nenhuma habilidade que exceda um bônus de 5.
+	\item O familiar tem 14 pontos de vida iniciais.
+	\item Cada ponto colocado em defesa, aumenta em 2 a quantidade de PV do familiar.
+	\item Cada 2 pontos colocados em força, aumenta em 1 a quantidade de PF do familiar.
+	\item Cada 2 pontos colocados em focus, aumenta em 1 a quantidade de PM do familiar.	
+	\item Cada 2 pontos em agilidade, concede 1 ponto em uma habilidade geral que o familiar possa aprender.
+	\item Cada 2 pontos em acuidade, concede 1 ponto em uma habilidade geral que o familiar possa aprender.		
+	\item O mestre pode substituir um bônus de 2 em uma habilidade por uma péricia bélica.
+	\item O familiar pode escolher 2 habilidades relacionadas a familiar. Ao final dessa sessão é mostrado exemplos dessa natureza.
+	\item O familiar pode favorecer 1 atributo em 1 ponto. Em outras palavras, todo familiar começa com 1 bônus de xp.
+\end{itemize}
+
+Cabe ao mestre decidir se o jogador tem liberdade para criar seu familiar ou não. O mestre pode criar o familiar para o jogador.
+
+As regras para criação de familiar servem apenas durante sua criação. A partir de então ele deve evoluir da mesma forma que um personagem normal. Em termos de evolução, o familiar evolui bem mais devagar que o jogador. O familar recebe 1 a 3 de xp físico por sessão. No final de uma aventura (quest) o familiar recebe também ponto de bônus. Esse valor pode se igualar ao valor recebido pelo jogador, de acordo com a vontade do mestre analisando o quão importante o familiar foi nessa aventura. 
+
+Se o jogador tiver a habilidade adestrar animais ele pode converter xpf ou xpm próprios em abp do familiar. Sempre que o jogador desejar fazer isso com seu familiar, ele deve treina-lo. Esse período de treinamento varia de alguns dias para até semanas de acordo com o valor do atributo que o familiar deseje aumentar. Além disso, para cada período de treinamento o jogador tem um limite de xpf e xpm que ele pode converter. Esse valor é igual aos sucessos obtidos em um teste (dificuldade 18) de acuidade ou consciência mais bônus em adestrar animais. O mestre pode conceder bônus ao jogador nesse teste caso o mesmo possa se comunicar com o familiar em questão com o uso da habilidade conversar com animais. Um familiar também pode aprender habilidades relacionadas a sua natureza. Ele deve fazer isso com o uso de xp, como um personagem normal. Cabe ao mestre decidir se determinada habilidade é ou não compátivel com a natureza do familiar.
+
+O uso de familiar também pode ser interessante para que pessoas que não sejam fixas no grupo, participem de certas sessões jogando com o familiar.
+
+
+
+ \subsection{TechnoAlquimia}
+ 
+ A technoalquimia é um tipo especial de habilidade que une os poderes de 3 habilidades: Alquimia, herbalismo e medicina. As drogas produzidas pelos usuários dessa habilidade tem os efeitos de cura, melhorando de atributos além de poder serem usadas ofensivamente. Apesar de usar básicamente as mesmas materias primas das outras habilidades similares, as ferramentas de produção são um pouco diferentes. Além do mais, geralmente as drogas produzidas pelas technoalquimia são mais potentes do que as produzidas normalmente. 
+ 
+Os usuários da technoalquimia são exclusivos da tatsunamei. O mestre deve restringir seu aprendizado dentro de jogo. Outro detalhe é que o uso continuo de drogas techalquimicas pode levar o usuário a dependência quimica. 
+ 
+\subsection {Corpo do Bufalo(10xpf)} 
+ Sua quantidade de PV aumenta permanentemente 8 pontos. Pode ser comprada uma quantidade de vezes igual ao seu nível físico.
+
+\subsection {Back Dash(10xpf)}
+O usuário usa essa habilidade reflexivamente no seu turno de esquiva gastando 1 PF. Caso o ataque do oponente tenha êxito, porém a quantidade de sucesso obtido tenha sido menor do que o bônus de esquiva do usuário, o dano do tipo normal é reduzido pela metade. Requer nível físico 3 para aprender essa habilidade. Essa habilidade só pode ser usada caso o usuário esteja usando uma armadura leve.
+
+ 
+ \section{Conhecimento Ritual}
+ 
+Por definição um conhecimento não tem uma pontução, como a maioria das habilidades gerais. Porém o conhecimento ritual é um pouco diferente. Ele tem uma pontuação total que deve ser usada para comprar rituais. O que isso quer dizer? Que um personagem com Conhecimento Ritual 6, pode comprar 2 rituais de 3 pontos, ou um ritual de 6 pontos, e assim por diante.
+
+Como um conhecimento normal, um personagem que deseje aprender outros rituais deve faze-lo dentro da campanha, e não com gasto de experiência. O mestre pode exigir uma quantia mínima de inteligência ou algum outro conhecimento específico por exemplo.
+
+Um ritual usa a energia mágica do mundo para realizar um efeito mágico, usando alguns objetos como catalisadores. Esses objetos são conhecidos como fetiches, e todo ritual teu os seus. Por usar a energia da natureza, um personagem para realizar um ritual não gasta PM, PV, ou PF. Quando os fetiches estão desgastados ou quebrados, o ritual simplesmente não pode ser realizado. Digamos que o usuário de um ritual pede para a natureza a energia mágica necessária para realizar um efeito mágico. O jeito dele pedir isso é determinado como o usuário realiza o ritual usando os catalisadores (fetiches).
+ 
+Abaixo segue uma lista de alguns rituais, assim como a quantidade de pontos relacionados a cada um. Como um ritual é um conhecimento alcançado e não aprendido com o gasto de pontos, a quantidade de pontos aqui mostrada é utilizada para comprar rituais na criação de personagem ou em certos periodos durante a campanha. 
+ 
+ 
+\begin{itemize}
+	\item Ritual Tent(3 pontos): Fetiches: Um pouco de comida, madeira e panos. 30 Minutos para ser realizado. Cria uma tenda que pode abrigar 3 pessoas durante 10 horas, com agua, alimentos e vestimentas. Um ritualista so pode usa-la uma vez por semana.
+ 
+ 	\item Ritual ADE(3 pontos): Fetiches: Liquido transparente, giz e areia. 5 minutos para ser realizado. O personagem ganha 6 pontos em força e 6 pontos em defesa durante 30 minutos. Pode ser usado apenas uma vez por dia.
+ 
+ 	\item Ritual ADES(6 pontos): Fetiches: Liquido transparente, giz e areia. 5 minutos para ser realizado. O personagem ganha 7 pontos em força e 7 pontos em defesa durante 30 minutos. Não tem limite de uso diário.
+ 
+ 	\item Ritual bussola(3 pontos): Fetiches: Pedaço de Ferro pequeno e carvão, giz ou barro. 5 minutos para ser realizado. Aponta a maior concentração de pessoas num raio de 5 km.
+ 
+ 	\item Ritual de proteção da Madeira Fraca(6 pontos): Madeira velha, Agua limpa, panos limpos. 1 hora para ser executado. O ritual é realizado
+ sobre uma arma ou equipamento. Durante 24 horas, o equipamento perde metade dos PR normalmente perdidos com dano ou desgaste natural.
+ 
+ 	\item Ritual da voz amiga(3 pontos): Papel limpo e carvão. O personagem escreve uma mensagem, rasga o papel e joga no ar. Uma mensagem é enviada para qualquer pessoa que ele tenha encontrado num periodo de 3 anos. 
+ 
+ 	\item Ritual da voz fraternal(3 pontos): Papel limpo, carvão. O personagem escreve uma mensagem, rasga o papel e joga no ar. Uma mensagem é enviada para qualquer pessoa que ele tenha encontrado num periodo de 10 anos. Requer o ritual da voz amiga.
+ 
+ 	\item Ritual da voz infinita(3 pontos): Papel limpo, carvão. O personagem escreve uma mensagem, rasga o papel e joga no ar. Uma mensagem é enviada para qualquer pessoa que ele tenha encontrado durante qualquer periodo de sua vida. Requer o ritual da voz fraternal.
+ 
+ 	\item Ritual do Corpo fechado(9 pontos): Bronze, barro, giz ou carvao e leite. 2 horas. O personagem constroi um boneco com os rituais, escreve seu nome com giz e ao final derrama leite no boneco enquanto recita palavras mágicas. Enquanto o boneco não for destruido, todo o dano que o personagem levar, é passado para o boneco. O boneco tem 30 PV. O ritualista so pode fazer um boneco por vez.
+ 
+ 	\item Ritual da Boa Sorte (9 pontos): Trevo de quatro folhas, sal e pão. 30 minutos. Durante o resto do dia e para os próximos 7 sucessos o ritualista joga 3 dados ao invéz de 2 para escolher o maior resultado.
+\end{itemize}
+ 

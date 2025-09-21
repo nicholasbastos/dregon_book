@@ -1,0 +1,19 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: book.aux
+I couldn't open style file phBYU.bst
+---line 3 of file book.aux
+ : \bibstyle{phBYU
+ :                }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: ficha.aux
+A level-1 auxiliary file: jogadas.aux
+A level-1 auxiliary file: Batalha.aux
+A level-1 auxiliary file: cdp.aux
+A level-1 auxiliary file: racas.aux
+A level-1 auxiliary file: classes.aux
+A level-1 auxiliary file: pericia.aux
+A level-1 auxiliary file: habilidades.aux
+A level-1 auxiliary file: magias.aux
+I found no \citation commands---while reading file book.aux
+I found no \bibdata command---while reading file book.aux
+I found no style file---while reading file book.aux
+(There were 4 error messages)

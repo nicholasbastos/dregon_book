@@ -1,0 +1,346 @@
+
+%% Capitulo 2: Ficha
+%%
+
+% Este sendo usando o comando \mychapter, que foi definido no arquivo
+% comandos.tex. Este comando \mychapter e essencialmente o mesmo que o
+% comando \chapter, com a diferenca que acrescenta um \thispagestyle{empty}
+% apos o \chapter. Isto e necessario para corrigir um erro de LaTeX, que
+% coloca um n伹ero de pagina no rodape de todas as paginas iniciais dos
+% capitulos, mesmo quando o estilo de numeracao escolhido e outro.
+
+\chapter{Ficha}
+\label{Cap:Ficha}
+
+Aqui sera feita uma explicação sobre a ficha, atributos e termos gerais usados no sistema dragon.
+
+\begin{itemize}
+	\item \textbf{Jogador}: Nome do jogador.
+	\item \textbf{Personagem}: Nome do personagem.
+  	\item \textbf{Raca}: A raca determina um conjunto de características culturais que podem influenciar na historia e personalidade do personagem. Em termos de sistema a raca determina quantos pontos de atributos o personagem tem durante na criação de personagem em relação aos atributos físico, mental, social, pv e pm, além de determinar algumas habilidades (habilidade relacionadas a raca). 
+  \item \textbf{Classe}: A maneira como você utiliza suas habilidades e conhecimento decide sua classe. Em dragon é utilizado o seguinte raciocínio para criar classes e seus usos. Existe um conjunto finito de classes baicas e todas as outras que sao derivadas dessas. O exemplo clássico e o bárbaro. Essa classe não e uma classe baica e sim uma variação da classe guerreiro. Outro detalhe e que a classe e definida como você usa suas habilidades. Um padeiro e um pizzaiolo tem os mesmos bônus de atributos e os mesmos acessos a habilidades, ou seja, tecnicamente elas são iguais, porem na pratica são diferentes. Maiores detalhes sobre o termo classe no capitulo \ref{Cap:classes}
+
+  \item \textbf{Características}: Nessas linhas tente descrever da melhor forma possível o seu personagem. 
+  \item \textbf{Pv(Pontos de Vida)}: O pontos de vida simbolizam o quanto da silhueta de vida existe em seu corpo. Demonstra o quão longe o seu corpo pode resistir a dano e doença. Existem algumas observa coes a serem feitas em relação e perda de pontos de vida.
+
+\begin{itemize}
+\item Um personagem e dito morto quando seus PV chegam a menos da metade de sua resistência abaixo de zero, ou seja, um personagem com resistência 16 morre com -9 pv. 
+\item Um personagem com pontos de vida negativo está, a priori, inconsciente e incapaz de realizar acoes de ataque ou defesa, apenas conseguindo falar com muito esforço apos um teste de resistência ou forca de vontade se o mestre permitir tal oportunidade. Ele também perde pontos de vida por turno ate que sua condição seja estabilizada. Essa perda pode vir de 1 a 5 pvs de acordo com a situação dita pelo mestre, por exemplo, um sangramento ocasionado por um golpe muito grande pode levar o personagem mais rápido a morte. 
+\item Quando um personagem perde subitamente uma quantidade percentual grande de pontos de vida o mestre pode colocar restrições temporárias nos atributos ou habilidade. Isso e interpretado como em ocasiões que um ataque muito forte foi desferido, ocasionando certo atordoamento no personagem.
+\item A quantidade de pontos de vida que um personagem tem no inicio é determinada de acordo com sua raca. Sua classe pode conceder certos bônus. Além disso todo personagem recebe um bônus de PV igual ao modificador de resistência.
+\item Um personagem pode recuperar PV descansando. Quando ele este recebendo tratamento medico ele recupera 1 PV por hora, porem essa recuperação não pode ultrapassar o valor do modificador de resistência (modificador este explicado em capítulos posteriores) do alvo por dia. Existem alguns métodos para aumentar esse limite, tais como ervas medicinais especiais, tratamentos especializados, etc. Quando não recebendo tratamento, o mestre pode definir a sua taxa de recuperação de acordo com o ferimento. Ferimentos mais graves podem apenas ser curados com tratamento ou o personagem pode recuperar 1 PV a cada 4 horas, por exemplo.
+\item Existe outro meio do personagem recuperar PV, que é através da magia. Magias de cura podem recuperar uma quantidade ilimitada de PV instantaneamente, mas existe um porem: Magias de cura normais podem apenas curar ferimentos sofridos recentemente. Para saber o quão recente pode ser um ferimento para que ele possa ser curado por magia, multiplique por 10 a sabedoria do usuário da magia. O valor final e o tempo em minutos. Ou seja, um mago de cura com sabedoria 6 pode curar danos sofridos na ultima hora. Existem habilidades que aumentam esse tempo. 
+\item O personagem pode gastar 5 de experiencia física para aumentar 3 PV. Em alguns casos o mestre pode fazer com que o jogador fique "devendo" 1 ou 2 pontos de experiencia, esta gasta em PV para fazer com que o personagem não morra daquela situação em especifico.
+\item Caso o personagem deseje aumentar muitos PV ao longo da campanha, e aconselhado que o mesmo atribua pelo menos 1 ponto favorecido em PV (ou gastar 1 bônus de xp em PV). Como fazer isso e explicado no tópico referente a experiencia.
+\end{itemize}
+
+
+\item \textbf{Pm(Pontos de Magia)}: O quanto de magia existe ativamente em seu corpo para realizar feitos mágicos. Todos tem pelos menos um pouco de magia, ou seja, pelo menos 1 pm. Os pms são recuperados de acordo com o ambiente. Quanto mais magia existir no ambiente mais energia magica vai fluir para o corpo da pessoa que necessita do mesmo. Geralmente locais normais recuperam cerca de 2 a 4 pm por hora. 
+A raca determina a quantidade inicial de pm para um personagem, podendo a classe conceder certo bônus. Cada 3 pontos em focus cede mais um ponto de PM extra ao personagem.
+
+\item \textbf{Pf(Pontos de Fadiga)}: Expressa o quanto seu corpo pode resistir a esforços. Em poucas palavras mede seu folego. Usado para habilidades, caminhadas etc. PF eh recuperado de acordo com o descanso e alimentação. Quando bem alimentando e em locais apropriados, um personagem recupera 3 PF para cada hora. O mestre pode limitar essa recuperação por dia ate o valor da resistência do personagem.
+
+\item \textbf{Lv físico}: Seu nível físico. Sempre que você aumentar um atributo físico ou comprar uma habilidade física, aumente seu nível físico em 1 ponto.
+\item \textbf{Lv mental}: Seu nível mental. Sempre que você aumentar um atributo mental ou comprar uma habilidade mental/magica, aumente seu nível mental em 1 ponto.
+
+\end{itemize}
+
+\section{Atributos Principais}
+
+Aqui falaremos dos atributos principais. A referencia e:
+
+\begin{itemize}
+	\item Fraco 1-3
+	\item Médio 4 -7
+	\item Bom 8-10
+	\item Destacável 10-20
+	\item Sobre-humano 20-30
+	\item Heroico 30++
+\end{itemize}
+
+Vale lembrar que a maioria das pessoas normais não passa de 10 em um de seus atributos. Um humano com forca 10 tem basicamente o auge da forca de um ser humano normal. O mestre pode usar esses valores para se basear em qual nível ele deseja que a campanha ande. Vale notar que os personagem geralmente são pessoas que se destacam entre as pessoas normais.
+
+\subsection{Modificador de Atributo}
+
+O modificador de atributo é igual a metade do valor do atributo arredondado para baixo para valores impares ou metade do atributo menos 1, no caso do atributo ser par. Para um atributo 5, seu modificador de atributo será 2. Atributo 10, modificador 4 e assim por diante. O valor do atributo usado para calcular seu respectivo modificador é o valor do atributo puro, sem qualquer influencia externa de equipamento, habilidades ou outros.
+
+Ele é usado em varias ocasiões dentro do jogo. Para tornar o jogo mais rapido, calcule o modificador para cada atributo e escreva ao lado do mesmo na ficha. Veja a tabela abaixo para saber qual o modificador dependendo do valor do atributo.
+
+\begin{table}[htbp]
+\begin{center}
+\begin{tabular}{|c|c|} \hline 
+Atributo&	 Modificador\\\cline{1-2} 
++/1 e +/2&	 +/0\\ \hline
++/3 e +/4&	 +/1\\ \hline
++/5 e +/6&	 +/2\\ \hline
++/7 e +/8&	 +/3\\ \hline
++/9 e +/10&	 +/4\\ \hline
+\end{tabular}
+\end{center}
+\caption{Exemplos de Modificador de Atributo}
+\label{}
+\end{table}
+
+
+\subsection{Atributos Físicos}
+
+\textbf{Força}
+ 
+Sua forca física. Capacidade de interagir ativamente com a inercia. No sistema usado para calcular o dano provocado por um ataque físico. Se você acertar o alvo, ele recebe o valor de forca como dano normal (representado pelo simbolo "/"). Mais detalhes no capitulo de combate.
+
+\textbf{Defesa}
+
+Atributo usado em contrapartida com o atributo forca. A defesa expressa sua capacidade de resistir e forca física. Ela e usada para reduzir o dano normal (/) levado em ataques. 
+
+\textbf{Destreza}
+
+Mede seu movimento de corpo em regiões especificas como articulações, membros, etc. Usado para acertar alvos, capacidade de digitação, tocar instrumentos, manobrar instrumentos manuais, etc. Pode também ser visto como seu reflexo físico. Em termos de sistema e usado para acertar ataques.
+
+\textbf{Esquiva}
+
+Atributo em contra partida com destreza. É usado em movimentos mais gerais do corpo, como saltos, agachamentos, etc. Em termo de sistema e usado para se esquivar de ataques.
+
+\subsection{Atributos Mentais}
+
+\textbf{Sabedoria}
+
+É sua percepção abstrata da realidade. Com uma alta sabedoria a energia magica eh mais forte em você. Por isso em termos de jogo e usado como ataque magico, assim como força e usado para o ataque físico. 
+
+\textbf{Espirito}
+
+Sua aura. Mede sua capacidade de harmonização com o ambiente. Em termos de jogo e usado como defesa magica e espiritual. O espirito não serve apenas para protege-lo de magias ofensivas mas sim de fontes ofensivas de origem espiritual. Por exemplo, ao entrar em locais com energia espiritual 'pesada' uma pessoa de baixo espirito sente sintomas negativos como náuseas, tonturas, etc. Já uma pessoa de alto espirito podere não sentir nada de perturbador.
+
+\textbf{Inteligencia}
+
+Sua capacidade de processar informações logicas e técnicas. Em termos de sistema pode estar relacionado a diversos fatores, como limite de conhecimentos, capacidade de memorizar rituais, manusear certos equipamentos, etc. Também eh visto como sua precisão mental. Pode ser utilizado para acertar altos com poderes mentais ou mágicos.
+
+\textbf{Concentração}
+
+Sua velocidade mental. Sua capacidade de concentrar sua potencialidade mental em certa atividade durante um intervalo curto de tempo. Usado para perceber detalhes, concentrar magia, etc.
+
+\subsection{Atributos Sociais}
+
+Os atributos sociais são um quesito a parte na lista de atributos. Eles não são aumentados com experiencia ou com ponto de bônus. O mestre que deve determinar quando aumentar ou não um determinado atributo social. Ele este intimamente ligado com a interpretação, historia e características do personagem. Mesmo podendo ser usado em conjunto com certas habilidades. Geralmente o mestre pode conceder pontos em atributos sociais ao finalizar determinadas missões ou momentos importantes na historia cuja participação do personagem foi essencial.
+
+\textbf{Status}
+
+Sua capacidade de se destacar e ser respeitado socialmente. Com alto status você pode facilmente vir a ser valorizado. Pode ser considerado como sua moral em meio publico.
+
+\textbf{Coragem}
+
+Indica a capacidade de você enfrentar seus medos. Algumas racas e classes ganham bônus para determinadas situações.
+
+\textbf{Carisma}
+
+O carisma pode ser visto o quanto as pessoas ficam a vontade estando ao seu lado, o quão simpático você aparenta ser, seja você realmente sendo ou não.
+
+\section{Atributos Gerais}
+
+Os atributos gerais são atributos que provem dos atributos principais. Todo atributo geral e a soma de dois outros atributos principais que se complementam para criar um atributo geral.
+
+Por exemplo, a manipulação mede a capacidade de você convencer as pessoas. Para tal, você precisa ter carisma e uma boa inteligencia para saber como persuadir a pessoa. Em outras palavras a manipulação e a soma dos atributos carisma e inteligencia. Isso e visto de forma perfeita quando dizemos que uma pessoa carismática, porem sem inteligencia e de certa forma manipuladora e vice versa. 
+
+Para aumentar um atributo geral você deve aumentar um dos atributos principais base do atributo geral. Você não pode aumentar agilidade diretamente, para tal você deve aumentar um dos dois atributos que compõem esse atributo geral, no caso aumentar destreza ou esquiva.
+
+Uma observação importante e que se caso um atributo principal seja aumentando usando habilidades temporárias, os atributos gerais relacionados aquela habilidade também são aumentados proporcionalmente. Por exemplo, caso seu personagem receba um bônus temporário em sua defesa de 4 pontos, consequentemente sua resistência também vai aumentar 4 pontos. Porem esse aumento de atributo geral só vale para jogadas e habilidades que envolvam diretamente o atributo geral, não contando outros efeitos. Por exemplo, de 4 em 4 pontos em resistência seu personagem recebe 1 PV de bônus. Mas esse bônus se e concedido caso o atributo geral resistência seja aumentando permanentemente.
+
+\textbf{Resistência} (defesa+espirito)
+Diz o quanto você este apto a resistir aos seus limites físicos tais como doenças, dor e ate mesmo pode estender seu limite de vida e morte. Todo personagem recebe um bônus em seus PV igual ao modificador de resistência.
+
+\textbf{Agilidade} (destreza+esquiva)
+
+A agilidade de seu corpo em geral, somando as capacidades de destreza e esquiva.
+
+\textbf{Forca de Vontade} (espirito + coragem)
+
+Sua determinação, o quanto você esta disposto a realizar uma tarefa que teste seus próprios limites mentais.
+
+
+\textbf{Consciência} (sabedoria+inteligencia)
+
+Consciência de sua existência no mundo em que vive. Usado para medir o grau de conhecimento de certas pessoas. Usado como a união do conhecimento abstrato com o concreto. O valor de pontos que você tem em conhecimento eh diretamente relacionado com o modificador de consciência. Para cada ponto dado pelo seu modificador, você tem +1 para distribuir em um conhecimento. Ou seja, você com consciência 14, você pode ter 2 conhecimentos cada um com +3 , ou um conhecimento com +6.
+
+\textbf{Acuidade} (inteligencia + concentração)
+
+Mede a capacidade de você usar sua inteligencia com maior rendimento. Pode ser visto como criatividade, capacidade de ensino ou de aprendizado, capacidade de bolar planos, etc. Em outras palavras e como você pode se concentrar para poder usar sua inteligencia de forma melhor.
+
+\textbf{Manipulação} (inteligencia+carisma)
+
+Capacidade de induzir as pessoas através da fala, gestos etc. 
+
+\textbf{Percepção} (concentração+destreza)
+
+Capacidade de notar mudanças no ambiente.
+
+\textbf{Focus} (sabedoria+espirito)
+
+Mede o equilíbrio de sua aura com a energia magica que flui no seu corpo através da sabedoria. Em outras palavras, focus é sua potencia energética.
+
+\section{Habilidades Pessoais}
+
+Refere-se e lista de habilidades nao magicas que seu personagem pode usar. 
+
+
+\section{Conhecimentos}
+
+Conhecimentos representam informacoes que sua mente pode armazenar a respeito de determinado assunto. Exemplos de conhecimentos são línguas, herbalismo, historia, conhecimento de magia, conhecimento de alguma raca e algum ritual magico. Em termos de jogo você não precisa gastar pontos para ganhar conhecimentos, apenas conseguir alguma forma de aprende-los, além de ter a capacidade mental para tanto. 
+Por exemplo, se voce quiser adquirir conhecimento sobre um certo folclore local, você precisa primeiro ter acesso a essa informação, e depois passar em um teste de sabedoria ou conhecimento. Apos isso voce aumenta o seu nivel de conhecimento.
+
+\section{Poderes Mágicos}
+
+Todo poder primordialmente magico. As magias (explicação em \ref{Cap:Magias}) são compradas com pontos de spiritum (chamados aqui de PS). Vale lembrar que existe uma ficha exclusiva para rituais. Rituais tambem sao explicados posteriormente e podem ser vistos como poderes magicos ou conhecimentos, porem o aconselhado e que se use uma ficha unicamente para a descricao de rituais.
+
+
+\section{Inventario} 
+
+Aqui você deve colocar os seus pertences. Fica a critério do jogador descrever informacoes sobre os mesmos, como se eles estão sendo carregados no momento, durabilidade do mesmo, condições de uso etc.
+
+\section{Tabela de Defesa}
+
+Para facilitar o combate, escreva nessa parte os valores de defesa do seu personagem.
+
+Para defesa física some seu valor defesa com valores de equipamento. Essa defesa eh do tipo normal, representado por uma "/". Valores de defesa letal (representado por um "+") são reduzidos apenas por defesa letal (tambem representada por um "+"), que geralmente eh concedido apenas por equipamento ou buff temporários.
+Para valores de defesa magica, some seu espirito com qualquer bônus de equipamento. Não existem tipos de defesa magica.
+
+Para valores de defesa de toque, ignore bônus de armadura ou habilidades temporárias, entrando apenas o valor de defesa ou espirito na redução de dano.
+
+
+% Essas tabelas sao usadas para saber o quanto de dano um personagem consegue reduzir. Cada tipo de dano e absorvido com o tipo respectivo de defesa (dano fiico reduzido com defesa fiica e dano magico reduzido com defesa magica).
+% Para preencher a tabela de defesa fiica use o atributo defesa. Para preencher a tabela de defesa magica use o atributo espirito.  
+% Para valores abaixo de 10, coloque no numero 1 da tabela o n伹ero e para os outros valores na tabela incremente em 1 o valor ate chegar ao valor minimo de sua defesa. Repita o valor minimo no primo numero da tabela e decremente os valores ate o completar a tabela ou o valor de sua defesa chegar a zero. Caso sua defesa tenha chegado ao valor 0, preencha com 0 o restante da tabela. Parece complicado naoe No comeco sim, entao vamos a um exemplo do preenchimento de uma tabela de um personagem com defesa 4.
+
+% \clearpage
+
+
+% \begin{table}[htbp]
+% \begin{center}
+% \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline 
+% Dado&	 1&	 2&	 3&	 4&	 5&	 6&	 7&	 8&	 9&	 10\\\cline{1-11} 
+% Defesa&	1 & 2&   3 & 4 & 4 & 3 & 2&  1&  0&   0
+% \\ \hline
+% \end{tabular}
+% \end{center}
+% \caption{Caso de defesa 4}
+% \label{}
+% \end{table}
+
+% Agora a defesa sendo 6:
+
+
+% \begin{table}[htbp]
+% \begin{center}
+% \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline 
+% Dado&	 1&	 2&	 3&	 4&	 5&	 6&	 7&	 8&	 9&	 10\\\cline{1-11} 
+% Defesa&	1 & 2 & 3  &4 & 5 & 6 & 6 & 5 & 4  & 3 
+% \\ \hline
+% \end{tabular}
+% \end{center}
+% \caption{Caso de defesa 6}
+% \label{}
+% \end{table}
+
+% Caso a defesa seja maior do que 10 a tabela deve ser preenchida da seguinte forma. Coloque o maior valor da defesa no lugar na coluna 10, e siga decrescendo o valor da defesa ate chegar e coluna 1. Vamos a um exemplo:
+
+% \begin{table}[htbp]
+% \begin{center}
+% \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline 
+% Dado&	 1&	 2&	 3&	 4&	 5&	 6&	 7&	 8&	 9&	 10\\\cline{1-11} 
+% Defesa&	3 & 4&  5 & 6 & 7 & 8 & 9& 10& 11  &12     
+% \\ \hline
+% \end{tabular}
+% \end{center}
+% \caption{Caso de defesa 12}
+% \label{}
+% \end{table}
+
+% Existem dois tipos de dano. O dano automatico, simbolizado por um '+', e o normal, simbolizado por uma barra simples '/'. A defesa que deve ser colocada na tabela e a defesa para o dano normal. Quando usando uma armadura com defesa normal some o valor da armadura representado por uma barra e o valor da sua defesa para poder preencher na tabela. Em outras palavras, se o personagem tem uma defesa 5 e uma armadura +8, ele nao ire precisar preencher a tabela de defesa como se ele tivesse 13 de defesa, pois os +8 dados pela armadura sao automaticos. Porem, se a sua defesa fosse 5 e a armadura /8 ele deve preencher a tabela como se tivesse Defesa 13.             
+
+\section{Experiencia(XP)}
+
+No sistema dregon ao longo das sessões o seu personagem recebe experiencia, e você pode usa-la para melhorar o seu personagem como bem entender. Existem dois tipos principais de experiencia (xp). A física e a mental. Existem também os pontos de bônus, que contam tanto como experiencia fisica ou experiencia mental, e os ps (pontos de spiritum), uma especie de xp magico, usado exclusivamente para comparar magias e habilidades magicas. A separação de vários tipos de experiencia torna mais equilibrada a distribuição de experiencia e evolução dos personagens.
+
+
+\subsection{Xp Físico (xpf) e Xp Mental (xpm)}    
+
+Aqui fica armazenada a quantia de XP(experiencia) que você tem, seja ela mental ou física. No sistema dregon você gasta XP para aumentar atributos e comprar habilidades. Para cada atributo aumentado e para cada habilidade comparada, aumente um nível relativo ao atributo aumentado. Se você comprou uma habilidade com xp físico e mental, aumente um para cada nível.
+
+\subsection{Ponto de Bônus}
+
+Os pontos de bônus servem como uma XP diferenciada, podendo ser usadas em situacoes especificas durante o jogo. Pontos de bônus servem para aumentar qualquer tipo de atributo e comprar qualquer tipo de habilidade. Os pontos de pontos seguem as mesmas regras de gasto de XP, mas servindo como se fosse XP mental e física. Ponto de bônus geralmente podem ser gastos na criacao de personagem ou inicio de novas cronicas. Os pontos de bônus também são chamados de ABP em alguns momentos do livro.
+
+
+\subsection{PS(Pontos de Spiritum)}
+
+	Os PS sao usados unicamente para comprar e melhorar magias, e em casos raros, para comprar habilidades majoritariamente magicas. Quanto mais PS um personagem tem, mais ele inovou ou se superou magicamente tendo mais capacidade de comprar magias.
+	
+
+	Em termo de jogo, sempre que um personagem se deparar com uma situação magica nova ou excepcional, seja provocada por ele ou não, ele pode receber pontos de ps de acordo com a vontade do mestre. Realizar uma magia de uma forma diferente pela primeira vez, invocar um poderoso ritual energético, entrar em uma região magicamente concentrada, entre outras experiencias espirituais/magicas raras ou novas. 
+	
+
+Um personagem sem magia pode conseguir PS com treinamentos específicos, em salas de meditação especial, com auxilio de magos experientes ou em locais com muita energia magica no ambiente. Cabe ao mestre definir esse fator.
+
+Um personagem pode comprar 2 PS ao custo de 1 xpm com meditação em locais calmos e silenciosos. De acordo com o cenário, existem locais que podem aumentar essa taxa de conversão, fazendo com que um personagem consiga mais PS por uma quantia ainda menor de xpm. Mais detalhes no capitulo cenários.
+
+\subsection{Ganhando XP}
+	
+Ao final de cada sessão, o mestre deve dar experiencia aos jogadores de acordo com a seguinte distribuição. 
+
+\begin{itemize}
+\item  1 xpf + 1 xpm pela presencia
+\item  1xpf + 1xpm por participar de pelo menos um combate
+\item  1~2xpf ou 1~2xpm por acoes no combate
+\item  1xpf por interpretação ou acoes inovadoras (usar uma arma nova por exemplo)
+\end{itemize}
+
+	Em relação ao ganho de ps por sessão:
+\begin{itemize}
+\item 1 usar uma magia nova ou de um jeito que voce nunca usou antes (2PS)
+\item 1 participar de algum efeito/evento magico, seja novo para voce ou importante para a historia (1 a 2 PS)
+\item 1 descrição das magias usadas (1 a 2 PS)
+\item máximo 6 PS por sessão 
+\end{itemize}
+
+
+Geralmente um personagem ganha 4 de experiencia do tipo que ele e mais focado, e 2 do outro tipo. Por exemplo, um guerreiro cujo treinamento e voltado par ao lado físico recebe mais ou menos 4 de xp fisico e 2 de xp mental por sessão.O mestre também pode dar mais experiencia de acordo com situações especiais dentro de jogo, como um objetivo alcançado ou um inimigo poderoso derrotado.
+
+O mestre pode dizer quanto de xp um personagem pode gastar por sessao ou quando bem desejar. 
+
+\subsection{Usando XP}
+
+A experiencia, seja ela fisica ou mental, pode ser usada para aumentar atributos ou comprar habilidades. 
+
+\begin{itemize}
+\item 5 pontos de xpf aumentam 1 atributo físico (ate 10).
+\item 5 pontos de xpm aumentam 1 atributo mental (ate 10).
+\item Para cada ponto de atributo acima de 10 (seja físico ou mental), aumente o custo em 1 ponto. Ou seja, para aumentar de 10 para 11, gaste 6 no lugar de 5. Para aumentar de 15 pra 16, existe um custo extra de 6, ou seja, eh necessário um total de 11 xp.
+\item 5 pontos de xpf aumentam 3 PV.
+\item 5 pontos de xpf aumentam 2 PF.
+\item 5 pontos de xpm aumentam 2 PM.
+\item Cada ponto favorecido reduz o custo em xp em 1 (ate o mínimo de 3).
+\end{itemize}
+
+
+% Para aumentar 1 atributo voce gasta 5 de XP. Voce tambem pode gastar XP para aumentar PV, PF e PM. Para tal, gaste 5 pontos de XP fiico para aumentar 3 pv ou 2 pf, e 5 pontos de XP mental para aumentar 2 pm. Algumas classes te dao bonus para isso, chamado bonus de atributo, bonus de xp ou pontos favorecidos. Para cada ponto de bonus de xp que uma classe conceder a algum atributo, reduza em 1 o custo para o aumento do mesmo. Isso tambem vale para PV, PM e PF. Por exemplo, o normal seria gastar 5 pontos para aumentar forca de 7 para 8. Mas se voce escolheu colocar 2 bonus de xp em forca, voce ire gastar somente 3 pontos de XP fiica para aumentar sua forca de 7 para 8. Mesmo podendo ser favorecidos em varios pontos, um atributo nao pode custar menos do que 3 de xp para ser aumentando. O mesmo vale para PV, PF e PM. 
+
+% Em relacao as bonus de xp, alem das classes concederem 2 pontos (alocados em locais diferentes de acordo com a classe escolhida), cada 3 niveis em um atributo concede ao personagem 1 ponto de bonus de xp em um atributo relacionado com aquele tipo de atributo. Por exemplo, um personagem de nivel mental 5 recebe 1 ponto de bonus de xp para alocar em sabedoria ou espirito ou inteligencia ou concentracao ou PM. O mestre tambem pode conceder pontos de bonus de xp ao longo da campanha. Isso ocorre por exemplo, quando um personagem encontra um mestre com um treinamento apropiado para aquele tipo de atributo.
+
+% Para atributos acima de 10, voce tem penalidades para aumente-los. Essa penalidade e o nivel de atributo que voce quer aumentar, menos 10, ou seja, se voce quer aumentar um atributo para 14, voce tem uma penalidade de 14-10=4. Nesse caso serao necessario 9 xp para aumentar aquele atributo. 
+
+% Nao existem penalidades para aumento de PV, PM ou PF, porem o mestre pode incluir alguma penalidade segundo julgamento prorrio. 
+
+Sempre que você aumentar um atributo, você ganha 1 nível do tipo daquele respectivo atributo. Os níveis ajudam a classificar melhor o poder do personagem em questão de pontos e limitar o uso de certas habilidades além de conceder pontos de bonus de xp extras. O mesmo para habilidades. Sempre que uma habilidade nova for comprava, aumente um nivel respectivo aquela habilidade. Se voce comprou uma habilidade tanto com xpf e xpm, aumente um nivel em cada. O nivel serve para ajudar o mestre a ajustar o nivel de dificuldade dos inimigos. Voce nao ganha niveis aumenta PV,PM ou PF.
+
+Você pode usar a XP acumulada quando o mestre der permissão para tal, de acordo com seu tempo de treinamento. 
+
+% Pegue o valor do atributo que você quer aumentar e use esse valor em dias de treinamento. Quando o personagem tem algum atributo favorecido por bônus de experiencia, esse tempo e reduzido. Essa reducao e igual ao bonus de experiencia *3 dias. Em suma, uma pessoa para aumentar forca de 7 para 8, precisa de 7 dias de treino arduo. Se ele tiver um 1 bonus de experiencia em forca, ele pode aumentar o atributo em apenas 4 dias. Geralmente o personagem pode aumentar PV, PF e PM sem a necessidade de treino propio.
+
+% Para habilidades, pegue o valor de experiencia necessario para aprender aquela habilidade e use 150\% desse valor como dias de treino necessarios. Isso vale tanto para habilidades da classe ou nao. Para magias, cada 10 PS necessario para aprender a magia, soma 1 semana no tempo de aprendizado. Isso e uma aproximacao para as magias e habilidades baicas. O mestre pode aumentar o tempo de treinamento necessario de acordo com julgamento prorrio. Para conhecimentos o mestre pode decidir de acordo com a acuidade do personagem.
+
+% Vale lembrar que esses valores sao usados para condicoes favoraveis de treinamento, ou seja, quando um personagem este se dedicando unicamente para aquilo. Caso ele esteja realizando outras acoes o mestre pode exigir um teste de acuidade (como realizar um teste sere explicado no primo capitulo) para analisar se o treinamento foi interrompido ou nao. Caso o personagem nao consiga passar nesse teste, dias a mais serao acrescentados no total. Essa quantidade extra e determinada pelo mestre baseado em uma percentagem total de dias necessarios para aprender tal atributo/habilidade.
+
+
+\subsection{Ganhando Atributo Social}
+
+Não exisre um xp social e você não pode aumentar atributos sociais utilizando ponto de bônus. Você ira ganhar atributos sociais no decorrer da historia. Uma missao que voce utilizou muita coragem, uma roupa nova e uma boa aparencia podem dar bonus em carisma assim como no status este que pode ser ajudado tambem quando voce e conhecido por um feito (seja ele bom ou mal). Quem decide o atributo que sere aumentando e o mestre na hora que bem desejar e para os que realmente merecem. Mas do mesmo modo que um pc pode ganhar atributos sociais ele tambem pode perder.	
+
+   
