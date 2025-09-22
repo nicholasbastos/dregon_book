@@ -1,181 +1,198 @@
-\select@language {brazil}
-\contentsline {chapter}{Table of Contents}{iii}{section*.1}
-\contentsline {chapter}{\numberline {1}Ficha}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Atributos Principais}{5}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Atributos F﨎icos}{5}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Atributos Mentais}{6}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Atributos Sociais}{7}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Atributos Gerais}{8}{section.1.2}
-\contentsline {section}{\numberline {1.3}Habilidades Pessoais}{10}{section.1.3}
-\contentsline {section}{\numberline {1.4}Conhecimentos}{10}{section.1.4}
-\contentsline {section}{\numberline {1.5}Poderes M疊icos}{10}{section.1.5}
-\contentsline {section}{\numberline {1.6}P駻icias B駘icas}{10}{section.1.6}
-\contentsline {section}{\numberline {1.7}Invent疵io}{11}{section.1.7}
-\contentsline {section}{\numberline {1.8}Tabela de Defesa}{11}{section.1.8}
-\contentsline {section}{\numberline {1.9}Experi麩cia(XP)}{13}{section.1.9}
-\contentsline {subsection}{\numberline {1.9.1}Xp F﨎ico e Xp Mental}{14}{subsection.1.9.1}
-\contentsline {subsection}{\numberline {1.9.2}Ganhando XP}{14}{subsection.1.9.2}
-\contentsline {subsection}{\numberline {1.9.3}Usando XP}{15}{subsection.1.9.3}
-\contentsline {subsection}{\numberline {1.9.4}Ponto de Bus}{17}{subsection.1.9.4}
-\contentsline {subsection}{\numberline {1.9.5}PS(Pontos de Spiritum)}{17}{subsection.1.9.5}
-\contentsline {subsection}{\numberline {1.9.6}Ganhando Atributo Social}{18}{subsection.1.9.6}
-\contentsline {chapter}{\numberline {2}Jogadas e Testes}{19}{chapter.2}
-\contentsline {section}{\numberline {2.1}O B疽ico de uma Jogada Simples}{19}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Realizando a Jogada}{19}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}N伹ero de Sucessos}{19}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Dificuldade Relativa}{20}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Sucesso Cr咜ico e Bus de Atributo}{20}{subsection.2.1.4}
-\contentsline {section}{\numberline {2.2}Tipos de Testes}{21}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Testes Combatidos}{21}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Testes Cont匤uos}{22}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Testes em Grupo}{22}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Testes Usando habilidades/conhecimentos/per兤ias}{23}{subsection.2.2.4}
-\contentsline {section}{\numberline {2.3}Um Exemplo Simples}{23}{section.2.3}
-\contentsline {chapter}{\numberline {3}Batalha}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}Momento de A鈬o}{26}{section.3.1}
-\contentsline {section}{\numberline {3.2}Iniciativa}{26}{section.3.2}
-\contentsline {section}{\numberline {3.3}Ataque}{27}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Um ataque normal}{27}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Ataque Inconsequente}{27}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Esquiva}{28}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Esquiva Normal}{28}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Aparar}{28}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Absor鈬o Total}{29}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Tipos de Dano}{30}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Dano Normal}{30}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Dano Autom疸ico}{30}{subsection.3.5.2}
-\contentsline {subsection}{\numberline {3.5.3}Lembrete Sobre Dano}{30}{subsection.3.5.3}
-\contentsline {section}{\numberline {3.6}Dano}{31}{section.3.6}
-\contentsline {section}{\numberline {3.7}Gastando PF}{33}{section.3.7}
-\contentsline {section}{\numberline {3.8}Usando Itens}{34}{section.3.8}
-\contentsline {section}{\numberline {3.9}Regras Opcionais para Combate}{34}{section.3.9}
-\contentsline {subsection}{\numberline {3.9.1}Ataques M伃tiplos}{35}{subsection.3.9.1}
-\contentsline {subsection}{\numberline {3.9.2}Esquivas M伃tiplas}{36}{subsection.3.9.2}
-\contentsline {subsection}{\numberline {3.9.3}Ataque coordenado}{37}{subsection.3.9.3}
-\contentsline {subsection}{\numberline {3.9.4}Atacando Alvos Espec凬icos}{38}{subsection.3.9.4}
-\contentsline {subsection}{\numberline {3.9.5}Ataque em ﾁrea}{40}{subsection.3.9.5}
-\contentsline {subsection}{\numberline {3.9.6}Contra Ataque - Atacando no Turno de Esquiva}{40}{subsection.3.9.6}
-\contentsline {subsection}{\numberline {3.9.7}Esquivando no Turno de Ataque }{41}{subsection.3.9.7}
-\contentsline {subsection}{\numberline {3.9.8}Movimento Durante a Batalha}{42}{subsection.3.9.8}
-\contentsline {subsection}{\numberline {3.9.9}Desarmar Oponente}{42}{subsection.3.9.9}
-\contentsline {subsection}{\numberline {3.9.10}Agarrar Oponente}{44}{subsection.3.9.10}
-\contentsline {subsection}{\numberline {3.9.11}Regra Opcional sobre PF}{44}{subsection.3.9.11}
-\contentsline {subsection}{\numberline {3.9.12}Recuperando PF durante a Batalha}{47}{subsection.3.9.12}
-\contentsline {chapter}{\numberline {4}Cria鈬o de Personagem}{49}{chapter.4}
-\contentsline {section}{\numberline {4.1}Histia}{49}{section.4.1}
-\contentsline {section}{\numberline {4.2}Ra軋}{50}{section.4.2}
-\contentsline {section}{\numberline {4.3}Classe}{51}{section.4.3}
-\contentsline {section}{\numberline {4.4}Toques Finais e Observa鋏es}{51}{section.4.4}
-\contentsline {chapter}{\numberline {5}Ra軋s}{55}{chapter.5}
-\contentsline {section}{\numberline {5.1}Humano}{56}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Dados t馗nicos}{57}{subsection.5.1.1}
-\contentsline {section}{\numberline {5.2}Omayusha}{57}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Dados t馗nicos}{58}{subsection.5.2.1}
-\contentsline {section}{\numberline {5.3}An縊}{59}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Dados t馗nicos}{59}{subsection.5.3.1}
-\contentsline {section}{\numberline {5.4}Gorion}{60}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Dados t馗nicos}{61}{subsection.5.4.1}
-\contentsline {section}{\numberline {5.5}Elfos / Aferin}{61}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Dados t馗nicos}{62}{subsection.5.5.1}
-\contentsline {section}{\numberline {5.6}Zenir}{63}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Dados t馗nicos}{63}{subsection.5.6.1}
-\contentsline {chapter}{\numberline {6}Classes}{65}{chapter.6}
-\contentsline {section}{\numberline {6.1}Habilidades De Classe}{66}{section.6.1}
-\contentsline {section}{\numberline {6.2}Multiclasse}{67}{section.6.2}
-\contentsline {section}{\numberline {6.3}Mudando de Classe}{68}{section.6.3}
-\contentsline {section}{\numberline {6.4}Guerreiro}{69}{section.6.4}
-\contentsline {section}{\numberline {6.5}Ladr縊 / Pistoleiro / Pirata}{69}{section.6.5}
-\contentsline {section}{\numberline {6.6}Mago Branco}{70}{section.6.6}
-\contentsline {section}{\numberline {6.7}Mago Negro}{70}{section.6.7}
-\contentsline {section}{\numberline {6.8}Guerreiro Mago Branco / Negro}{71}{section.6.8}
-\contentsline {section}{\numberline {6.9}Druida}{71}{section.6.9}
-\contentsline {section}{\numberline {6.10}Necromante}{72}{section.6.10}
-\contentsline {section}{\numberline {6.11}Mago Vermelho / Alquimista }{72}{section.6.11}
-\contentsline {section}{\numberline {6.12}Metamago}{73}{section.6.12}
-\contentsline {section}{\numberline {6.13}Mago Azul}{73}{section.6.13}
-\contentsline {section}{\numberline {6.14}Ranger / Batedor}{74}{section.6.14}
-\contentsline {section}{\numberline {6.15}Monges / Lutadores}{74}{section.6.15}
-\contentsline {section}{\numberline {6.16}Assassinos / Ninjas}{75}{section.6.16}
-\contentsline {section}{\numberline {6.17}Samurai}{75}{section.6.17}
-\contentsline {section}{\numberline {6.18}Soldado}{76}{section.6.18}
-\contentsline {section}{\numberline {6.19}Or當ulo / Eremita}{76}{section.6.19}
-\contentsline {chapter}{\numberline {7}Per兤ias B駘icas}{79}{chapter.7}
-\contentsline {section}{\numberline {7.1}Lista De Acesso}{80}{section.7.1}
-\contentsline {section}{\numberline {7.2}Usando uma arma sem a per兤ia}{81}{section.7.2}
-\contentsline {section}{\numberline {7.3}Usando uma arma com duas m縊s}{82}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Ambidestria}{82}{subsection.7.3.1}
-\contentsline {section}{\numberline {7.4}Especializa鈬o}{82}{section.7.4}
-\contentsline {section}{\numberline {7.5}Acrobacias em Combate}{83}{section.7.5}
-\contentsline {section}{\numberline {7.6}Pontos de Resist麩cia}{84}{section.7.6}
-\contentsline {section}{\numberline {7.7}Manopla}{85}{section.7.7}
-\contentsline {section}{\numberline {7.8}Armaduras}{86}{section.7.8}
-\contentsline {section}{\numberline {7.9}Escudos}{86}{section.7.9}
-\contentsline {section}{\numberline {7.10}Arco e Flecha}{87}{section.7.10}
-\contentsline {section}{\numberline {7.11}Armas Perfurantes}{89}{section.7.11}
-\contentsline {section}{\numberline {7.12}Armas de Fogo}{90}{section.7.12}
-\contentsline {subsection}{\numberline {7.12.1}Cad麩cia de tiro}{90}{subsection.7.12.1}
-\contentsline {subsection}{\numberline {7.12.2}Pontos de resit麩cia de armas de fogo}{91}{subsection.7.12.2}
-\contentsline {subsection}{\numberline {7.12.3}Balas}{91}{subsection.7.12.3}
-\contentsline {subsection}{\numberline {7.12.4}Efeito mangueira}{92}{subsection.7.12.4}
-\contentsline {section}{\numberline {7.13}Lista Das Per兤ias}{92}{section.7.13}
-\contentsline {section}{\numberline {7.14}Limita鈬o de Itens M疊icos}{93}{section.7.14}
-\contentsline {chapter}{\numberline {8}Habilidades e Conhecimentos}{95}{chapter.8}
-\contentsline {section}{\numberline {8.1}Tipos de Habilidades}{95}{section.8.1}
-\contentsline {section}{\numberline {8.2}Aumentando Habilidades Gerais}{96}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Habilidade Relacionada a Classe / Raça}{97}{subsection.8.2.1}
-\contentsline {section}{\numberline {8.3}Usando e ativando habilidades}{97}{section.8.3}
-\contentsline {section}{\numberline {8.4}Tempo de Concentração TC}{99}{section.8.4}
-\contentsline {section}{\numberline {8.5}Acumulo de Bônus e Penalidades}{101}{section.8.5}
-\contentsline {section}{\numberline {8.6}Conhecimentos}{101}{section.8.6}
-\contentsline {subsection}{\numberline {8.6.1}Acumulando Habilidades Durante a CdP}{102}{subsection.8.6.1}
-\contentsline {section}{\numberline {8.7}Habilidades Desfavorecidas}{103}{section.8.7}
-\contentsline {section}{\numberline {8.8}Habilidades Gerais}{105}{section.8.8}
-\contentsline {section}{\numberline {8.9}Habilidades de Classe}{110}{section.8.9}
-\contentsline {subsection}{\numberline {8.9.1}Guerreiro}{111}{subsection.8.9.1}
-\contentsline {subsection}{\numberline {8.9.2}Ladrão / Pistoleiro / Pirata}{115}{subsection.8.9.2}
-\contentsline {subsection}{\numberline {8.9.3}Mago Branco}{119}{subsection.8.9.3}
-\contentsline {subsection}{\numberline {8.9.4}Mago Negro}{122}{subsection.8.9.4}
-\contentsline {subsection}{\numberline {8.9.5}Guerreiro Negro}{125}{subsection.8.9.5}
-\contentsline {subsection}{\numberline {8.9.6}Guerreiro Branco}{129}{subsection.8.9.6}
-\contentsline {subsection}{\numberline {8.9.7}Druida}{133}{subsection.8.9.7}
-\contentsline {subsection}{\numberline {8.9.8}Necromante}{136}{subsection.8.9.8}
-\contentsline {subsection}{\numberline {8.9.9}Mago Vermelho}{138}{subsection.8.9.9}
-\contentsline {subsection}{\numberline {8.9.10}Metamago}{142}{subsection.8.9.10}
-\contentsline {subsection}{\numberline {8.9.11}Mago Azul}{148}{subsection.8.9.11}
-\contentsline {subsection}{\numberline {8.9.12}Ranger / Batedor}{155}{subsection.8.9.12}
-\contentsline {subsection}{\numberline {8.9.13}Monges / Lutadores}{160}{subsection.8.9.13}
-\contentsline {subsection}{\numberline {8.9.14}Assassino / Ninja}{164}{subsection.8.9.14}
-\contentsline {subsection}{\numberline {8.9.15}Samurai}{168}{subsection.8.9.15}
-\contentsline {subsection}{\numberline {8.9.16}Soldado}{172}{subsection.8.9.16}
-\contentsline {subsection}{\numberline {8.9.17}Oraculo / Eremita}{175}{subsection.8.9.17}
-\contentsline {section}{\numberline {8.10}Habilidades Gerais Especiais}{182}{section.8.10}
-\contentsline {subsection}{\numberline {8.10.1}Afinidade Natural}{182}{subsection.8.10.1}
-\contentsline {subsection}{\numberline {8.10.2}Metamorfose}{182}{subsection.8.10.2}
-\contentsline {subsection}{\numberline {8.10.3}Armas Extras}{186}{subsection.8.10.3}
-\contentsline {subsection}{\numberline {8.10.4}Mediunidade}{187}{subsection.8.10.4}
-\contentsline {subsection}{\numberline {8.10.5}Familiar}{187}{subsection.8.10.5}
-\contentsline {subsection}{\numberline {8.10.6}TechnoAlquimia}{190}{subsection.8.10.6}
-\contentsline {subsection}{\numberline {8.10.7}Corpo do Búfalo(10xpf)}{190}{subsection.8.10.7}
-\contentsline {subsection}{\numberline {8.10.8}Back Dash(10xpf)}{190}{subsection.8.10.8}
-\contentsline {subsection}{\numberline {8.10.9}Aura(10xpm)}{191}{subsection.8.10.9}
-\contentsline {section}{\numberline {8.11}Conhecimento Ritual}{191}{section.8.11}
-\contentsline {chapter}{\numberline {9}Magias}{195}{chapter.9}
-\contentsline {section}{\numberline {9.1}Natureza da Magia}{195}{section.9.1}
-\contentsline {section}{\numberline {9.2}Magia no Sistema}{199}{section.9.2}
-\contentsline {section}{\numberline {9.3}Magia Pura}{199}{section.9.3}
-\contentsline {section}{\numberline {9.4}Controle Elemental e Habilidades M疊icas}{202}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}Contra Magia(8xpm,10PS)}{203}{subsection.9.4.1}
-\contentsline {subsection}{\numberline {9.4.2}Materializar Magia(16ps,12xpm)}{203}{subsection.9.4.2}
-\contentsline {subsection}{\numberline {9.4.3}Armas Elementais}{204}{subsection.9.4.3}
-\contentsline {section}{\numberline {9.5}Alvos magicamente imunes}{205}{section.9.5}
-\contentsline {section}{\numberline {9.6}Conseguindo e Usando PS}{206}{section.9.6}
-\contentsline {section}{\numberline {9.7}C叝culo da Magia}{207}{section.9.7}
-\contentsline {section}{\numberline {9.8}Carregando uma Magia}{208}{section.9.8}
-\contentsline {section}{\numberline {9.9}Magias de Primeiro N咩el}{208}{section.9.9}
-\contentsline {subsection}{\numberline {9.9.1}Firani}{209}{subsection.9.9.1}
-\contentsline {subsection}{\numberline {9.9.2}Malon}{211}{subsection.9.9.2}
-\contentsline {subsection}{\numberline {9.9.3}Terrato}{213}{subsection.9.9.3}
-\contentsline {subsection}{\numberline {9.9.4}Zorin}{216}{subsection.9.9.4}
-\contentsline {subsection}{\numberline {9.9.5}Acua}{218}{subsection.9.9.5}
-\contentsline {subsection}{\numberline {9.9.6}Heris}{221}{subsection.9.9.6}
-\contentsline {subsection}{\numberline {9.9.7}Windan}{223}{subsection.9.9.7}
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{Table of Contents}{iii}{section*.1}%
+\contentsline {chapter}{\numberline {1}Ficha}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Atributos Principais}{4}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Modificador de Atributo}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Atributos Físicos}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Atributos Mentais}{7}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Atributos Sociais}{8}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}Atributos Gerais}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Habilidades Pessoais}{10}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Conhecimentos}{11}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Poderes Mágicos}{11}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Inventário}{11}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Tabela de Defesa}{11}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Experiencia(XP)}{12}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}XP (Experiência)}{12}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}Pontos de Bônus}{13}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}PS (Pontos de Spiritum)}{13}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1.8.4}Ganhando XP}{14}{subsection.1.8.4}%
+\contentsline {subsection}{\numberline {1.8.5}Usando XP}{14}{subsection.1.8.5}%
+\contentsline {subsection}{\numberline {1.8.6}Atributos Favorecidos}{15}{subsection.1.8.6}%
+\contentsline {subsection}{\numberline {1.8.7}Ganhando Atributos Sociais}{16}{subsection.1.8.7}%
+\contentsline {chapter}{\numberline {2}Jogadas e Testes}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}O Básico de uma Jogada Simples}{17}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Realizando a Jogada}{17}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Número de Sucessos}{17}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Dificuldade Relativa}{18}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Sucesso Crítico e modificador de atributo}{18}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Tipos de Testes}{20}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Testes Combatidos}{20}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Testes Contínuos}{20}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Testes em Grupo}{21}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Testes Usando habilidades/conhecimentos/perícias}{21}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Um Exemplo Simples}{22}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Batalha}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Momento de Ação}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Iniciativa}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Ataque}{25}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Um ataque normal}{25}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Ataque Inconsequente}{25}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Esquiva}{26}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Esquiva Normal}{26}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Aparar}{26}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Tipos de Dano}{27}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Dano Normal}{27}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Dano Automático}{27}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Dano Crítico}{28}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Dano de Toque}{28}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Lembrete Sobre Dano}{29}{subsection.3.5.5}%
+\contentsline {section}{\numberline {3.6}Dano}{29}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Gastando PF}{30}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Usando Itens}{31}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Regras Opcionais para Combate}{32}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Ataques Múltiplos}{32}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Esquivas Múltiplas}{34}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Atacando Alvos Específicos}{34}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Ataque em área}{36}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Contra Ataque - Atacando no Turno de Esquiva}{36}{subsection.3.9.5}%
+\contentsline {subsection}{\numberline {3.9.6}Esquivando no Turno de Ataque }{37}{subsection.3.9.6}%
+\contentsline {subsection}{\numberline {3.9.7}Movimento Durante a Batalha}{38}{subsection.3.9.7}%
+\contentsline {subsection}{\numberline {3.9.8}Desarmar Oponente}{38}{subsection.3.9.8}%
+\contentsline {subsection}{\numberline {3.9.9}Agarrar Oponente}{39}{subsection.3.9.9}%
+\contentsline {chapter}{\numberline {4}Criação de Personagem}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}História}{41}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Raça}{42}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Classe}{43}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Toques Finais e Observações}{43}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Raças}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Humano}{48}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Dados técnicos}{49}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Omayusha}{49}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Dados técnicos}{50}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Anão}{51}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Dados técnicos}{51}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}Gorion}{52}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Dados técnicos}{52}{subsection.5.4.1}%
+\contentsline {section}{\numberline {5.5}Elfos / Aferin}{53}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Dados técnicos}{54}{subsection.5.5.1}%
+\contentsline {section}{\numberline {5.6}Zenir}{55}{section.5.6}%
+\contentsline {subsection}{\numberline {5.6.1}Dados técnicos}{55}{subsection.5.6.1}%
+\contentsline {section}{\numberline {5.7}Zenfrú}{56}{section.5.7}%
+\contentsline {subsection}{\numberline {5.7.1}Dados técnicos}{56}{subsection.5.7.1}%
+\contentsline {section}{\numberline {5.8}Saravak}{57}{section.5.8}%
+\contentsline {subsection}{\numberline {5.8.1}Dados técnicos}{58}{subsection.5.8.1}%
+\contentsline {section}{\numberline {5.9}Magins}{58}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Magins do Vento}{59}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Dados técnicos}{59}{subsection.5.10.1}%
+\contentsline {section}{\numberline {5.11}Magins do Fogo}{60}{section.5.11}%
+\contentsline {subsection}{\numberline {5.11.1}Dados técnicos}{61}{subsection.5.11.1}%
+\contentsline {section}{\numberline {5.12}Magins da Terra}{61}{section.5.12}%
+\contentsline {subsection}{\numberline {5.12.1}Dados técnicos}{62}{subsection.5.12.1}%
+\contentsline {section}{\numberline {5.13}Magins da Água}{62}{section.5.13}%
+\contentsline {subsection}{\numberline {5.13.1}Dados técnicos}{63}{subsection.5.13.1}%
+\contentsline {section}{\numberline {5.14}Hai-Tsu}{63}{section.5.14}%
+\contentsline {subsection}{\numberline {5.14.1}Dados técnicos}{64}{subsection.5.14.1}%
+\contentsline {section}{\numberline {5.15}Globok}{65}{section.5.15}%
+\contentsline {subsection}{\numberline {5.15.1}Dados técnicos}{65}{subsection.5.15.1}%
+\contentsline {chapter}{\numberline {6}Classes}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Habilidades De Classe}{68}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Multiclasse}{69}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Mudando de Classe}{70}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Guerreiro}{70}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Ladrão / Pistoleiro / Pirata}{71}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Mago Branco}{71}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Mago Negro}{72}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Guerreiro Mago Branco / Negro}{72}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Druida}{73}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Necromante}{73}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Mago Vermelho / Alquimista }{74}{section.6.11}%
+\contentsline {section}{\numberline {6.12}Metamago}{75}{section.6.12}%
+\contentsline {section}{\numberline {6.13}Mago Azul}{75}{section.6.13}%
+\contentsline {section}{\numberline {6.14}Ranger / Batedor}{76}{section.6.14}%
+\contentsline {section}{\numberline {6.15}Monges / Lutadores}{76}{section.6.15}%
+\contentsline {section}{\numberline {6.16}Assassinos / Ninjas}{77}{section.6.16}%
+\contentsline {section}{\numberline {6.17}Samurai}{77}{section.6.17}%
+\contentsline {section}{\numberline {6.18}Soldado}{78}{section.6.18}%
+\contentsline {section}{\numberline {6.19}Oráculo / Eremita}{78}{section.6.19}%
+\contentsline {chapter}{\numberline {7}Habilidades e Conhecimentos}{79}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipos de Habilidades}{79}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Aumentando Habilidades Gerais}{81}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Habilidade Relacionada a Classe / Raça}{81}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Acúmulo de Bônus e Penalidades}{82}{subsection.7.1.3}%
+\contentsline {section}{\numberline {7.2}Usando Habilidades}{83}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Tempo de Concentração TC}{84}{subsection.7.2.1}%
+\contentsline {section}{\numberline {7.3}Conhecimentos}{86}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Sistema Simplificado de Conhecimentos}{86}{subsection.7.3.1}%
+\contentsline {section}{\numberline {7.4}Habilidades Desfavorecidas}{87}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Habilidades Gerais}{89}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Habilidades de Classe}{94}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Guerreiro}{95}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Ladrão / Pistoleiro / Pirata}{99}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}Mago Branco}{102}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.4}Mago Negro}{106}{subsection.7.6.4}%
+\contentsline {subsection}{\numberline {7.6.5}Guerreiro Negro}{108}{subsection.7.6.5}%
+\contentsline {subsection}{\numberline {7.6.6}Guerreiro Branco}{113}{subsection.7.6.6}%
+\contentsline {subsection}{\numberline {7.6.7}Druida}{116}{subsection.7.6.7}%
+\contentsline {subsection}{\numberline {7.6.8}Necromante}{119}{subsection.7.6.8}%
+\contentsline {subsection}{\numberline {7.6.9}Mago Vermelho}{121}{subsection.7.6.9}%
+\contentsline {subsection}{\numberline {7.6.10}Metamago}{125}{subsection.7.6.10}%
+\contentsline {subsection}{\numberline {7.6.11}Mago Azul}{130}{subsection.7.6.11}%
+\contentsline {subsection}{\numberline {7.6.12}Ranger / Batedor}{137}{subsection.7.6.12}%
+\contentsline {subsection}{\numberline {7.6.13}Monges / Lutadores}{142}{subsection.7.6.13}%
+\contentsline {subsection}{\numberline {7.6.14}Assassino / Ninja}{146}{subsection.7.6.14}%
+\contentsline {subsection}{\numberline {7.6.15}Samurai}{150}{subsection.7.6.15}%
+\contentsline {subsection}{\numberline {7.6.16}Soldado}{154}{subsection.7.6.16}%
+\contentsline {subsection}{\numberline {7.6.17}Oraculo / Eremita}{159}{subsection.7.6.17}%
+\contentsline {section}{\numberline {7.7}Habilidades Especiais}{165}{section.7.7}%
+\contentsline {subsection}{\numberline {7.7.1}Afinidade Natural}{165}{subsection.7.7.1}%
+\contentsline {subsection}{\numberline {7.7.2}Metamorfose}{165}{subsection.7.7.2}%
+\contentsline {subsection}{\numberline {7.7.3}Armas Extras}{169}{subsection.7.7.3}%
+\contentsline {subsection}{\numberline {7.7.4}Mediunidade}{169}{subsection.7.7.4}%
+\contentsline {subsection}{\numberline {7.7.5}Familiar}{170}{subsection.7.7.5}%
+\contentsline {subsection}{\numberline {7.7.6}Back Dash(10XP)}{172}{subsection.7.7.6}%
+\contentsline {subsection}{\numberline {7.7.7}Aura(10XP)}{173}{subsection.7.7.7}%
+\contentsline {section}{\numberline {7.8}Conhecimento Ritual}{173}{section.7.8}%
+\contentsline {chapter}{\numberline {8}Magias}{177}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Natureza da Magia}{177}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Magia no Sistema}{180}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Magia Pura}{181}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Controle Elemental e Habilidades Mágicas}{183}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}Contra Magia(8xpm,10PS)}{185}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}Materializar Magia(16ps,12xpm)}{185}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}Armas Elementais}{186}{subsection.8.4.3}%
+\contentsline {section}{\numberline {8.5}Alvos magicamente imunes}{187}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Conseguindo e Usando PS}{188}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Círculo da Magia}{189}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Carregando uma Magia}{189}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Magias de Primeiro Nível}{190}{section.8.9}%
+\contentsline {subsection}{\numberline {8.9.1}Firani}{190}{subsection.8.9.1}%
+\contentsline {subsection}{\numberline {8.9.2}Malon}{193}{subsection.8.9.2}%
+\contentsline {subsection}{\numberline {8.9.3}Terrato}{195}{subsection.8.9.3}%
+\contentsline {subsection}{\numberline {8.9.4}Zorin}{198}{subsection.8.9.4}%
+\contentsline {subsection}{\numberline {8.9.5}Acua}{200}{subsection.8.9.5}%
+\contentsline {subsection}{\numberline {8.9.6}Heris}{202}{subsection.8.9.6}%
+\contentsline {subsection}{\numberline {8.9.7}Windan}{204}{subsection.8.9.7}%
+\contentsline {subsection}{\numberline {8.9.8}Ciarú}{207}{subsection.8.9.8}%
+\contentsline {subsection}{\numberline {8.9.9}Veru}{210}{subsection.8.9.9}%
+\contentsline {subsection}{\numberline {8.9.10}Toronto}{216}{subsection.8.9.10}%
+\contentsline {chapter}{\numberline {9}Equipamento}{227}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Lista De Acesso}{228}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Usando uma arma sem a perícia}{229}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Usando uma arma com duas mãos}{230}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Ambidestria}{230}{subsection.9.3.1}%
+\contentsline {section}{\numberline {9.4}Especialização}{230}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Acrobacias em Combate}{231}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Pontos de Resistência}{232}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Manopla}{233}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Armaduras}{234}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Escudos}{234}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Arco e Flecha}{235}{section.9.10}%
+\contentsline {section}{\numberline {9.11}Armas Perfurantes}{237}{section.9.11}%
+\contentsline {section}{\numberline {9.12}Armas de Fogo}{237}{section.9.12}%
+\contentsline {subsection}{\numberline {9.12.1}Cadência de tiro}{238}{subsection.9.12.1}%
+\contentsline {subsection}{\numberline {9.12.2}Pontos de resitência de armas de fogo}{238}{subsection.9.12.2}%
+\contentsline {subsection}{\numberline {9.12.3}Balas}{239}{subsection.9.12.3}%
+\contentsline {subsection}{\numberline {9.12.4}Efeito mangueira}{239}{subsection.9.12.4}%
+\contentsline {section}{\numberline {9.13}Lista Das Perícias}{240}{section.9.13}%
+\contentsline {section}{\numberline {9.14}Limitação de Itens Mágicos}{240}{section.9.14}%
