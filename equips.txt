@@ -1,0 +1,16 @@
+Espada Grande 6+4,PR50
+Colete +2 , PR50
+Espada Magica 3+2 (+4 de dano magico, 5pm pra ativar), PR40
+Arco /4 (MAX5 forca) flecha +2
+Faca 2+2, PR40
+Colete de Madeira, /6, PR80
+Espada Media 4+4, PR50
+Arco /3 (MAX4 forca), flecha +3
+Armadura Media 3+3, PR90
+Colete +2, PR60
+Martelo /8, +3 defesa, PR70 (Min forca 6), -1 esquiva
+	
+Revolver 8,bala+8, Bala 4+6, Bala +10, Bala Magica +2
+Shotgun 12,bala+4,bala/6+2, pouco alcance
+Sniper 4+4,Bala+10,Bala+14, somente longo alcance
+

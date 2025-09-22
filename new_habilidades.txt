@@ -1,0 +1,7 @@
+Psiquismo
+10xpm, 20ps
+O usuario cria uma aura de protecao em volta do seu corpo que o protege de danos magicos.
+A aura tem um valor inicial de +1,  podendo ser aumentado ate +10, gastando 10 Ps para aumentar a defesa em +1. 
+Eh ativo automaticamente quando o usuario leva dano.
+O custo para ativacao eh de 2 PM ou 1 PF e 1 PM por bonus recebido.
+A duracao da aura de protecao eh igual a espirito minutos.

@@ -1,0 +1,681 @@
+inimigos
+
+>>>troll das montanhas 
+forca 12 ~ 20 
+defesa +10 ~ 22(pele de pedra)
+dex 5 ou 7 ~ 10
+esquiva 2 ~ 4
+espirito 2 ~ 5
+Pv = 40 (40 ~ 100)
+fraco contra ciaru 
+forte contra raio 
+dobro da defesa contra pedra
+
+
+>>>giant turtle 
+forca 15 
+defesa /30 (20/10)
+dex 10
+esquiva 8
+espirito 8
+Pv = 60 
+
+acc 12 (vs parry 18)
+dv dodge 8, parry 12 
+
+
+>>>troll da 
+floresta 
+forca 12 ou 20
+defesa 10 ~ 22(pele de madeira)
+dex 5 ou 7 ~ 10
+esquiva 2 ~ 4
+espirito 12 ~ 25
+Pv = 33 (30 ~ 50)
+fraco contra fogo 
+forte contra raio 
+regen 6~12
+dobro da defesa contra ciaru
+
+>>>troll das cavernas 
+forca 6 ~ 10 (7)
+defesa 8 ~ 12 (8)
+dex 10~20 (16)
+esquiva 10~20 (16)
+espirito 4 ~ 8 (5)
+Pv = 20 (20 ~ 30) (25) 
+
+III
+
+Ataques multiplos +4
+Garras +5~+10 (+7) (p3)
+
+
+
+>>>aranhas da floresta
+mordida (3+3)~(6+3),dex4~7, teste de resistencia df 15~20, n passar, fica poison
+cuspe acido, +6~+12, dex8 (2 cuspes por ataque) esp 2
+defesa 2+2 ~ 4+4
+esquiva 4 ~ 7 (5)
+pv=12
+
+>>>florest bug (bangaz)
+forca 1 (jato venenoso de +8 ate +12)
+defesa +3~+6 
+dex 8~12
+esquiva 8~14
+espirito 1 ~ 2
+
+Pv = 6~12
+Pm = 1 
+
+atacam com jato venenoso que tira grande dano automatico, ignora armadura ()
+mais velhas atacam com ferruada que pode paralizar o alvo.
+
+acerto: 8 (ranged)
+dano: +8 (ignora armadura) 
+defesa: + 3
+dv: 8
+
+
+>>>Goblins (maioria ranger ou ladrao, mas existem guerreiros, e poucos magos vermelhos que ganham 15 ponto de bonus e + 1 em mental)
+FÍSICO : 17 (nao podem ter forca nem defesa maior que 5) 
+Pv : 13 
+MENTAL : 15 
+Pm : 12 
+SOCIAL : 10 
+BÔNUS GERAIS : 10 pontos de bonus, furtividade +4, armadilha +1 ou rastrear +1, +4 em testes de resistencia.
+Nao pode ter forca nem def maior que 6 imediatamente apos a cdp.
+
+
+>>>hobgoblins (maioria guerreiro ou lutador)
+FÍSICO : 18 (+3 forca)
+Pv : 20 
+MENTAL : 11
+Pm : 10 
+SOCIAL: 8 (+4 em coragem) 
+BONUS GERAIS : +4 pv, resistencia +4.
+
+	
+
+>>>orcs (maioria guerreiro ou ranger, mas existem magos roxos ou raros guerreiros mago negro)
+
+
+>>>Ladroes
+forca4(faca2+4) , 6+4
+defesa4 (colete 4+2), 8+2
+dext7
+esquiva7
+espirito4
+pv=22
+ataques multiplosx1
+esquivas multiplasx1
+Armadilhas 1(+5) 
+acuidade (12) + armadilhas (5) contra percepcao(?) + detectar armadilhas (?, ninguem tem...)
+3 de dano (+20 de dano)
+3 de captura (tonto por 3~5 turnos ate poder tentar se soltar)
+potion 20 pv
+
+acc 8
+dmg 6+4
+dodge 7
+
+
+
+>>> undead peba
+acc 7
+dv 5
+defesa 8 (pele de madeira)
+dano 6+4 (faca 2+4)
+pv = 16
+imune a magia
+
+>>> undead caveira
+acc 7
+dv 9 (dex 5 escudo + 4)
+defesa 10 (pele de madeira)
+dano 12+2 (faca espada 6+2 , PR 40, max 70)
+pv = 20
+imune a magia
+
+>>>Espiritos Vingativos
+So podem ser atingidos por meio magico
+Dano magico 6, 16
+Dex/Esquiva 6, 8
+PV14 , 20
+Espirito8(automatico) , 10
+m , 29
+
+
+>>>Orcs
+forca 7 espada media 3+2, espada longa 5+2
+defesa 7 3+2
+dex 6 escudo de madeira,area +2, resistencia +1, PR40
+esquiva 4
+espirito 4
+Pv = 24
+Pf = 12
+
+focus em arma (espada media) +2 dano e acerto por 2 PF
+two handed sword (espada longa)
+
+acerto: 6
+dano: 10+2 ou 15+2
+defesa: 10+2
+dv: 6 (4 dodge)
+
+>>>homens lagarto
+forca 7 javelin de madeira +3, acerto +1
+defesa 9 /3(colete de madeira)
+dex 5 escudo de madeira,area +2, resistencia +1, PR40
+esquiva 3
+espirito 2
+Pv = 24
+Pf = 12
+
+especilizacao lanca +1 dano, +1 acerto
+alguns que nao usam escudo tem espada de duas maos
+
+acerto: 7 ou 6
+dano:  9+4 ou 7+4
+defesa: 12
+dv: 5 (3 dodge) ou 7 
+
+
+>>>Homens Lama/Pedra
+Forca 8,10+5 (pode realizar 1 ataque throw com dex 6~9)
+Defesa 12,14(pele de madeira ou pele de pedra)
+Destreza 3
+Esquiva 0
+PV=18,26
+espirito 1
+
+>>>Tigres Misticos
+For8+6	dano magico 12
+Def8	esp6
+Dex10	int6
+Esq8	con10
+pv = 18 
+pm = 20 - 6
+pode soltar 2 magias de fogo por turno, gastando 5 por magia.
+
+>>>Monge Kiroi(Tori,Hansu)
+NV15-1	NV10
+For7+8	Sab5
+Df13	Esp13
+Dex9+4	Int3
+Esq14	Con7
+PV38	PM17	PF20-,18,
+Habilidades 8+1
+Arte marciais (+4)
+Sobrevivencia em floresta
+Esquivas Multiplas(+6 para reduzir penalidades causadas por MO)
+Esquiva multipla melhorada x1(+2)
+Punho da Estigax4(Dano fica +8)
+Pele de Madeira(por 1 PF, defesa total)
+Kimono reforcado /8 (5/8, defesa total 13)
+
+>>>Morcego Hayaru x3
+For3+6	dano magico 0
+Def4	esp1
+Dex12	int1
+Esq12	con6
+pv = 18
+pm = 1
+-Hit = teste de resistencia DF 16~*20* (poison1)
+obs: na verdade sao 3 morcegos grandes atacando as pessoas. cada morcego tem 6 pv e atacam em grupo.
+para cada 6 pv tirado, retira-se 2 dex do ataque
+
+>>>incansavel kou
+For14+4	dano magico 15
+Def+12	esp5
+Dex6	int0
+Esq4	con2
+pv = 60 - 59 
+pm = 10 
+
+For20	dano magico 15
+Def+12	esp5
+Dex6	int0
+Esq4	con2
+
+6+9=15
+
+-terrato = +10,6PM
+-Explosão Mágica: por 2pm terrato pega em 2 alvos.
+-Corpo fechado
+obs: undead, elemento terra.
+uma caveira feita de terra e restos mortais daqueles q trabalham/exploram cavernas.
+a magia presente em certos materiais anima essa massa de terra/cadaveres.
+apesar de ser considerado undead, pode ser acertado por magia devido as pedras magicas dentro de si.
+
+>>>Earth crawler
+For+8	dano magico 0
+Def+8	esp3
+Dex8	int0
+Esq8	con2
+pv = 40
+pm = 10
+-hit: cada hit tira 10 PR da armadura dos alvos. cada defesa com a arma tira 5 PR.
+-ataque surpresa: perde 1 turno de ataque. teste de percepcao DF 16~*20*. se n leva o ataque automatico
+
+>>>Gurakan
+For14	dano magico 0
+Def14	esp6
+Dex4	int0
+Esq4	con2
+pv = 26
+-Medo: Teste de DF 15. se n passar, n consegue atacar.
+-perde 3 PV por investida, mas ganha +4 no acerto e /4 no dano.
+-forte contra terra e raio.
+obs: sao como macacos/topeiras
+
+
+>>>Druida das Cavernas Drub
+provindo de uma familia de druidas das cavernas, aceitou sua vocacao desde pequeno.
+ja explorou muitas cavernas e enfrentou diversos perigos.
+desde q um dos membros de sua familia foram mortos, se dedida a impedir a destruicao de cavernas.
+os hamitsu as vezes usam certos metodos para desestabilizar o governo omayan.
+fizerm um pacto com drub, auxiliando ele com equipamentos e informacoes de minas q possam ser atacadas.
+personagem feito com 60xpf,40xpm,40ps
+For18	dano magico 15
+Def14	esp4
+Dex9x/12	int4
+Esq3	con4
+pv = 29
+pm = 24
+pf = 20
+
+
+Pele de madeira		4pm.2pf			hab inst
+inv elemental		12pm,6pf		hab inst
+regeneracao		4pm.4pf		regen5	hab inst
+terrato 		9,4pm
+especializacao  martelo 3 acerto					
+equip	earth protection		/6	+4pf	
+Martelo /8, +3 defesa, PR100 (Min forca 6), -1 esquiva				
+
+>>>javali selvagem 
+forca 8+2
+defesa 10(pele de madeira) 
+dex 4  
+esquiva 2
+espirito 2
+Pv = 25
+
+>>>lobisomen 
+forca 10+5~20+7
+defesa 10~20
+dex 8~14
+esquiva 8~14
+espirito 5~10
+Pv = 26 ~ 56
+Pf = 20
+
+Ataques multiplos + 2~+6
+Grito do demonio 14,20
+Regen 3~8, 4PF, reflexivo
+Ataques com armas de prata sao do tipo automaticos e o eh fraco (metade da defesa)
+
+>>>arvore pilar guardia 
+ciaru 10
+defesa 14(pele de pedra)
+Pv = 30
+emite uma aura fazendo com que o usuario deva ter mais de 10 num teste pra acerta-lo em combate.
+
+
+>>>Aguias Bestas das Izon
+forca 6~8 +2+8
+defesa 6~12
+dex 10~12
+esquiva 10~14
+espirito 6 ~ 12
+Pv = 20 ~ 30
+Pf = 12
+
+Ataques multiplos +2~+6
+Esquiva Multipla
+mais ancioes podem soltar magia de vento, dano magico 15 ~ 20
+
+acerto: 10,10 ou 9,9,9
+dano: 6+6
+defesa: 6
+dv: 10 dodge
+
+>>>Bode magico das montanhas
+forca 6
+defesa 12 (pele de madeira)
+dex 9
+esquiva 1
+espirito 8 ~ 12
+Pv = 30~46
+Pm = 30~46 
+pf = 16~20
+
+zorin ou terrato +8~+12, 5PM
+impulso magico (pode gastar ate 5 pm para ganhar 5 em defesa ou forca, reflexivo)
+investida, 3 PF, +4 acerto, +2 dano
+
+acerto: 6 ou 10
+dano: 6 ou 8 + impulso magico 
+defesa: 12 + impulso magico
+dv: 9 parry
+
+>>>Salamandra de fogo ; crystal imp, REFAZER
+
+forca 2
+defesa 6 (pele de madeira)
+dex 6~12
+esquiva 12~16
+espirito 6~8
+Pv = 10~16
+
+
+Atiram projeteis elementais (fogo ou pedra) com dano +8
+Acertos multiplos +2
+podem dar ate 10 tiros
+firane come 2 tiros, dnao magico de 10
+
+
+acerto: 6 ou 5,5
+dano: 2+8 
+defesa: +6
+dv: 12
+
+>>>Montaci, Monstro do pantano
+
+forca 10 ~ 20
+defesa +15 ~ 20
+dex 6 ~ 12 
+esquiva 6 ~ 12  
+espirito 6
+Pv = 50 ~ 150   
+PF = 15 ~ 35  
+
+Regen 4~10. 
+Atiram projeteis elementais acido com dano +15. Cada tiro retira 8 Pr da armadura.
+Soco do Bixo pode causar veneno vital (df 18 ~ 23). 
+	Veneno potencia maxima de 4 (bonus da falha no teste diz a potencia) 
+	Soco do bixo ignora armadura.
+	Pode pegar varios alvos se os mesmos estiverem perto
+Sopro de veneno viral, magico area. mesma DF do soco. 
+	Ataque em area.
+Pode converter PF 1 em 2defesa/1dano no projetil elemental ou 1 na df do sopro viral/magico (max 10)
+O montaci emite um vapor em sua volta, fazendo com que qualquer um que deseje ataca-lo passe num teste de dex com df variando entre 6 e 12.
+
+
+forca 14
+defesa +16
+dex 8
+esquiva 0
+espirito 5
+Pv = 60 = 90
+PF = 20
+Regen 6
+Df dos testes de veneno = 20
+
+
+>>> Nerexia tipo 1
+
+gorila com o pelo pegando fogo
+um so olho no rosto
+uma boca grande com dentes afiados
+bracos cobertos por uma crosta de pedra.
+
+forca 14
+defesa 18 (pele de madeira)
+dex 9 (bracos concedem um bonus em aparar de + 4 como se fosse um escudo)
+esquiva 6 
+Sabedoria 6
+inteligencia 8
+espirito 12
+concentracao 10
+
+Pv = 50 - 47
+Pm = 30 10/12
+pf = 10
+
+Firane +10 , 6 PM
+Sleep 8 pm (consciencia contra 18, se nao fica sleep)
+mind break 4 pm, (dano igual a diferenca da consciencia 14)
+
+
+>>>Spider Monster
+
+forca 7 + 10 (2 ataques)
+defesa +20 (pele de madeira)
+dex 8 
+esquiva 8
+espirito 8
+Pv = 80
+
+
+Reflect, ate 20 aguenta. se armadura quebrar, reflect ja era.
+Atiram projeteis que faz com que o cara tenha reducao em forca ou dex ou forca e esquiva
+2 pra defesa
+
+acerto: 8
+dano: 7+10 
+defesa: +20
+dv: 10
+
+>>>elemental da areia
+forca 12 (ignora armadura)
+defesa 15 (pele de madeira) (pode ou nao ignorar dano +, dependendo da natureza do ataque ou do elemental)
+dex 8 
+esquiva 4 (pode ter o mesmo valor de dex de acordo com o elemental)
+espirito 0 (imune a magia)
+Pv = 35
+PF = 10 
+
+acerto: 8
+dano: 12(ignora armadura) 
+defesa: 15(madeira)
+dv: 4
+
+>>>elemental gelo
+forca 10 (dano ignora armadura,unblock)
+defesa +10 
+dex 10 
+esquiva 10 
+espirito 0 (imune a magia)
+
+Pv = 60
+PF = 20 , 17, 13, 12
+
+-Baforada de gelo, 3 PF,ataque em area (acc normal), dano normal 10+10
+-Baforada congelante, 3PF, dex contra esquiva. DF teste de Defesa com 10 + sucesso no acerto do elemental. (exemplo, elemental acertou 8, alvo test def df 18)
+-ataques corpo a corpo sempre ignoram armadura.
+-todo ataque que atinge o elemental sofre dano de gelo igual causado do tipo normal em PR ou o mesmo valor em PV caso seja corpo a corpo (pode jogar defesa)
+-Pode usar 1 PF para curar 4 PV.
+-Pode usar 1 PF para bombar o dano em +3, ate o maximo de +10 (forca atual)
+-Pode retirar PF de equipamento (20 para cada bufete). Gasta 1 PF.
+
+acerto: 10
+dano: +10(ignora armadura) 
+defesa: +10
+dv: 10
+
+elemental gelo
+
+>>>Golem Guerreiro
+forca 15 (dano ignora armadura,unblock) , espada 5+5 (PR60)
+defesa 10+20 (pele de madeira)
+dex 10 + 5 (esc)
+esquiva 5 
+espirito 0 (imune a magia)
+
+Pv = 70
+
+- Terrato Shotgun , 16 de dano magico de toque, 6 tiros.-6
+- Atacantes podem fazer teste de acrobacia/saltar para retirar sucesso no teste de aparar do golem.	
+- Conseguem realizar um ataque fisico e dar um tiro da shotgun caso tire 8 ou mais no dado. Se tirar 1 10, consegue dar 2 ataques iguais (tiro ou espada)
+- A shotgun pode ser destruida por meio normal ou por magia (DF 15 de inteligencia para acertar a shotgun. 40de PR, "espirito" 5)
+- O mestre pode criar um ponto fraco para o jogador fazer um teste de int/conc/per para anular o pele de madeira.
+
+acerto: 15
+dano: 20+5 
+defesa: 10+20
+dv: 20 (10 dex, 5 especi, 5 escudo)
+
+*loot
+escudo magico, slot 2, 5, +10 PV, PR100.
+
+
+>>>Crystal warrior 
+forca 16 
+defesa /12 (pele de madeira ou nao), ignora dano automatico ate +30
+dex 8 , contra ataque de parry ganha bonus de forca , ou seja, 7, na defesa pode usar o  braco como um escudo +4
+esquiva 5 
+espirito 10 
+
+Pv = 50
+PM = 20
+
+-Terrato 12 de dano magico, 3 pm, terrato em quem tiver perto de toque, 5 pm.
+-Corpo Pesado(10PS, 12xpm): Custo normal de terrato + 2 PM. TC10.
+O usuário realiza um teste de sabedoria contra o espírito do alvo (caso a mágia seja considerada de toque o sucesso é automático igual a sabedoria do usuário). 
+Caso obtenha sucesso o alvo tem uma redução em sua esquiva e destreza iguais a metade do bônus da magia pura (3). A redução fica ativa durante 2 + sucessos turnos.
+
+acerto: 8 unblock ou 15 block (tira 5 PR da arma para cada golpe)
+dano: 16 
+defesa: /12
+dv: 5 unblock ou 12 block 
+
+*loot
+1 a 3 PO (conhecimento de minerio ou forjar, teste, df 20)
+
+
+>>>elemental terra
+forca 20 (dano ignora armadura,unblock)
+defesa +20 
+dex 8 (esquiva), 14 (parry) 
+esquiva 2 
+espirito 0 (imune a magia)
+
+Pv = 100
+PF = 20 , 18, 13, 8
+
+-Throw Stone (+20), 8 acerto, 5 PF.
+
+acerto: 8(dodge), 14(acerto)
+dano: 20(ignora armadura) 
+defesa: +20
+dv: 2(dodge), 14(parry)
+
+elemental terra
+
+>>>Reptiliano
+forca 15 (21)
+defesa 15+10 
+dex 10 
+esquiva 8 
+
+espirito 12 
+
+Pv = 84
+PF = 32 , 29 , 25, 22, 21, 18, 15, 14
+
+-Pode Ativar pele de madeira reflexivamente por 3 PF
+-Pode lutar ate -12 normalmente, Morre com -24.
+-Garras +6
+-Pele Armadura +8
+-Acc Acerto +4 Dano +4
+-Garras de aco +2 Aparar
+-Ataques multiplos +4
+-Jump 1PF (+7 esquiva)
+-Bonus de dano magico recebido, aumenta defesa ou forca
+-Super Garras tiram 5 PR de cada arma aparada ou 10 PR da armadura
+-3PF, Status 12 VS Coragem (2~4 turnos com medo)
+
+Armadura 2
+
+acerto: 14, 9&9 (1PF)
+dano: 15+10 , 15+10&35,  
+defesa: 15+10 ()
+dv: 8(dodge) ou 15(+1PF), 16(parry) (ate 3 DVs gratis)
+
+
+>>>Enguias magicas voadoras
+-Raio eletrico , acc 10, only dodge, +12 de dano fisico
+-Agarrao , acc 14, 12 dano ig armadura. 
+	Quando agarrado forca x 14, caso nao passe, continua agarrado e leva dano (pode usar algo extra para ganhar bonus no teste de forca)
+
+PV = 26~36
+dodge 10~14
+DF = 10 ~ 16
+Espirito 9 (forte contra raio)
+
+
+>>>Evil bat
+-Confuse , concetracao x 12, caso nao passe, -4 durante falhas turnos.
+- Veru 14 (3 tiros) , acerto 8.
+- Poison 2 (rs x 18). 8 turnos de duracao, acc 12 (cuspida acida)
+
+PV = 18
+dodge 8~14
+df 6~10
+Espirito 6
+
+
+>>>wind elemental
+
+forca +12 (ignora armadura)
+defesa /12 
+dex 10 (so esquiva) 
+esquiva 20 , 10 para coisas atingiveis
+PV 30
+
+pv= 35 , -10 , -15
+pm,windan, explosao sonica, voo, especial
+
+
+>>>robot
+
+forca 12+12 (+12) - 8 defesa 
+defesa +10 
+dex 12 (so esquiva) 
+esquiva 12 ,
+
+>>>Ranger inimigo, 1 ranger xpf=171(172),xpm151(147),abp42
+
+PV*=19+9++9+8=45
+PM=17+4=21
+PF=16
+
+_LVFisico=26_	_LVMental=14_
+Forca	7	Sab	5		Sta=6,Car=3,Cor=6
+Def**	8	Esp**	10
+Dex***	14	Int***	12
+Esq**	14	Conc*	8
+
+Hab=
+alquimia+10
+Furtividade+3
+Guerra+5
+Labia+5
+Focus em Arma (6xpf): Por 2 PF o usuário recebe um bônus de 4 em destreza para ataques a distância. Habilidade reflexiva. 
+Focus em Arma Melhorado (8xpf): Os bônus cedido pela habilidade Focus em Arma aumenta em 2 pontos. Pre-Requisito: Focus em Arma. Habilidade permanente. Essa habilidade tem o mesmo custo em experiência independente da classe. 
+Tiro da Estiga (12xpf): Para cada PF gasto nessa técnica, o usuário recebe 2 de dano normal em um ataque a distância. O valor máximo que o usuário pode receber como bônus dessa técnica é igual a sua concentração. Habilidade instantânea.
+Reflexos do Gatuno (6xpf,6xpm): O usuário recebe um bônus de +4 em todos os testes de percepção. 
+Desarmar(6xpf): O usuário recebe +2 para testes de desarmar. Pode ser comprado até 5 vezes.
+Sentidos Aguçados(6xpf,8xpm): Visao
+Insônia induzida
+Corpo Saudável(14xpf): O usuario recupera o dobro dos PF normais ao repousar ou com efeitos de cura.
+Ataque Concentrado(6xpf,6xpm): 
+
+Esp=arremesso +2acc +2dmg
+
+Itens=
+Bota da esquiva (dodge +2)
+Armadura de jade /4+8 , Pr40
+Dardos Grandes Acidos , Damage 7+16 (14 veneno,+2 pericia,7 da forca)x3
+Lanca Venenosa 4+4,acc2, Damage 11+8(forca 7/4,4+4 veneno)
+2 potion 20 PV, 1 potion 12PF.
+
+Outras bombas feitas pelo inimigo.
+Bomba Nuvem negra , -4dex e dodge para todos dentro da area (ataques acobrativos ou a distancia tem penalidade variavel de acordo com teste de conc)
+Bomba veneno , +10 , ignora armadura
+Bomba paralisante , teste de resistencia contra com DF 12+10+2+6=30 , -6 em dex e esq. (a rede tambem tem isso)
+
+

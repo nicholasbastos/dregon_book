@@ -1,0 +1,74 @@
+\documentclass[masters]{BYUPhys}
+\usepackage[portuguese,noprefix]{nomencl}
+\usepackage[portuges, brazil]{babel}
+
+\usepackage{eso-pic}
+%\usepackage{wallpaper}
+
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\textheight]{\textwidth}{%\parbox[b][\paperheight]{\paperwidth}{
+\vfill
+\centering
+%\includegraphics[height=1.5\textheight, width=1.05\textheight]{"page"}%
+\vfill
+}}}
+% ------- Fill in these fields for the preliminary pages --------
+%
+% For Senior and honors this is the year and month that you submit the thesis
+% For Masters and PhD, this is your graduation date
+  \Year{2016}
+  \Author{N.b.m. - V.1.2}
+
+% If you have a long title, split it between two lines using the \\ command.
+% A multiple line title should be an "inverted pyramid" with the top line(s)
+% longer than the bottom.
+  \Title{Livro do Mestre - Dragon}
+
+\begin{document}
+
+ % Start page counting in roman numerals
+ \frontmatter
+
+ % This command makes the formal preliminary pages.
+ % You can comment it out during the drafting process if you want to save paper.
+
+ \makepreliminarypages
+
+ \singlespace
+
+ % Make the table of contents.
+ \tableofcontents
+
+% \clearemptydoublepage
+
+ %\listoffigures
+
+ %\listoftables
+
+ \doublespace
+
+ % Start regular page counting at page 1
+ \mainmatter
+\AddToShipoutPicture{\BackgroundPic}
+
+
+\include{intro}
+\include{explorando} 
+%\include{inimigos} 	
+\include{equipamentos} 
+%\include{batalha} 
+
+
+\ClearShipoutPicture
+
+ %\include{AppendixA}
+ %\include{AppendixB}
+
+ %\phantomsection 
+ %\addcontentsline{toc}{chapter}{Index}
+ %\renewcommand{\baselinestretch}{1} \small \normalsize
+ %\printindex
+
+
+\end{document}

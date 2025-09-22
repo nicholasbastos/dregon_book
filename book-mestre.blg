@@ -1,0 +1,13 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: book-mestre.aux
+I couldn't open style file phBYU.bst
+---line 3 of file book-mestre.aux
+ : \bibstyle{phBYU
+ :                }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: explorando.aux
+A level-1 auxiliary file: equipamentos.aux
+I found no \citation commands---while reading file book-mestre.aux
+I found no \bibdata command---while reading file book-mestre.aux
+I found no style file---while reading file book-mestre.aux
+(There were 4 error messages)

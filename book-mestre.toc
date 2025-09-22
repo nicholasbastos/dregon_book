@@ -1,0 +1,53 @@
+\select@language {brazil}
+\contentsline {chapter}{Table of Contents}{iii}{section*.1}
+\contentsline {chapter}{\numberline {1}Introdução}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Liberdade}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Custo de Habilidades}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Criando Novas Habilidades}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Cuidados}{5}{section.1.4}
+\contentsline {section}{\numberline {1.5}Recompensas}{6}{section.1.5}
+\contentsline {section}{\numberline {1.6}Downtime}{7}{section.1.6}
+\contentsline {chapter}{\numberline {2}Explorando}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Descansando}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Inimigos durante a exploração}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Pontos de Fadiga}{11}{section.2.3}
+\contentsline {section}{\numberline {2.4}Sobrevivência}{12}{section.2.4}
+\contentsline {section}{\numberline {2.5}Afinidade Natural}{13}{section.2.5}
+\contentsline {chapter}{\numberline {3}Equipamentos}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}Dinheiro}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Criando um equipamento}{16}{section.3.2}
+\contentsline {section}{\numberline {3.3}Melhorando e Criando Equipamentos}{21}{section.3.3}
+\contentsline {section}{\numberline {3.4}Material de Forja/Alquimia/Herbalismo/Gunsmith}{23}{section.3.4}
+\contentsline {section}{\numberline {3.5}Poções}{24}{section.3.5}
+\contentsline {section}{\numberline {3.6}Equipamento Mundano}{26}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Espada Curta}{26}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Espada Média}{26}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3.6.3}Espada Longa}{27}{subsection.3.6.3}
+\contentsline {subsection}{\numberline {3.6.4}Lança}{27}{subsection.3.6.4}
+\contentsline {subsection}{\numberline {3.6.5}Bastão}{28}{subsection.3.6.5}
+\contentsline {subsection}{\numberline {3.6.6}Arco e Flecha}{29}{subsection.3.6.6}
+\contentsline {subsection}{\numberline {3.6.7}Esmagador}{32}{subsection.3.6.7}
+\contentsline {subsection}{\numberline {3.6.8}Esmagador Grande}{33}{subsection.3.6.8}
+\contentsline {subsection}{\numberline {3.6.9}Arma de Fogo Leve}{33}{subsection.3.6.9}
+\contentsline {subsection}{\numberline {3.6.10}Arma de Fogo Média}{34}{subsection.3.6.10}
+\contentsline {subsection}{\numberline {3.6.11}Arma de Fogo Pesada}{34}{subsection.3.6.11}
+\contentsline {subsection}{\numberline {3.6.12}Manopla}{35}{subsection.3.6.12}
+\contentsline {subsection}{\numberline {3.6.13}Armadura Leve}{35}{subsection.3.6.13}
+\contentsline {subsection}{\numberline {3.6.14}Armadura Média}{36}{subsection.3.6.14}
+\contentsline {subsection}{\numberline {3.6.15}Armadura Pesada}{37}{subsection.3.6.15}
+\contentsline {subsection}{\numberline {3.6.16}Foice Pequena}{37}{subsection.3.6.16}
+\contentsline {subsection}{\numberline {3.6.17}Foice Longa}{38}{subsection.3.6.17}
+\contentsline {subsection}{\numberline {3.6.18}Escudo}{38}{subsection.3.6.18}
+\contentsline {subsection}{\numberline {3.6.19}Zarabatana}{38}{subsection.3.6.19}
+\contentsline {subsection}{\numberline {3.6.20}Arremesso}{39}{subsection.3.6.20}
+\contentsline {subsection}{\numberline {3.6.21}KusariGama}{40}{subsection.3.6.21}
+\contentsline {subsection}{\numberline {3.6.22}Bastão Curto Composto}{40}{subsection.3.6.22}
+\contentsline {subsection}{\numberline {3.6.23}Lutar Desarmado}{41}{subsection.3.6.23}
+\contentsline {subsection}{\numberline {3.6.24}Chicote}{41}{subsection.3.6.24}
+\contentsline {subsection}{\numberline {3.6.25}Bestas}{41}{subsection.3.6.25}
+\contentsline {section}{\numberline {3.7}Artefatos Mágicos}{42}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Natureza}{42}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Slots}{43}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Pr dos Artefatos}{43}{subsection.3.7.3}
+\contentsline {subsection}{\numberline {3.7.4}Acumulo de Bônus}{44}{subsection.3.7.4}
+\contentsline {subsection}{\numberline {3.7.5}Exemplos}{44}{subsection.3.7.5}
