@@ -35,24 +35,82 @@ As magias são divididas de acordo com uma cor relacionada a elas. Os tipos são
 
 \section{Magia no Sistema}
 
-As explicações feitas na seção anterior têm o propósito de construir uma base para o uso e compreensão da magia, dando uma maior profundidade às campanhas. Nessa seção iremos resumir os pontos que serão usados diretamente no sistema.
+Esta seção apresenta as regras essenciais para usar magia durante o jogo. As explicações teóricas anteriores servem para dar profundidade às campanhas, mas estas são as regras que você realmente precisa saber.
 
+\subsection{Como a Magia Funciona em Combate}
+
+\textbf{Defesa Contra Magia:}
 \begin{itemize}
-	\item Magias, a priori, não podem ser esquivadas com esquiva ou defendidas por qualquer tipo de proteção física (escudos, muros, etc).
-	\item Magias tem seu efeito reduzido de acordo com o atributo espirito. Espirito é a defesa magica, assim como defesa é a redução de dano fisico.
-	\item Magias, a priori, não podem atingir objetos sem espiritos, como portas, robos, carros, entre outros.
-	\item Quando atigindo por uma magia, o alvo não joga espirito. O valor de sua absorção magica é o valor total de seu atributo.
-	\item O alvo de uma mágia apenas joga seus espírito para reduzir dano mágico caso a magia realizada seja de toque.
-	\item Uma magia é considerada de toque, a priori, se o corpo físico do usuário da magia tocar o corpo físico do alvo da mesma.
-	\item O alvo da magia pode anular seu espírito para receber todo a cura de uma magia.	
+    \item \textbf{Espírito é sua defesa mágica} - funciona como a defesa física, mas contra magias
+    \item \textbf{Você não pode esquivar magias} - exceto com habilidades especiais como Auridade
+    \item \textbf{Proteções físicas não funcionam} - escudos, armaduras e muros não bloqueiam magias
 \end{itemize}
+
+\textbf{Alvos da Magia:}
+\begin{itemize}
+    \item \textbf{Apenas criaturas com espírito} podem ser afetadas por magias normais
+    \item \textbf{Objetos inanimados} (portas, robôs, carros) são imunes à magia
+    \item \textbf{Mortos-vivos} são imunes à maioria das magias (exceto cura)
+\end{itemize}
+
+\textbf{Dano Mágico:}
+\begin{itemize}
+    \item \textbf{Espírito absorve automaticamente} - você não rola dados, apenas subtrai o valor do dano
+    \item \textbf{Exemplo:} Se você tem Espírito 8 e recebe 12 de dano mágico, fica com 4 de dano
+\end{itemize}
+
+\subsection{Magias de Toque}
+
+\textbf{O que é uma magia de toque:}
+\begin{itemize}
+    \item \textbf{Contato físico necessário} - o usuário deve tocar o alvo fisicamente
+    \item \textbf{Você pode rolar Espírito} para reduzir o dano (teste normal)
+    \item \textbf{Exemplo:} Um mago tocando sua testa para ler sua mente
+\end{itemize}
+
+\subsection{Magias de Cura}
+
+\textbf{Recebendo cura:}
+\begin{itemize}
+    \item \textbf{Você pode escolher} não usar seu Espírito para receber cura total
+    \item \textbf{Útil para curas pequenas} - evita desperdiçar o efeito
+\end{itemize}
+
+\subsection{Resumo Rápido}
+\begin{enumerate}
+    \item Espírito = defesa contra magia
+    \item Não pode esquivar magias (exceto Auridade)
+    \item Só afeta criaturas com espírito
+    \item Espírito absorve automaticamente
+    \item Magia de toque = contato físico
+    \item Pode anular Espírito para cura total
+\end{enumerate}
 
 
 \section{Magia Pura}
 
 A magia pura é a manifestação mais pura, mais natural de um caminho mágico. Ela representa a verdadeira natureza daquela magia, e é manifestada geralmente como uma exploção do elemento relacionado a magia. Por exemplo, dentro das magias negras existe o caminho da magia da terra. Esse caminho é chamado de Terrato. A magia pura de terrato pode ser manifestada como o arremesso de uma grande rocha ou um pilar de pedra que surge no meio da terra. O usuário da magia que deve definir como é a manifestação visual da magia pura. 
 
-Uma magia pura sempre tem 3 dados principais. O primeiro desses dados é chamado de bônus da magia pura. Esse bônus representa o poder da magia pura. Quando usada em ataque, o usuário deve somar sua sabedoria ao bônus da magia pura para saber a quantidade de dano causado. Voltemos ao exemplo de terrato. Quando comprada inicialmente, o bônus da magia pura de terrato é +6. Um mago com sabedoria 8 ao utiliza-la pode causar 14 de dano mágico. Após aprender a magia pura, o usuário da mesma pode aumentar seu bônus em +1 gastando 10 PS. Esse bônus so pode ser aumentando até um limite estabelecido de acordo com o circulo da mágia e o tipo da mesma. O outro dado importanto é a quantidade de PM que uma magia pura consome ao ser utilizada. O usuário pode gastar 10 PS para diminuir o custo da magia pura em 1 PM até o limite mínimo de metade do seu custo inicial. O terceiro e último dado de uma magia pura é o TC necessário para realiza-la. As regras para TC (tempo de concentração) usadas nesse caso são as mesmas descritas no capítulo sobre habilidades.
+Uma magia pura sempre tem três componentes principais:
+
+\textbf{1. Bônus da Magia:}
+\begin{itemize}
+    \item \textbf{Dano base} da magia (ex: +6 para Terrato)
+    \item \textbf{Soma com Sabedoria} para dano total
+    \item \textbf{Exemplo:} Terrato +6 + Sabedoria 8 = 14 de dano
+    \item \textbf{Pode ser aumentado} gastando 10 PS por +1
+    \item \textbf{Limite máximo} determinado pelo círculo da magia
+\end{itemize}
+
+\textbf{2. Custo em PM:}
+\begin{itemize}
+    \item \textbf{Energia necessária} para usar a magia
+    \item \textbf{Pode ser reduzido} gastando 10 PS por -1 PM
+    \item \textbf{Limite mínimo} = metade do custo inicial
+\end{itemize}
+
+\textbf{3. Tempo de Concentração (TC):}
+Teste de concentração com dificuldade igual ao TC. Caso passe, executa a magia sem precisar concentrar. (Se falhar, já assume que vai ter que concentrar um turno). Cada turno concentrando a magia, a mesma recebe um bônus no dano igual ao bônus de focus do usuário. Qualquer dano recebido maior que a concentração do usuário, interrompe a concentração da magia.
 
 Mesmo que a magia pura represente uma "explosão energetica", o usuário da magia pura pode explorar sua natureza para obter efeitos especiais. Ou seja, devido a natureza diferente de cada caminho, cada magia pura tem um efeito especial associado a ela. Por exemplo, vejamos a magia branca acua (elemental água). A magia pura de acua pode ser representada como um jato de agua. Porém, o usuário pode explorar de forma melhor a natureza da magia, podendo usa-la para curar pequenos ferimentos.
 
@@ -77,7 +135,6 @@ Algumas raças dão acesso a compra de certas magias pelo custo em PS da classe.
 \section{Controle Elemental e Habilidades Mágicas}
 Após aprender a magia pura, o usuário tem acesso de aprendizado as habilidades daquela magia. O custo de qualquer habilidade mágica relacionada a uma magia é o MESMO independentemente da classe. Ou seja, um guerreiro, mesmo desfavorecido com mago negro, pode comprar as habilidades de firani sem pagar nenhum custo extra. Alguns mestres podem exigir alguns outros pre-requisitos, como por exemplo, controle elemental da magia usada ou um determinado valor mínimo de um atributo mental.
 
-
 Após aprender a magia pura, o usuário pode gastar PS para melhorar seu bônus ou diminuir seu custo. Além disso, ele pode explorar a natureza básica da magia pura para poder usar um efeito especial, associado a natureza da magia. Porém isso não quer dizer que ele possa fazer somente isso para explorar aquele caminho mágico. Na verdade, isso é apenas o começo.
 
 Um passo básico para a exploração de um caminho mágico é chamado de controle elemental. Gastando 6PS e 8 xpm (independente da classe) o usuário pode comprar a habilidade mágica controle elemental (uma compra para cada magia pura). Essa habilidade permite ao usuário controlar o elemento associado aquela magia pura de que ele comprou o controle elemental. O nível de controle é associado ao atributo geral consciência, ou seja, quanto maior a consciência de um usuário de controle elemental da magia firani, maior vai ser o controle sobre o fogo que o personagem terá. Com o controle elemental o usuário não cria o elemento, e sim o controla de acordo com sua existência no ambiente. Baseado nisso o mestre deve determinar de que forma o usuário vai usa-la dentro de jogo. Abaixo citamos alguns exemplos:
@@ -93,7 +150,6 @@ As seguintes magias não tem controle elemental devido a sua natureza. Magias ve
 \subsection {Contra Magia(8xpm,10PS)}
 
 Usuários da habilidade contra magia podem aparar ataques mágicos de magias puras elementais durante seu turno de esquiva. O usuário deve usar uma magia de mesmo elemento ou de um elemento favorecido para poder usar esta habilidade. Além disso, magias de um círculo superior não podem ser aparadas por magias de um círculo inferior. O usuário deve realizar um teste de concentração com dificuldade igual ao TC da magia usada para aparar. Cada tentativa de aparar outra magia, faz com que a dificuldade desse teste aumente em 2 pontos. Outros aspectos do ambiente podem aumentar a dificuldade desse teste (o usuário recebe vários ataques físicos ou se ele esta tentando aparar uma magia realizada em um aliado distante). O custo em PM é igual a metade (arredondado para cima) do utilizado normalmente.
-
 
 
 \subsection{Materializar Magia(16ps,12xpm)}
@@ -122,12 +178,29 @@ Alvos magicamente imunes podem ser acertados por uma magia em seu estado materia
 
 \section{Conseguindo e Usando PS}
 
-O PS (ponto de spiritum) represente a criatividade e desenvoltura mágica. Ou seja, sempre que um personagem usar sua magia com criatividade ou ver um efeito mágico desconhecido, o mestre pode dar uma certa quantidade de PS para o mesmo. Cada magia pura ou habilidade mágica (exceto controle elemental) usada pela primeira vez concede ao personagem de 4 a 6 PS. Um personagem pode obter até 10 PS por sessão de acordo com o mestre. Todo personagem quando usando sua magia tem um grau de liberdade para descreve-la. Por exemplo, firani é a magia pura de fogo. Com ela o personagem realiza um ataque usando essa magia. Esse ataque é descrito pelo personagem, podendo ser uma simples bola de fogo até um redemoinho de chamas azuis. Quanto mais criativo for o personagem em relação ao uso de suas magias, mais o mestre deve recompensa-lo com PS. O personagem também pode ganhar PS de acordo com feitos magicos realizados durante a aventura. Encontrar com uma criatura magica, ou adentrar um local fortalecido magicamente, podem render PS extras para os jogadores. Quem decide isso é o mestre. 
+Os PS (pontos de spiritum) são usados unicamente para comprar e melhorar magias, e em casos raros, para comprar habilidades majoritariamente mágicas. Quanto mais PS um personagem tem, mais ele inovou ou se superou magicamente.
+
+\textbf{Ganho de PS durante o jogo:}
+\begin{itemize}
+    \item \textbf{Até 2 PS} por uso de magia de modo criativo
+    \item \textbf{Máximo 5 PS} por sessão
+    \item \textbf{Situações mágicas novas} ou excepcionais podem render PS extras
+    \item \textbf{Locais mágicos} (santuários, regiões energéticas) podem conceder PS
+\end{itemize}
+
+\textbf{Conversão de XP para PS:}
+2 PS ao custo de 1 XP com meditação em locais calmos. Locais especiais podem melhorar essa taxa de conversão.
+
+\textbf{Uso dos PS:}
+\begin{itemize}
+    \item \textbf{Comprar magias} e habilidades mágicas
+    \item \textbf{Reduzir custo} de magia: 10 PS por -1 PM (até metade do custo)
+    \item \textbf{Aumentar dano} de magia: 10 PS por +1 bônus
+\end{itemize} 
 
 
-Os PS são usados para diversas finalidades. A principal delas é comprar magias ou habilidades ligadas a magia, seja de classe ou habilidades da magia. Por exemplo, para o personagem comprar windam, que é a magia pura de vento, ele de gastar PS. Para comprar mãos de vento, habilidade relacionada a magia windan, ele deve gastar PS e também xpm. O personagem também pode gastar PS para abaixar o custo de uma magia pura ou aumentar seu dano. O custo de uma magia pode ser reduzida em 1 gastando-se 10 PS até o mínimo da metade do custo original. Seu bônus de dano pode ser extendido de acordo com a círculo da magia.
-
-Existem alguns lugares no mundo conhecidos como santuários. Nesses locais o jogador pode trocar 1 xpm por 2 PS atravéz de meditação. Existem outros efeitos especiais que variam de santuário para santuário, por exemplo, em raros santuários voce pode trocar 1 xpf por 1 PS, receber um bônus sempre que aumentar PM, trocar pontos de PV ou PF por PM, e vice versa. Geralmente nesses últimos casos o mestre deve limitar a quantidade de vezes que ele pode evoluir rapidamente. Essa limitação é anula ou mensal de acordo com um atributo mental. Alguns desses locais são protegidos e até mesmo procurados por ceder essa habilidade de evolução rápida.
+\textbf{Santuários:}
+Locais especiais onde o jogador pode trocar 1 XP por 2 PS através de meditação. Alguns santuários raros oferecem conversões ainda melhores (1 XP por 1 PS) ou outros benefícios especiais, mas geralmente com limitações mensais ou anuais.
 
 \section{Círculo da Magia}
 
@@ -135,9 +208,9 @@ Existem alguns lugares no mundo conhecidos como santuários. Nesses locais o jog
  
 	\item Primeiro círculo : Magias brancas e verdes podem ter seu bônus aumentado até +10, geralmente com valor inicial de +4. Magias negras e roxas podem ter seu bônus aumentado até +15, geralmente com valor inicial de +6. O límite de sabedoria usado para calculo de dano/cura é igual a 20. Geralmente têm TC 14, custo inicial de 6 PM (podendo ser reduzido até 3 com o uso de PS) e custo de 30 PS.
 
-	\item Segundo círculo : Magias brancas e verdes podem ter seu bônus aumentado até + 30, geralmente com valor inicial de +20. Magias negras e roxas podem ter seu bônus aumentado até + 40, geralmente com valor inicial de +25. O límite de sabedoria usado para calculo de dano/cura é igual a 30. Geralmente têm TC 18, custo inicial de 12 PM (podendo ser reduzido até 6 PM com o uso de PS) e custo de 60 PS.
+	\item Segundo círculo : Magias brancas e verdes podem ter seu bônus aumentado até + 30, geralmente com valor inicial de +20. Magias negras e roxas podem ter seu bônus aumentado até +40, geralmente com valor inicial de +25. O límite de sabedoria usado para calculo de dano/cura é igual a 30. Geralmente têm TC 18, custo inicial de 12 PM (podendo ser reduzido até 6 PM com o uso de PS) e custo de 60 PS.
 
-%	\item Terceiro círculo : Magias brancas e verdes podem ter seu bônus aumentado até + 50, geralmente com valor inicial de +40. Magias negras e roxas podem ter seu bônus aumentado até + 60, geralmente com valor inicial de +45. Sem o límite de sabedoria usado para calculo de dano/cura. Geralmente têm TC 20, custo inicial de 20 PM (podendo ser reduzido até 10 PM com o uso de PS) e custo de 100 PS.
+    \item Terceiro círculo : Magias brancas e verdes podem ter seu bônus aumentado até +50, geralmente com valor inicial de +40. Magias negras e roxas podem ter seu bônus aumentado até +60, geralmente com valor inicial de +45. Sem o límite de sabedoria usado para calculo de dano/cura. Geralmente têm TC 20, custo inicial de 20 PM (podendo ser reduzido até 10 PM com o uso de PS) e custo de 100 PS.
 
 
 \end{itemize}
